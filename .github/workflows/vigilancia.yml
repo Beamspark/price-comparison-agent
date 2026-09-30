@@ -2,9 +2,8 @@ name: Vigilancia de Precios Obramat Churra
 
 on:
   schedule:
-    # Se ejecuta de forma desatendida todos los días a las 07:00 UTC (09:00 hora peninsular)
+    # Se ejecuta a las 07:00 UTC (09:00 hora peninsular)
     - cron: '0 7 * * *'
-  # Permite lanzarlo manualmente en cualquier momento desde la web de GitHub
   workflow_dispatch:
 
 jobs:
