@@ -18,46 +18,36 @@ def evaluar_mercado_producto(item):
     competidores = item["competidores"]
 
     prompt = f"""
-    Actúa como un perito técnico y auditor de compras de ferretería industrial para Obramat Churra.
-    Audita si los competidores ofrecen EXACTAMENTE el mismo producto o si se trata de un falso positivo.
+    Actúa como perito técnico de compras industriales para Obramat Churra.
+    Audita qué competidores venden EXACTAMENTE el mismo producto técnico.
 
     PRODUCTO NUESTRO (Obramat Churra):
-    - Título: {nuestro['titulo']}
-    - Precio: {nuestro['precio_actual']} €
+    {json.dumps(nuestro, indent=2, ensure_ascii=False)}
 
-    COMPETIDORES A COMPARAR:
+    COMPETIDORES CANDIDATOS:
     {json.dumps(competidores, indent=2, ensure_ascii=False)}
 
-    REGLAS ESTRICTAS DE HOMOLOGACIÓN:
-    1. SEGMENTACIÓN DE GAMA (VITAL): 
-       - NO compares herramientas profesionales con gamas de bricolaje doméstico.
-       - En Bosch: 'GWS', 'GSR', 'GBH' o 'Bosch Professional' (gama azul) NUNCA es equivalente a 'UniversalGrind', 'EasyGrind', 'Advanced', 'PWS' o gamas verdes de bricolaje doméstico.
-       - En DeWalt / Stanley / Black&Decker: no mezclar gamas de uso profesional continuo con gamas de bricolaje ocasional.
-    2. POTENCIA Y CARACTERÍSTICAS TÉCNICAS:
-       - No homologues potencias diferentes (ej. 700W no es 750W).
-       - No homologues diámetros de disco o voltajes diferentes.
-    3. DOTACIÓN Y ACCESORIOS:
-       - Máquina con 2 baterías + maletín NO equivale a máquina sola (cuerpo sin batería).
+    REGLAS DE ORO OBLIGATORIAS:
+    1. PROHIBIDO comparar herramientas de gama doméstica/bricolaje con herramientas de gama profesional.
+       - Si nuestro producto es Bosch Azul (Professional / GWS / GSR / GBH) y el competidor es Bosch Verde (UniversalGrind / EasyGrind / AdvancedGrind / PWS), DEBES DESCARTARLO INMEDIATAMENTE como producto distinto.
+    2. POTENCIA Y MODELO:
+       - Si la potencia en vatios o el modelo no coincide exactamente (ej. 700W frente a 750W), NO es el mismo producto.
+    3. Para cada competidor:
+       - Solo compite si es 100% idéntico técnica y comercialmente.
+       - Si ninguno de los competidores más baratos es idéntico, NO se emite alerta.
 
-    Devuelve OBLIGATORIAMENTE un JSON con esta estructura exacta y nada más:
+    Devuelve ÚNICAMENTE un JSON con esta estructura exacta y nada más:
     {{
-      "es_mismo_producto": true,
       "alerta_competencia_mas_barata": false,
-      "competidor_lider": "Nombre del competidor más barato idéntico (o 'Ninguno')",
-      "tienda_competidor": "Ubicación del competidor",
+      "competidor_lider": "Nombre del competidor idéntico más barato (o 'Ninguno')",
+      "tienda_competidor": "Ubicación o 'Ninguna'",
       "precio_competidor_minimo": 0.0,
       "nuestro_precio_churra": {nuestro['precio_actual']},
       "diferencia_desfavorable_eur": 0.0,
       "porcentaje_descuento_competidor": 0.0,
       "precio_recomendado_contraataque": 0.0,
-      "resumen_tecnico": "Explicación detallada del descarte o de la coincidencia"
+      "resumen_tecnico": "Explica con precisión qué productos fueron descartados por gama/potencia y si alguno idéntico supera el precio."
     }}
-
-    CONDICIÓN OBLIGATORIA:
-    - Si el producto de la competencia es gama verde/bricolaje y el nuestro es profesional (azul), o difieren en potencia o dotación:
-      * 'es_mismo_producto' DEBE SER false.
-      * 'alerta_competencia_mas_barata' DEBE SER false.
-      * 'competidor_lider' DEBE SER 'Ninguno'.
     """
 
     payload = {
@@ -96,7 +86,8 @@ for item in catalogo:
             "analisis": resultado
         })
     elif resultado:
-        print(f"OK [Sin Alerta]: {item['nombre_interno']} -> {resultado['resumen_tecnico']}")
+        print(f"\nOK [Sin Alerta]: {item['nombre_interno']}")
+        print(f"Análisis: {resultado['resumen_tecnico']}")
 
 print("\n" + "="*60)
 print(f"INFORME FINAL: Se detectaron {len(alertas)} alertas de precios desfavorables.")

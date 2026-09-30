@@ -2,31 +2,43 @@
   {
     "id_referencia": "HERR-001",
     "categoria": "Herramienta Electroportátil",
-    "nombre_interno": "Amoladora Bosch GWS 750-115",
+    "nombre_interno": "Amoladora Bosch Profesional 115mm",
     "obramat": {
       "almacen": "Murcia Norte (Churra)",
-      "referencia_local": "10543210",
-      "titulo": "Amoladora angular BOSCH GWS 750-115 750W disco 115mm",
-      "precio_actual": 54.90
+      "referencia_local": "10865554",
+      "gama": "Bosch Professional (Azul)",
+      "modelo": "GWS 700",
+      "potencia": "700W",
+      "titulo": "Amoladora angular BOSCH Professional GWS 700 700W 115mm",
+      "precio_actual": 51.00
     },
     "competidores": [
       {
+        "empresa": "Brico Depôt",
+        "tienda": "Murcia / Online",
+        "gama": "Bosch Home & Garden (Verde / Bricolaje)",
+        "modelo": "UniversalGrind 750-115 (EAN 4059952603827)",
+        "potencia": "750W",
+        "titulo": "Amoladora angular 115 mm 750 W Bosch UniversalGrind",
+        "precio": 49.95
+      },
+      {
         "empresa": "Leroy Merlin",
         "tienda": "Murcia Nueva Condomina",
+        "gama": "Bosch Professional (Azul)",
+        "modelo": "GWS 750-115",
+        "potencia": "750W",
         "titulo": "Miniamoladora con cable Bosch Professional GWS 750 750W 115mm",
         "precio": 59.00
       },
       {
-        "empresa": "Brico Depôt",
-        "tienda": "Online / Regional",
-        "titulo": "Amoladora BOSCH GWS 750-115 750 W disco de 115 mm en caja",
-        "precio": 49.95
-      },
-      {
         "empresa": "Bauhaus",
         "tienda": "Online / Entrega Murcia",
-        "titulo": "Amoladora angular Bosch Professional GWS 750-115 con protector y empuñadura",
-        "precio": 52.50
+        "gama": "Bosch Professional (Azul)",
+        "modelo": "GWS 700-115",
+        "potencia": "700W",
+        "titulo": "Amoladora angular Bosch Professional GWS 700 disco 115 mm",
+        "precio": 53.50
       }
     ]
   },
@@ -37,6 +49,9 @@
     "obramat": {
       "almacen": "Murcia Norte (Churra)",
       "referencia_local": "10789456",
+      "gama": "DeWalt XR Profesional",
+      "modelo": "DCD796D2",
+      "potencia": "18V",
       "titulo": "Taladro percutor sin escobillas DEWALT 18V XR con 2 baterías 2.0Ah",
       "precio_actual": 189.00
     },
@@ -44,20 +59,11 @@
       {
         "empresa": "Leroy Merlin",
         "tienda": "Murcia Atalayas",
+        "gama": "DeWalt XR Profesional",
+        "modelo": "DCD796D2-QW",
+        "potencia": "18V",
         "titulo": "Taladro percutor a batería DEWALT DCD796D2-QW 18V con 2 baterías 2Ah y maletín",
         "precio": 195.00
-      },
-      {
-        "empresa": "Brico Depôt",
-        "tienda": "Online / Regional",
-        "titulo": "Taladro percutor DeWalt XR 18V Brushless con maletín TSTAK",
-        "precio": 192.00
-      },
-      {
-        "empresa": "Bauhaus",
-        "tienda": "Online / Entrega Murcia",
-        "titulo": "Taladro percutor con batería DeWalt DCD796D2 18 V Li-Ion 2 Ah",
-        "precio": 199.00
       }
     ]
   }
