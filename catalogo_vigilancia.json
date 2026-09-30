@@ -1,0 +1,64 @@
+[
+  {
+    "id_referencia": "HERR-001",
+    "categoria": "Herramienta Electroportátil",
+    "nombre_interno": "Amoladora Bosch GWS 750-115",
+    "obramat": {
+      "almacen": "Murcia Norte (Churra)",
+      "referencia_local": "10543210",
+      "titulo": "Amoladora angular BOSCH GWS 750-115 750W disco 115mm",
+      "precio_actual": 54.90
+    },
+    "competidores": [
+      {
+        "empresa": "Leroy Merlin",
+        "tienda": "Murcia Nueva Condomina",
+        "titulo": "Miniamoladora con cable Bosch Professional GWS 750 750W 115mm",
+        "precio": 59.00
+      },
+      {
+        "empresa": "Brico Depôt",
+        "tienda": "Online / Regional",
+        "titulo": "Amoladora BOSCH GWS 750-115 750 W disco de 115 mm en caja",
+        "precio": 49.95
+      },
+      {
+        "empresa": "Bauhaus",
+        "tienda": "Online / Entrega Murcia",
+        "titulo": "Amoladora angular Bosch Professional GWS 750-115 con protector y empuñadura",
+        "precio": 52.50
+      }
+    ]
+  },
+  {
+    "id_referencia": "HERR-002",
+    "categoria": "Herramienta Electroportátil",
+    "nombre_interno": "Taladro Percutor DeWalt DCD796D2 18V",
+    "obramat": {
+      "almacen": "Murcia Norte (Churra)",
+      "referencia_local": "10789456",
+      "titulo": "Taladro percutor sin escobillas DEWALT 18V XR con 2 baterías 2.0Ah",
+      "precio_actual": 189.00
+    },
+    "competidores": [
+      {
+        "empresa": "Leroy Merlin",
+        "tienda": "Murcia Atalayas",
+        "titulo": "Taladro percutor a batería DEWALT DCD796D2-QW 18V con 2 baterías 2Ah y maletín",
+        "precio": 195.00
+      },
+      {
+        "empresa": "Brico Depôt",
+        "tienda": "Online / Regional",
+        "titulo": "Taladro percutor DeWalt XR 18V Brushless con maletín TSTAK",
+        "precio": 192.00
+      },
+      {
+        "empresa": "Bauhaus",
+        "tienda": "Online / Entrega Murcia",
+        "titulo": "Taladro percutor con batería DeWalt DCD796D2 18 V Li-Ion 2 Ah",
+        "precio": 199.00
+      }
+    ]
+  }
+]
