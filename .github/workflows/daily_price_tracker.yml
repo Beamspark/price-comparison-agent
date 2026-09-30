@@ -1,0 +1,46 @@
+name: Daily Price Intelligence Tracker
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 06:30 UTC (08:30 hora peninsular)
+    - cron: '30 6 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions de GitHub
+
+jobs:
+  track-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite al runner hacer commit de los resultados en el repositorio
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install curl_cffi beautifulsoup4 python-dotenv
+
+      - name: Ejecutar Rastreo Diario de Precios
+        env:
+          LEROY_COOKIE: ${{ secrets.LEROY_COOKIE }}
+        run: |
+          python tracker_diario.py
+
+      - name: Persistir histórico y hacer Commit
+        run: |
+          git config --global user.name "Price Tracker Bot"
+          git config --global user.email "bot@price-tracker.github"
+          git add historico_precios.csv
+          if git diff --staged --quiet; then
+            echo "Sin variaciones de precio en el histórico."
+          else
+            git commit -m "chore(data): actualización diaria de precios [skip ci]"
+            git push
+          fi

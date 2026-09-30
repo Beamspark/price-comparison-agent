@@ -1,70 +1,202 @@
 [
   {
-    "id_referencia": "HERR-001",
-    "categoria": "Herramienta Electroportátil",
-    "nombre_interno": "Amoladora Bosch Profesional 115mm",
-    "obramat": {
-      "almacen": "Murcia Norte (Churra)",
-      "referencia_local": "10865554",
-      "gama": "Bosch Professional (Azul)",
-      "modelo": "GWS 700",
-      "potencia": "700W",
-      "titulo": "Amoladora angular BOSCH Professional GWS 700 700W 115mm",
-      "precio_actual": 51.00
+    "id_cruce": "SPEED-92 MAGNET",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "RUBI",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Tratan exactamente del mismo modelo base de cortador manual Rubi Speed-92 Magnet, pero Leroy Merlin incluye maletín de transporte en su dotación.",
+      "diferencia_dotacion": "El producto de Leroy Merlin incluye maletín de transporte, mientras que la ficha de Obramat no especifica explícitamente la inclusión del maletín."
     },
-    "competidores": [
-      {
-        "empresa": "Brico Depôt",
-        "tienda": "Murcia / Online",
-        "gama": "Bosch Home & Garden (Verde / Bricolaje)",
-        "modelo": "UniversalGrind 750-115 (EAN 4059952603827)",
-        "potencia": "750W",
-        "titulo": "Amoladora angular 115 mm 750 W Bosch UniversalGrind",
-        "precio": 49.95
-      },
-      {
-        "empresa": "Leroy Merlin",
-        "tienda": "Murcia Nueva Condomina",
-        "gama": "Bosch Professional (Azul)",
-        "modelo": "GWS 750-115",
-        "potencia": "750W",
-        "titulo": "Miniamoladora con cable Bosch Professional GWS 750 750W 115mm",
-        "precio": 59.00
-      },
-      {
-        "empresa": "Bauhaus",
-        "tienda": "Online / Entrega Murcia",
-        "gama": "Bosch Professional (Azul)",
-        "modelo": "GWS 700-115",
-        "potencia": "700W",
-        "titulo": "Amoladora angular Bosch Professional GWS 700 disco 115 mm",
-        "precio": 53.50
-      }
-    ]
+    "obramat": {
+      "referencia_local": "10669645",
+      "titulo": "CORTADOR DE AZULEJOS MANUAL SPEED-92 MAGNET RUBI 920MM",
+      "precio_churra": 299.0,
+      "ref_fabricante": "SPEED-92 MAGNET",
+      "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-speed-92-magnet-rubi-920mm-10669645.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Cortadora Manual RUBI SPEED-92 Magnet - Con Maleta",
+      "precio": 417.81,
+      "url": "https://www.leroymerlin.es/productos/cortadora-manual-rubi-speed-92-magnet-con-maleta-19674123.html",
+      "vendedor": "LEROY MERLIN"
+    }
   },
   {
-    "id_referencia": "HERR-002",
-    "categoria": "Herramienta Electroportátil",
-    "nombre_interno": "Taladro Percutor DeWalt DCD796D2 18V",
-    "obramat": {
-      "almacen": "Murcia Norte (Churra)",
-      "referencia_local": "10789456",
-      "gama": "DeWalt XR Profesional",
-      "modelo": "DCD796D2",
-      "potencia": "18V",
-      "titulo": "Taladro percutor sin escobillas DEWALT 18V XR con 2 baterías 2.0Ah",
-      "precio_actual": 189.00
+    "id_cruce": "GSB 12V-15",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo base (Bosch GSB 12V-15) con idéntica referencia de fabricante y dotación profesional con 2 baterías de 2 Ah y cargador.",
+      "diferencia_dotacion": "Ninguna"
     },
-    "competidores": [
-      {
-        "empresa": "Leroy Merlin",
-        "tienda": "Murcia Atalayas",
-        "gama": "DeWalt XR Profesional",
-        "modelo": "DCD796D2-QW",
-        "potencia": "18V",
-        "titulo": "Taladro percutor a batería DEWALT DCD796D2-QW 18V con 2 baterías 2Ah y maletín",
-        "precio": 195.00
-      }
-    ]
+    "obramat": {
+      "referencia_local": "12100364",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
+      "precio_churra": 152.0,
+      "ref_fabricante": "GSB 12V-15",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-12v-15-12v-2ah-12100364.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro percutor a batería BOSCH PROFESSIONAL 12V - 2 baterias - GSB 12V-15",
+      "precio": 161.0,
+      "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-12v-2-baterias-gsb-12v-15-82248796.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GA4530R",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo base (Makita GA4530R de 720W y 115mm) comercializado por el mismo fabricante.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10014640",
+      "titulo": "AMOLADORA MAKITA GA4530R 720W 115MM",
+      "precio_churra": 53.0,
+      "ref_fabricante": "GA4530R",
+      "url": "https://www.obramat.es/productos/amoladora-makita-ga4530r-720w-115mm-10014640.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora con cable MAKITA Ga4530R 720W disco 115mm",
+      "precio": 61.5,
+      "url": "https://www.leroymerlin.es/productos/amoladora-con-cable-makita-ga4530r-720w-disco-115mm-80139218.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "DCD796D2-QW",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "DEWALT",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos comparten exactamente la misma referencia de fabricante (DCD796D2-QW) y dotación completa con 2 baterías de 2Ah, cargador y maletín TSTAK.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10761086",
+      "titulo": "TALADRO PERCUTOR BATERÍA DEWALT DCD796D2-QW 18V BRUSHLESS 2AH",
+      "precio_churra": 177.0,
+      "ref_fabricante": "DCD796D2-QW",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-dewalt-dcd796d2-qw-18v-brushless-2ah-10761086.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro percutor a batería DEWALT 18V Brushless -  Incluye 2 baterías 18V XR Li-Ion 2Ah, cargador multi-voltaje XR, pinza para cinturón, retención magnética de puntas y maletín TSTAK - DCD796D2-QW",
+      "precio": 211.3,
+      "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-dewalt-18v-brushless-incluye-2-baterias-18v-xr-li-ion-2ah-cargador-multi-voltaje-xr-pinza-para-cinturon-retencion-magnetica-de-puntas-y-maletin-tstak-dcd796d2-qw-80139029.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "DF333DSAE",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos comparten exactamente la misma referencia de fabricante (DF333DSAE), tratándose del mismo taladro atornillador de 12V con maletín, cargador y dos baterías de 2Ah.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10806222",
+      "titulo": "TALADRO ATORNILLADOR DE BATERÍA 12V 2AH MAKITA DF333DSAE",
+      "precio_churra": 149.0,
+      "ref_fabricante": "DF333DSAE",
+      "url": "https://www.obramat.es/productos/taladro-atornillador-de-bateria-12v-2ah-makita-df333dsae-10806222.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro a batería MAKITA 12V - 2 baterias - cargador y maletín PVC. - DF333DSAE",
+      "precio": 163.95,
+      "url": "https://www.leroymerlin.es/productos/taladro-a-bateria-makita-12v-2-baterias-cargador-y-maletin-pvc-df333dsae-82039764.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GWS 20",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 90,
+      "justificacion": "Ambos productos corresponden a la misma amoladora Bosch Professional de 2000W y 230mm, pero el título de Obramat omite la referencia completa '230JH' y el código específico del fabricante.",
+      "diferencia_dotacion": "Es necesario verificar si el modelo de Obramat incluye maletín y la protección electrónica 'JH' (Restart Protection y Soft Start) especificada en la referencia de Leroy Merlin."
+    },
+    "obramat": {
+      "referencia_local": "10968013",
+      "titulo": "AMOLADORA BOSCH GWS 20 2000W 230W",
+      "precio_churra": 115.0,
+      "ref_fabricante": "GWS 20",
+      "url": "https://www.obramat.es/productos/amoladora-bosch-gws-20-2000w-230w-10968013.html"
+    },
+    "leroy_merlin": {
+      "titulo": "BOSCH AMOLADORA GWS 20-230JH 230 2000W.",
+      "precio": 232.63,
+      "url": "https://www.leroymerlin.es/productos/bosch-amoladora-gws-20-230jh-230-2000w-19387200.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "AMOLADORA-MAKITA-18V-115MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo de amoladora Makita DGA452Z de 18V y 115mm sin batería ni cargador.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10534482",
+      "titulo": "AMOLADORA BATERÍA MAKITA DGA 452Z 18V 115MM",
+      "precio_churra": 91.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-bateria-makita-dga-452z-18v-115mm-10534482.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora sin cable MAKITA Dga452Z 18v disco de 115mm. Sin batería y cargador.",
+      "precio": 111.0,
+      "url": "https://www.leroymerlin.es/productos/amoladora-sin-cable-makita-dga452z-18v-disco-de-115mm-sin-bateria-y-cargador-82040552.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "AMOLADORA-DEWALT-800W-115MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "DEWALT",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo de amoladora con cable DeWalt DWE4056-QS de 800W y 115mm.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "12086148",
+      "titulo": "AMOLADORA DEWALT DWE4056-QS 800W 115MM",
+      "precio_churra": 68.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-dewalt-dwe4056-qs-800w-115mm-12086148.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora angular DEWALT e4056 800W disco 115mm",
+      "precio": 74.99,
+      "url": "https://www.leroymerlin.es/productos/amoladora-angular-dewalt-e4056-800w-disco-115mm-80139206.html",
+      "vendedor": "LEROY MERLIN"
+    }
   }
 ]
