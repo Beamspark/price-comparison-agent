@@ -2,15 +2,14 @@ name: Daily Price Intelligence Tracker
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 06:30 UTC (08:30 hora peninsular)
     - cron: '30 6 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions de GitHub
+  workflow_dispatch:
 
 jobs:
   track-prices:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permite al runner hacer commit de los resultados en el repositorio
+      contents: write
 
     steps:
       - name: Descargar repositorio
@@ -27,9 +26,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install curl_cffi beautifulsoup4 python-dotenv
 
-      - name: Ejecutar Rastreo Diario de Precios
+      - name: Ejecutar Rastreo Diario y Notificador
         env:
           LEROY_COOKIE: ${{ secrets.LEROY_COOKIE }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
         run: |
           python tracker_diario.py
 
@@ -39,7 +43,7 @@ jobs:
           git config --global user.email "bot@price-tracker.github"
           git add historico_precios.csv
           if git diff --staged --quiet; then
-            echo "Sin variaciones de precio en el histórico."
+            echo "Sin variaciones en el histórico."
           else
             git commit -m "chore(data): actualización diaria de precios [skip ci]"
             git push

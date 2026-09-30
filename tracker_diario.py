@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 from curl_cffi import requests
 from dotenv import load_dotenv
 
+import notificador_email
+
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR / ".env")
 
@@ -159,6 +161,38 @@ def ejecutar_tracking():
     print("\n" + "=" * 75)
     print(f"Tracking finalizado. Registros volcados en '{HISTORICO_CSV.name}'.")
     print("=" * 75)
+# -------------------------------------------------------------
+    # PASO C: EVALUACIÓN DE ALERTAS Y ENVÍO POR CORREO
+    # -------------------------------------------------------------
+    alertas_precio = []
+    for r in resultados:
+        if r["estado"] == "LEROY MAS BARATO":
+            alertas_precio.append({
+                "marca": r["marca"],
+                "titulo": r["titulo"],
+                "precio_obramat": r["precio_obramat"],
+                "precio_competidor": r["precio_leroy"],
+                "diferencia_eur": r["diferencia_eur"],
+                "diferencia_pct": r["diferencia_pct"],
+                "url_obramat": r["url_obramat"],
+                "url_competidor": r["url_leroy"]
+            })
 
+    # Cargar si existen candidatos pendientes de revisión comercial
+    candidatos_revision = []
+    candidatos_file = BASE_DIR / "candidatos_revision.json"
+    if candidatos_file.exists():
+        try:
+            with open(candidatos_file, "r", encoding="utf-8") as f:
+                candidatos_revision = json.load(f)
+        except Exception:
+            pass
+
+    if alertas_precio or candidatos_revision:
+        print(f"\n[Alerta]: Se detectaron {len(alertas_precio)} alertas de precio y {len(candidatos_revision)} candidatos.")
+        notificador_email.enviar_email(alertas_precio, candidatos_revision)
+    else:
+        print("\n[OK]: Competitividad asegurada. Sin alertas de precio activas.")    
+        
 if __name__ == "__main__":
     ejecutar_tracking()
