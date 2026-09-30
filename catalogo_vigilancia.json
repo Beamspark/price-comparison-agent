@@ -198,5 +198,55 @@
       "url": "https://www.leroymerlin.es/productos/amoladora-angular-dewalt-e4056-800w-disco-115mm-80139206.html",
       "vendedor": "LEROY MERLIN"
     }
+  },
+  {
+    "id_cruce": "GSB 16 RE",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Tratan exactamente del mismo modelo base (Bosch GSB 16 RE / GSB 16 Professional), pero el producto de Leroy Merlin incluye un set de 7 brocas para mampostería no especificado en la oferta básica de Obramat.",
+      "diferencia_dotacion": "Leroy Merlin incluye un juego de 7 brocas para mampostería; Obramat incluye la dotación estándar de fábrica (maletín, empuñadura y tope de profundidad)."
+    },
+    "obramat": {
+      "referencia_local": "12096935",
+      "titulo": "TALADRO PERCUTOR BOSCH GSB 16 RE 750W",
+      "precio_churra": 157.0,
+      "ref_fabricante": "GSB 16 RE",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bosch-gsb-16-re-750w-12096935.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro con cable BOSCH PROFESSIONAL de 750W- Incluye 7 brocas para mampostería. Portabrocas de sujeción rápida 13mm. Tope de profundidad 210mm. Empuñadura adicional. Maletín - GSB 16 Professional",
+      "precio": 165.0,
+      "url": "https://www.leroymerlin.es/productos/taladro-con-cable-bosch-professional-de-750w-incluye-7-brocas-para-mamposteria-portabrocas-de-sujecion-rapida-13mm-tope-de-profundidad-210mm-empunadura-adicional-maletin-gsb-16-professional-19387060.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GA9020R",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Se trata exactamente del mismo modelo de amoladora Makita GA9020R con idéntica potencia y características técnicas en ambos distribuidores.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10976791",
+      "titulo": "AMOLADORA MAKITA GA9020R 2200W 230MM",
+      "precio_churra": 117.0,
+      "ref_fabricante": "GA9020R",
+      "url": "https://www.obramat.es/productos/amoladora-makita-ga9020r-2200w-230mm-10976791.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora de ángulo con cable MAKITA Ga9020R 2200W disco 230mm",
+      "precio": 119.0,
+      "url": "https://www.leroymerlin.es/productos/amoladora-de-angulo-con-cable-makita-ga9020r-2200w-disco-230mm-43851066.html",
+      "vendedor": "LEROY MERLIN"
+    }
   }
 ]

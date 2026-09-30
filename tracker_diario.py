@@ -63,7 +63,6 @@ def extraer_precio_leroy(url: str):
 
 def extraer_precio_obramat(url: str):
     try:
-        # Obramat Murcia Churra context cookie si aplica
         headers_obramat = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0",
             "Cookie": "customer_context=42" # Store 42: Murcia-Churra
@@ -73,12 +72,10 @@ def extraer_precio_obramat(url: str):
             return None
         soup = BeautifulSoup(r.text, "html.parser")
         
-        # Meta o etiquetas de microdatos en Obramat
         meta = soup.find("meta", property="product:price:amount")
         if meta and meta.get("content"):
             return float(meta["content"].replace(",", "."))
             
-        # Regex en contenido si el precio viene formateado
         match = re.search(r'data-qa="product-price"[^>]*>([\d\.,]+)\s*€', r.text)
         if match:
             return float(match.group(1).replace(".", "").replace(",", "."))
@@ -102,11 +99,11 @@ def ejecutar_tracking():
     resultados = []
     
     for item in catalogo:
-        # GUARDIA DE SEGURIDAD: Solo trackear productos estrictamente homologados
         veredicto = item.get("veredicto_homologacion", "")
         if "HOMOLOGADO" not in veredicto:
             continue
 
+        ref_om = str(item.get("obramat", {}).get("referencia_local", "") or item.get("id_obramat", ""))
         marca = item.get("marca", "")
         titulo_obramat = item.get("obramat", {}).get("titulo", "")[:40]
         url_obramat = item.get("obramat", {}).get("url")
@@ -130,11 +127,12 @@ def ejecutar_tracking():
             else:
                 estado = "PRECIO EMPATADO"
 
-        print(f"[{marca}] {titulo_obramat}...")
+        print(f"[{ref_om}] [{marca}] {titulo_obramat}...")
         print(f"   Obramat: {precio_ob} € | Leroy: {precio_lm} € | Dif: {dif_eur} € ({estado})")
 
         resultados.append({
             "fecha": datetime.now().strftime("%Y-%m-%d"),
+            "id_obramat": ref_om,
             "marca": marca,
             "titulo": titulo_obramat,
             "precio_obramat": precio_ob,
@@ -146,11 +144,11 @@ def ejecutar_tracking():
             "url_leroy": url_leroy
         })
 
-    # Guardar en histórico CSV
+    # Guardar en histórico CSV con id_obramat
     es_nuevo = not HISTORICO_CSV.exists()
     with open(HISTORICO_CSV, "a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=[
-            "fecha", "marca", "titulo", "precio_obramat", "precio_leroy",
+            "fecha", "id_obramat", "marca", "titulo", "precio_obramat", "precio_leroy",
             "diferencia_eur", "diferencia_pct", "estado", "url_obramat", "url_leroy"
         ])
         if es_nuevo:
@@ -161,13 +159,15 @@ def ejecutar_tracking():
     print("\n" + "=" * 75)
     print(f"Tracking finalizado. Registros volcados en '{HISTORICO_CSV.name}'.")
     print("=" * 75)
-# -------------------------------------------------------------
-    # PASO C: EVALUACIÓN DE ALERTAS Y ENVÍO POR CORREO
+
+    # -------------------------------------------------------------
+    # EVALUACIÓN DE ALERTAS Y ENVÍO POR CORREO
     # -------------------------------------------------------------
     alertas_precio = []
     for r in resultados:
         if r["estado"] == "LEROY MAS BARATO":
             alertas_precio.append({
+                "id_obramat": r["id_obramat"],
                 "marca": r["marca"],
                 "titulo": r["titulo"],
                 "precio_obramat": r["precio_obramat"],
@@ -178,7 +178,6 @@ def ejecutar_tracking():
                 "url_competidor": r["url_leroy"]
             })
 
-    # Cargar si existen candidatos pendientes de revisión comercial
     candidatos_revision = []
     candidatos_file = BASE_DIR / "candidatos_revision.json"
     if candidatos_file.exists():
@@ -189,10 +188,14 @@ def ejecutar_tracking():
             pass
 
     if alertas_precio or candidatos_revision:
-        print(f"\n[Alerta]: Se detectaron {len(alertas_precio)} alertas de precio y {len(candidatos_revision)} candidatos.")
-        notificador_email.enviar_email(alertas_precio, candidatos_revision)
+        print(f"\n[Alerta]: Se detectaron {len(alertas_precio)} alertas y {len(candidatos_revision)} candidatos.")
+        notificador_email.enviar_email(
+            alertas_precio=alertas_precio,
+            candidatos_revision=candidatos_revision,
+            productos_homologados=catalogo
+        )
     else:
-        print("\n[OK]: Competitividad asegurada. Sin alertas de precio activas.")    
-        
+        print("\n[OK]: Competitividad asegurada. Sin alertas de precio activas.")
+
 if __name__ == "__main__":
     ejecutar_tracking()
