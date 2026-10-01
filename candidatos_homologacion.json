@@ -1,0 +1,467 @@
+[
+  {
+    "id_cruce": "CRETA SOL",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "GENERGY",
+    "obramat": {
+      "referencia_local": "25021978",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7500W GENERGY CRETA SOL",
+      "precio_churra": 1169.0,
+      "ref_fabricante": "CRETA SOL",
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7500w-genergy-creta-sol-25021978.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-para-apoyo-en-fotovoltaica-genergy-creta-sol-inverter-con-7500-w-de-potencia-maxima-y-hasta-14-horas-de-autonomia-82832388.html"
+    }
+  },
+  {
+    "id_cruce": "CORTADORA-RUBI",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "RUBI",
+    "obramat": {
+      "referencia_local": "25120367",
+      "titulo": "CORTADOR CERAMICA MANUAL RCH-1600 RUBI",
+      "precio_churra": 729.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/cortador-ceramica-manual-rch-1600-rubi-25120367.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-dv-200-1000-230v-50hz-19282473.html"
+    }
+  },
+  {
+    "id_cruce": "CORTADORA-RUBI",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "RUBI",
+    "obramat": {
+      "referencia_local": "25120367",
+      "titulo": "CORTADOR CERAMICA MANUAL RCH-1600 RUBI",
+      "precio_churra": 729.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/cortador-ceramica-manual-rch-1600-rubi-25120367.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-nd-180-smart-230v-50hz-16093084.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR-GENERGY-4600W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "GENERGY",
+    "obramat": {
+      "referencia_local": "25096156",
+      "titulo": "GENERADOR ELÉCTRICO INVERTER GASOLINA 4600W GENERGY FEROE ARRANQUE ELECTRICO",
+      "precio_churra": 699.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-inverter-gasolina-4600w-genergy-feroe-arranque-electrico-25096156.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-inverter-gasolina-genergy-feroe-4600w-de-potencia-maxima-arranque-electrico-82220595.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR-GENERGY-7000W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "GENERGY",
+    "obramat": {
+      "referencia_local": "10965262",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
+      "precio_churra": 629.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-astun-7000w-de-potencia-maxima-regulacion-de-voltaje-avr-y-arranque-electrico-82354367.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR-GENERGY-7000W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "GENERGY",
+    "obramat": {
+      "referencia_local": "10965262",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
+      "precio_churra": 629.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-mulhacen-7000w-de-potencia-maxima-arranque-electrico-82091738.html"
+    }
+  },
+  {
+    "id_cruce": "CORTADORA-RUBI",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "RUBI",
+    "obramat": {
+      "referencia_local": "25063264",
+      "titulo": "CORTADOR DE AZULEJOS MANUAL 360CM SLIM CUTTER G2 RUBI",
+      "precio_churra": 425.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-360cm-slim-cutter-g2-rubi-25063264.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-dv-200-1000-230v-50hz-19282473.html"
+    }
+  },
+  {
+    "id_cruce": "CORTADORA-RUBI",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "RUBI",
+    "obramat": {
+      "referencia_local": "25063264",
+      "titulo": "CORTADOR DE AZULEJOS MANUAL 360CM SLIM CUTTER G2 RUBI",
+      "precio_churra": 425.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-360cm-slim-cutter-g2-rubi-25063264.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-nd-180-smart-230v-50hz-16093084.html"
+    }
+  },
+  {
+    "id_cruce": "GSB 18V-45",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "25089127",
+      "titulo": "PACK 18V TALADRO PERCUTOR BRUSHLESS GSB 18V-45  + AMOLADORA 125MM BRUSHLESS  GWS 18V-8 BOSCH",
+      "precio_churra": 339.0,
+      "ref_fabricante": "GSB 18V-45",
+      "url": "https://www.obramat.es/productos/pack-18v-taladro-percutor-brushless-gsb-18v-45-amoladora-125mm-brushless-gws-18v-8-bosch-25089127.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-18v-brushless-2-baterias-1-x-4-0-ah-1-x-2-0-ah-incluye-set-brocas-y-puntas-gsb-18v-45-85239365.html"
+    }
+  },
+  {
+    "id_cruce": "SPEED-92 MAGNET",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "RUBI",
+    "obramat": {
+      "referencia_local": "10669645",
+      "titulo": "CORTADOR DE AZULEJOS MANUAL SPEED-92 MAGNET RUBI 920MM",
+      "precio_churra": 299.0,
+      "ref_fabricante": "SPEED-92 MAGNET",
+      "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-speed-92-magnet-rubi-920mm-10669645.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-manual-rubi-speed-92-magnet-con-maleta-19674123.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR-GENERGY-3300W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "GENERGY",
+    "obramat": {
+      "referencia_local": "10965241",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
+      "precio_churra": 299.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-profesional-gasolina-genergy-jaca-3300w-de-potencia-maxima-arranque-electrico-sistema-de-regulacion-electronica-82354365.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR-GENERGY-3300W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "GENERGY",
+    "obramat": {
+      "referencia_local": "10965241",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
+      "precio_churra": 299.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-estrela-3300w-de-potencia-maxima-arranque-electrico-autonomia-de-hasta-14-horas-82075479.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR-GENERGY-2800W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "GENERGY",
+    "obramat": {
+      "referencia_local": "10965206",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 2800W GENERGY TURBO 2800",
+      "precio_churra": 279.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-2800w-genergy-turbo-2800-10965206.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-veleta-2800w-de-potencia-maxima-regulacion-electronica-avr-y-arranque-electrico-82354364.html"
+    }
+  },
+  {
+    "id_cruce": "DCF887D2",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "DEWALT",
+    "obramat": {
+      "referencia_local": "12095394",
+      "titulo": "ATORNILLADOR DE IMPACTO BRUSHLESS 205NM 18V 2AH DEWALT DCF887D2",
+      "precio_churra": 221.0,
+      "ref_fabricante": "DCF887D2",
+      "url": "https://www.obramat.es/productos/atornillador-de-impacto-brushless-205nm-18v-2ah-dewalt-dcf887d2-12095394.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/dewalt-dcf887d2-qw-atornillador-impacto-sin-escobillas-xr-18v-1-4-205nm-con-2-baterias-y-maletin-tstak-80139045.html"
+    }
+  },
+  {
+    "id_cruce": "DCD796D2-QW",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "DEWALT",
+    "obramat": {
+      "referencia_local": "10761086",
+      "titulo": "TALADRO PERCUTOR BATERÍA DEWALT DCD796D2-QW 18V BRUSHLESS 2AH",
+      "precio_churra": 177.0,
+      "ref_fabricante": "DCD796D2-QW",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-dewalt-dcd796d2-qw-18v-brushless-2ah-10761086.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-dewalt-18v-brushless-incluye-2-baterias-18v-xr-li-ion-2ah-cargador-multi-voltaje-xr-pinza-para-cinturon-retencion-magnetica-de-puntas-y-maletin-tstak-dcd796d2-qw-80139029.html"
+    }
+  },
+  {
+    "id_cruce": "GSB 16 RE",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "12096935",
+      "titulo": "TALADRO PERCUTOR BOSCH GSB 16 RE 750W",
+      "precio_churra": 157.0,
+      "ref_fabricante": "GSB 16 RE",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bosch-gsb-16-re-750w-12096935.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-con-cable-bosch-professional-de-750w-incluye-7-brocas-para-mamposteria-portabrocas-de-sujecion-rapida-13mm-tope-de-profundidad-210mm-empunadura-adicional-maletin-gsb-16-professional-19387060.html"
+    }
+  },
+  {
+    "id_cruce": "GSB 16 RE",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "12096935",
+      "titulo": "TALADRO PERCUTOR BOSCH GSB 16 RE 750W",
+      "precio_churra": 157.0,
+      "ref_fabricante": "GSB 16 RE",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bosch-gsb-16-re-750w-12096935.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-bosch-professional-750w-incluye-empunadura-adicional-maletin-de-transporte-tope-de-profundidad-de-210-mm-portabrocas-de-sujecion-rapida-de-13-mm-gsb-16-re-80136757.html"
+    }
+  },
+  {
+    "id_cruce": "GSB 12V-15",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "12100364",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
+      "precio_churra": 152.0,
+      "ref_fabricante": "GSB 12V-15",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-12v-15-12v-2ah-12100364.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-12v-2-baterias-gsb-12v-15-82248796.html"
+    }
+  },
+  {
+    "id_cruce": "GSB 12V-15",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "12100364",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
+      "precio_churra": 152.0,
+      "ref_fabricante": "GSB 12V-15",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-12v-15-12v-2ah-12100364.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-12v-brushless-sin-bateria-1-2-bandeja-para-l-boxx-para-herramienta-y-cargador-gsb-12v-15-professional-36611820.html"
+    }
+  },
+  {
+    "id_cruce": "GSB 12V-15",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "12100364",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
+      "precio_churra": 152.0,
+      "ref_fabricante": "GSB 12V-15",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-12v-15-12v-2ah-12100364.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-bosch-professional-incluye-funda-de-cinturon-maletin-l-boxx-102-1-2-bandeja-para-l-boxx-para-herramienta-y-cargador-1-2-bandeja-de-l-boxx-para-accesorios-gsb-12v-15-82071124.html"
+    }
+  },
+  {
+    "id_cruce": "DF333DSAE",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "obramat": {
+      "referencia_local": "10806222",
+      "titulo": "TALADRO ATORNILLADOR DE BATERÍA 12V 2AH MAKITA DF333DSAE",
+      "precio_churra": 149.0,
+      "ref_fabricante": "DF333DSAE",
+      "url": "https://www.obramat.es/productos/taladro-atornillador-de-bateria-12v-2ah-makita-df333dsae-10806222.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-a-bateria-makita-12v-2-baterias-cargador-y-maletin-pvc-df333dsae-82039764.html"
+    }
+  },
+  {
+    "id_cruce": "GA9020R",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "obramat": {
+      "referencia_local": "10976791",
+      "titulo": "AMOLADORA MAKITA GA9020R 2200W 230MM",
+      "precio_churra": 117.0,
+      "ref_fabricante": "GA9020R",
+      "url": "https://www.obramat.es/productos/amoladora-makita-ga9020r-2200w-230mm-10976791.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-de-angulo-con-cable-makita-ga9020r-2200w-disco-230mm-43851066.html"
+    }
+  },
+  {
+    "id_cruce": "GWS 20",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "10968013",
+      "titulo": "AMOLADORA BOSCH GWS 20 2000W 230W",
+      "precio_churra": 115.0,
+      "ref_fabricante": "GWS 20",
+      "url": "https://www.obramat.es/productos/amoladora-bosch-gws-20-2000w-230w-10968013.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/bosch-amoladora-gws-20-230jh-230-2000w-19387200.html"
+    }
+  },
+  {
+    "id_cruce": "TALADRO-500W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "OTRA / MARCA BLANCA",
+    "obramat": {
+      "referencia_local": "25025618",
+      "titulo": "TALADRO PERCUTOR 500W",
+      "precio_churra": 95.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/taladro-percutor-500w-25025618.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-con-cable-black-decker-500w-beh200-qs-82126874.html"
+    }
+  },
+  {
+    "id_cruce": "TALADRO-500W",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "OTRA / MARCA BLANCA",
+    "obramat": {
+      "referencia_local": "25025618",
+      "titulo": "TALADRO PERCUTOR 500W",
+      "precio_churra": 95.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/taladro-percutor-500w-25025618.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-de-columna-scheppach-13mm-500w-80159569.html"
+    }
+  },
+  {
+    "id_cruce": "AMOLADORA-MAKITA-18V-115MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "MAKITA",
+    "obramat": {
+      "referencia_local": "10534482",
+      "titulo": "AMOLADORA BATERÍA MAKITA DGA 452Z 18V 115MM",
+      "precio_churra": 91.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-bateria-makita-dga-452z-18v-115mm-10534482.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-sin-cable-makita-dga454z-18v-disco-de-115mm-sin-bateria-y-cargador-82389549.html"
+    }
+  },
+  {
+    "id_cruce": "AMOLADORA-MAKITA-18V-115MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "MAKITA",
+    "obramat": {
+      "referencia_local": "10534482",
+      "titulo": "AMOLADORA BATERÍA MAKITA DGA 452Z 18V 115MM",
+      "precio_churra": 91.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-bateria-makita-dga-452z-18v-115mm-10534482.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-sin-cable-makita-dga452z-18v-disco-de-115mm-sin-bateria-y-cargador-82040552.html"
+    }
+  },
+  {
+    "id_cruce": "AMOLADORA-MAKITA-840W-125MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "MAKITA",
+    "obramat": {
+      "referencia_local": "25027115",
+      "titulo": "AMOLADORA MAKITA 9558HNR 840W 125MM",
+      "precio_churra": 71.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-makita-9558hnr-840w-125mm-25027115.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-makita-840w-disco-125mm-82733190.html"
+    }
+  },
+  {
+    "id_cruce": "AMOLADORA-DEWALT-800W-115MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "DEWALT",
+    "obramat": {
+      "referencia_local": "12086148",
+      "titulo": "AMOLADORA DEWALT DWE4056-QS 800W 115MM",
+      "precio_churra": 68.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-dewalt-dwe4056-qs-800w-115mm-12086148.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-angular-dewalt-e4056-800w-disco-115mm-80139206.html"
+    }
+  },
+  {
+    "id_cruce": "GA4530R",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "obramat": {
+      "referencia_local": "10014640",
+      "titulo": "AMOLADORA MAKITA GA4530R 720W 115MM",
+      "precio_churra": 53.0,
+      "ref_fabricante": "GA4530R",
+      "url": "https://www.obramat.es/productos/amoladora-makita-ga4530r-720w-115mm-10014640.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-con-cable-makita-ga4530r-720w-disco-115mm-80139218.html"
+    }
+  },
+  {
+    "id_cruce": "GWS 700W",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "obramat": {
+      "referencia_local": "10865554",
+      "titulo": "AMOLADORA BOSCH GWS 700W 115MM",
+      "precio_churra": 51.0,
+      "ref_fabricante": "GWS 700W",
+      "url": "https://www.obramat.es/productos/amoladora-bosch-gws-700w-115mm-10865554.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-con-cable-bosch-professional-gws750-750w-115mm-82568473.html"
+    }
+  }
+]

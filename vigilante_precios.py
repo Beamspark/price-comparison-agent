@@ -19,7 +19,7 @@ def evaluar_mercado_producto(item):
 
     prompt = f"""
     Actúa como perito técnico de compras industriales para Obramat Churra.
-    Audita qué competidores venden EXACTAMENTE el mismo producto técnico.
+    Audita qué competidores venden el producto equivalente o sustitutivo directo a efectos de mercado.
 
     PRODUCTO NUESTRO (Obramat Churra):
     {json.dumps(nuestro, indent=2, ensure_ascii=False)}
@@ -27,26 +27,33 @@ def evaluar_mercado_producto(item):
     COMPETIDORES CANDIDATOS:
     {json.dumps(competidores, indent=2, ensure_ascii=False)}
 
-    REGLAS DE ORO OBLIGATORIAS:
-    1. PROHIBIDO comparar herramientas de gama doméstica/bricolaje con herramientas de gama profesional.
-       - Si nuestro producto es Bosch Azul (Professional / GWS / GSR / GBH) y el competidor es Bosch Verde (UniversalGrind / EasyGrind / AdvancedGrind / PWS), DEBES DESCARTARLO INMEDIATAMENTE como producto distinto.
-    2. POTENCIA Y MODELO:
-       - Si la potencia en vatios o el modelo no coincide exactamente (ej. 700W frente a 750W), NO es el mismo producto.
-    3. Para cada competidor:
-       - Solo compite si es 100% idéntico técnica y comercialmente.
-       - Si ninguno de los competidores más baratos es idéntico, NO se emite alerta.
+    CRITERIOS DE HOMOLOGACIÓN Y EQUIVALENCIA COMERCIAL:
+    1. SEGMENTO DE GAMA (FILTRO ESTRICTO):
+       - PROHIBIDO equiparar herramientas de bricolaje doméstico con gamas profesionales.
+       - En Bosch: Gama Profesional/Azul (GWS, GSR, GBH) NUNCA equivale a Bricolaje/Verde (UniversalGrind, Easy, PWS).
+       - En DeWalt/Stanley: No mezclar líneas de uso industrial continuo con bricolaje ocasional.
+
+    2. TOLERANCIA TÉCNICA DE SUSTITUCIÓN (REGLA DE MERCADO):
+       - Dentro de la MISMA gama profesional (ej. Bosch Professional azul de 115mm):
+         * Se consideran productos competidores directos y sustitutivos los modelos con variaciones menores de potencia de actualización de catálogo (por ejemplo, GWS 700W y GWS 750W con disco de 115mm son directamente comparables en precio de mostrador).
+         * NO homologar saltos de potencia grandes (ej. 700W vs 1000W o más) ni cambios de diámetro de disco (115mm vs 125mm).
+         * NO homologar herramientas con cable frente a herramientas a batería.
+
+    3. DOTACIÓN Y ACCESORIOS:
+       - Máquina básica en caja de cartón solo compite contra máquina básica.
+       - No comparar una máquina sola frente a un set con maletín y accesorios de alto valor a menos que aún con maletín sea más barata.
 
     Devuelve ÚNICAMENTE un JSON con esta estructura exacta y nada más:
     {{
       "alerta_competencia_mas_barata": false,
-      "competidor_lider": "Nombre del competidor idéntico más barato (o 'Ninguno')",
-      "tienda_competidor": "Ubicación o 'Ninguna'",
+      "competidor_lider": "Nombre del competidor idéntico o sustitutivo directo más barato (o 'Ninguno')",
+      "tienda_competidor": "Ubicación o canal del competidor",
       "precio_competidor_minimo": 0.0,
       "nuestro_precio_churra": {nuestro['precio_actual']},
       "diferencia_desfavorable_eur": 0.0,
       "porcentaje_descuento_competidor": 0.0,
       "precio_recomendado_contraataque": 0.0,
-      "resumen_tecnico": "Explica con precisión qué productos fueron descartados por gama/potencia y si alguno idéntico supera el precio."
+      "resumen_tecnico": "Explica la validación: descarta bricolaje, reconoce sustitutos válidos de potencia (ej. 700W-750W) y analiza el precio."
     }}
     """
 
