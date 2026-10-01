@@ -248,5 +248,135 @@
       "url": "https://www.leroymerlin.es/productos/amoladora-de-angulo-con-cable-makita-ga9020r-2200w-disco-230mm-43851066.html",
       "vendedor": "LEROY MERLIN"
     }
+  },
+  {
+    "id_cruce": "GSB 18V-110",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Se trata del mismo modelo base de taladro percutor Bosch GSB 18V-110, pero difieren significativamente en su dotación de accesorios y suministro de energía.",
+      "diferencia_dotacion": "El producto de Leroy Merlin incluye un kit completo con 2 baterías ProCore de 4.0 Ah, cargador GAL 18V-40 y maletín L-Boxx, mientras que el producto de Obramat a ese precio corresponde a la versión 'solo' (únicamente el cuerpo de la máquina sin baterías ni cargador)."
+    },
+    "obramat": {
+      "id_obramat": "25064386",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-110 18V BRUSHLESS",
+      "precio": 220.0,
+      "ref_fabricante": "GSB 18V-110",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-18v-110-18v-brushless-25064386.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro percutor a batería BOSCH PROFESSIONAL 18V Brushless - 2 baterias - GSB 18V-110 C Professional",
+      "precio": 453.0,
+      "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-18v-brushless-2-baterias-gsb-18v-110-c-professional-82864884.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "DWE305PK",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "DEWALT",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Se trata del mismo modelo de sierra de sable de 1100W de DeWalt, donde el sufijo QS únicamente hace referencia a la distribución del mercado europeo.",
+      "diferencia_dotacion": "Ninguna, ambos productos corresponden a la versión con cable que incluye maletín de transporte (K)."
+    },
+    "obramat": {
+      "id_obramat": "10789471",
+      "titulo": "SIERRA SABLE 1100W DEWALT DWE305PK",
+      "precio": 174.0,
+      "ref_fabricante": "DWE305PK",
+      "url": "https://www.obramat.es/productos/sierra-sable-1100w-dewalt-dwe305pk-10789471.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Sierra sable DEWALT - Potencia 1100 W - 2800 RPM - DWE305PK-QS",
+      "precio": 187.0,
+      "url": "https://www.leroymerlin.es/productos/sierra-sable-dewalt-potencia-1100-w-2800-rpm-dwe305pk-qs-18735697.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_7000W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "marca": "GENÉRICO",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Ambos generadores comparten el mismo fabricante, potencia máxima de 7000W, regulación de voltaje AVR y arranque eléctrico, pero presentan una gran diferencia en su autonomía de trabajo.",
+      "diferencia_dotacion": "El modelo Astun de Leroy Merlin tiene un depósito de combustible muy reducido de 6 litros (autonomía de 2.5 horas), mientras que el modelo Turbo 7000E de Obramat cuenta con un depósito de gran capacidad de 28 litros para jornadas de trabajo prolongadas."
+    },
+    "obramat": {
+      "id_obramat": "10965262",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
+      "precio": 645.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Generador gasolina GENERGY ASTUN - 7000W de potencia máxima - Regulación de voltaje AVR y arranque eléctrico",
+      "precio": 1279.0,
+      "url": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-astun-7000w-de-potencia-maxima-regulacion-de-voltaje-avr-y-arranque-electrico-82354367.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_5500W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "marca": "GENÉRICO",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 95,
+      "justificacion": "Ambos generadores ofrecen idéntica potencia de 5500W, sistema de regulación AVR y motorización de gasolina de 4 tiempos equivalente para uso profesional.",
+      "diferencia_dotacion": "Variación en la marca del fabricante (Genergy vs Vito) manteniendo especificaciones técnicas críticas equivalentes."
+    },
+    "obramat": {
+      "id_obramat": "10965255",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 5500W GENERGY TURBO 5500E",
+      "precio": 539.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-5500w-genergy-turbo-5500e-10965255.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Generador 6,5 KVA 5500W 4T motor de gasolina 10h de autonomía 13 CV monofásico 389cm³ AVR VITO",
+      "precio": 795.0,
+      "url": "https://www.leroymerlin.es/productos/generador-6-5-kva-5500w-4t-motor-de-gasolina-10h-de-autonomia-13-cv-monofasico-389cm3-avr-vito-81867518.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_3300W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "marca": "GENÉRICO",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Ambos generadores ofrecen 3300W de potencia máxima, arranque eléctrico y regulación electrónica de voltaje (AVR), pero presentan diferencias críticas en su autonomía y diseño de chasis.",
+      "diferencia_dotacion": "El modelo Jaca de Leroy Merlin tiene un depósito de combustible extremadamente reducido de 2.6 litros (solo 3 horas de autonomía) y un peso de 62 kg, mientras que el Turbo 3300E de Obramat ofrece un depósito estándar de 15 litros para mayor autonomía de trabajo continuo."
+    },
+    "obramat": {
+      "id_obramat": "10965241",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
+      "precio": 299.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Generador profesional gasolina GENERGY JACA - 3300W de potencia máxima - Arranque eléctrico, sistema de regulación electrónica",
+      "precio": 585.0,
+      "url": "https://www.leroymerlin.es/productos/generador-profesional-gasolina-genergy-jaca-3300w-de-potencia-maxima-arranque-electrico-sistema-de-regulacion-electronica-82354365.html",
+      "vendedor": "LEROY MERLIN"
+    }
   }
 ]
