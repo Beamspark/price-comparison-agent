@@ -1,79 +1,98 @@
 [
   {
+    "id_obramat": "25037755",
     "referencia_local": "25037755",
-    "marca": "HUAWEI",
-    "codigo_fabricante": "SUN2000L-100KTL-M2",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR DE RED TRIFÁSICO 100KW HUAWEI SUN2000L-100KTL-M2",
     "precio_churra": 4627.0,
     "url": "https://www.obramat.es/productos/inversor-de-red-trifasico-100kw-huawei-sun2000l-100ktl-m2-25037755.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25065111",
+    "referencia_local": "25065111",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "INVERSOR DE RED HÍBRIDO TRIFÁSICO 25KW HUAWEI SUN2000-25K-MB0",
+    "precio_churra": 2652.0,
+    "url": "https://www.obramat.es/productos/inversor-de-red-hibrido-trifasico-25kw-huawei-sun2000-25k-mb0-25065111.html",
+    "subfamilia": "Maquinaria - Generadores Eléctricos"
+  },
+  {
+    "id_obramat": "10973900",
     "referencia_local": "10973900",
-    "marca": "HUAWEI",
-    "codigo_fabricante": "SUN2000-36KTL-M3",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR DE RED TRIFÁSICO 36KW HUAWEI SUN2000-36KTL-M3",
     "precio_churra": 2545.0,
     "url": "https://www.obramat.es/productos/inversor-de-red-trifasico-36kw-huawei-sun2000-36ktl-m3-10973900.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25037418",
     "referencia_local": "25037418",
-    "marca": "VICTRON",
-    "codigo_fabricante": "MULTIPLUS-II",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR VICTRON MULTIPLUS-II 48/15000/200-100",
     "precio_churra": 2502.0,
     "url": "https://www.obramat.es/productos/inversor-victron-multiplus-ii-48-15000-200-100-25037418.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25036920",
     "referencia_local": "25036920",
-    "marca": "HUAWEI",
-    "codigo_fabricante": "SUN2000-50KTL-M3",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR DE RED TRIFÁSICO 50KW HUAWEI SUN2000-50KTL-M3",
     "precio_churra": 2275.0,
     "url": "https://www.obramat.es/productos/inversor-de-red-trifasico-50kw-huawei-sun2000-50ktl-m3-25036920.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10950100",
     "referencia_local": "10950100",
-    "marca": "VICTRON",
-    "codigo_fabricante": "MULTIPLUS-II",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR VICTRON MULTIPLUS-II 48/10000/140-100",
     "precio_churra": 1793.0,
     "url": "https://www.obramat.es/productos/inversor-victron-multiplus-ii-48-10000-140-100-10950100.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10944920",
     "referencia_local": "10944920",
-    "marca": "VICTRON",
-    "codigo_fabricante": "MULTIPLUS-II",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR VICTRON MULTIPLUS-II 48/8000/110-100/100",
     "precio_churra": 1501.0,
     "url": "https://www.obramat.es/productos/inversor-victron-multiplus-ii-48-8000-110-100-100-10944920.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25021978",
     "referencia_local": "25021978",
     "marca": "GENERGY",
-    "codigo_fabricante": "CRETA SOL",
+    "codigo_fabricante": null,
     "titulo": "GENERADOR ELÉCTRICO GASOLINA 7500W GENERGY CRETA SOL",
     "precio_churra": 1169.0,
     "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7500w-genergy-creta-sol-25021978.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25090036",
     "referencia_local": "25090036",
-    "marca": "AXPERT",
-    "codigo_fabricante": "MAX III",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR AXPERT MAX III 11KW 48V",
     "precio_churra": 1165.0,
     "url": "https://www.obramat.es/productos/inversor-axpert-max-iii-11kw-48v-25090036.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25118235",
     "referencia_local": "25118235",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "HORMIGONERA ELÉCTRICA 160 L 1500 W",
     "precio_churra": 1100.0,
@@ -81,42 +100,47 @@
     "subfamilia": "Maquinaria - Hormigoneras"
   },
   {
+    "id_obramat": "25116529",
     "referencia_local": "25116529",
-    "marca": "DEYE",
-    "codigo_fabricante": "SUN-8K-SG05LP1",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR DE RED HÍBRIDO MONOFÁSICO 8KW 48V DEYE SUN-8K-SG05LP1",
     "precio_churra": 1077.0,
     "url": "https://www.obramat.es/productos/inversor-de-red-hibrido-monofasico-8kw-48v-deye-sun-8k-sg05lp1-25116529.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25067623",
     "referencia_local": "25067623",
-    "marca": "ABAC",
-    "codigo_fabricante": "A49B",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "COMPRESOR DE AIRE ABAC EXT A49B 270L 5.5CV",
     "precio_churra": 990.0,
     "url": "https://www.obramat.es/productos/compresor-de-aire-abac-ext-a49b-270l-5-5cv-25067623.html",
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "25027261",
     "referencia_local": "25027261",
-    "marca": "HUAWEI",
-    "codigo_fabricante": "SUN2000-6KTL-M1",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR DE RED HÍBRIDO TRIFÁSICO 6KW HUAWEI SUN2000-6KTL-M1 HC",
     "precio_churra": 953.0,
     "url": "https://www.obramat.es/productos/inversor-de-red-hibrido-trifasico-6kw-huawei-sun2000-6ktl-m1-hc-25027261.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10383695",
     "referencia_local": "10383695",
     "marca": "AYERBE",
-    "codigo_fabricante": "AY-5000 H",
+    "codigo_fabricante": null,
     "titulo": "GENERADOR ELÉCTRICO GASOLINA 4200W MOTOR HONDA GP270 AYERBE AY–5000 H MN",
     "precio_churra": 945.0,
     "url": "https://www.obramat.es/productos/generador-electrico-gasolina-4200w-motor-honda-gp270-ayerbe-ay-5000-h-mn-10383695.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10806180",
     "referencia_local": "10806180",
     "marca": "RUBI",
     "codigo_fabricante": "TX-1250MAX",
@@ -126,8 +150,9 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "25118234",
     "referencia_local": "25118234",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "HORMIGONERA ELÉCTRICA 140 L 1100 W",
     "precio_churra": 850.0,
@@ -135,15 +160,17 @@
     "subfamilia": "Maquinaria - Hormigoneras"
   },
   {
+    "id_obramat": "25116650",
     "referencia_local": "25116650",
-    "marca": "DEYE",
-    "codigo_fabricante": "SUN-6K-SG05LP1-AM2",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "INVERSOR DE RED HÍBRIDO MONOFÁSICO 6KW 48V DEYE SUN-6K-SG05LP1-AM2",
     "precio_churra": 790.0,
     "url": "https://www.obramat.es/productos/inversor-de-red-hibrido-monofasico-6kw-48v-deye-sun-6k-sg05lp1-am2-25116650.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25120367",
     "referencia_local": "25120367",
     "marca": "RUBI",
     "codigo_fabricante": null,
@@ -153,6 +180,7 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "25091326",
     "referencia_local": "25091326",
     "marca": "RUBI",
     "codigo_fabricante": null,
@@ -162,6 +190,7 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "25096156",
     "referencia_local": "25096156",
     "marca": "GENERGY",
     "codigo_fabricante": null,
@@ -171,51 +200,57 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10761772",
     "referencia_local": "10761772",
     "marca": "AYERBE",
-    "codigo_fabricante": "AY-3800 H",
+    "codigo_fabricante": null,
     "titulo": "GENERADOR ELÉCTRICO GASOLINA 3000W MOTOR HONDA GX160 AYERBE AY–3800 H MN",
     "precio_churra": 695.0,
     "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3000w-motor-honda-gx160-ayerbe-ay-3800-h-mn-10761772.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10201646",
     "referencia_local": "10201646",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "INGLETADORA DOBLE CORTE 1500W VIRUTEX TM33W Ø DISCO 300MM",
-    "precio_churra": 665.0,
+    "precio_churra": 667.0,
     "url": "https://www.obramat.es/productos/ingletadora-doble-corte-1500w-virutex-tm33w-disco-300mm-10201646.html",
-    "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
+    "subfamilia": "Corte - Ingletadoras y Tronzadoras"
   },
   {
-    "referencia_local": "25108249",
-    "marca": "HUAWEI",
-    "codigo_fabricante": "SUN2000-4K-LB0",
-    "titulo": "INVERSOR DE RED HÍBRIDO MONOFÁSICO 4KW HUAWEI SUN2000-4K-LB0",
-    "precio_churra": 658.0,
-    "url": "https://www.obramat.es/productos/inversor-de-red-hibrido-monofasico-4kw-huawei-sun2000-4k-lb0-25108249.html",
-    "subfamilia": "Maquinaria - Generadores Eléctricos"
-  },
-  {
+    "id_obramat": "10965262",
     "referencia_local": "10965262",
     "marca": "GENERGY",
     "codigo_fabricante": null,
     "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
-    "precio_churra": 629.0,
+    "precio_churra": 645.0,
     "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html",
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25058225",
+    "referencia_local": "25058225",
+    "marca": "BOSCH",
+    "codigo_fabricante": null,
+    "titulo": "HIDROLIMPIADORA BOSCH 2600W 185BAR 560L/H",
+    "precio_churra": 630.0,
+    "url": "https://www.obramat.es/productos/hidrolimpiadora-bosch-2600w-185bar-560l-h-25058225.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "25121849",
     "referencia_local": "25121849",
-    "marca": "ABAC",
-    "codigo_fabricante": "A39B",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
     "titulo": "COMPRESOR DE AIRE ABAC A39B 90 CM3 90L 3CV",
     "precio_churra": 599.0,
     "url": "https://www.obramat.es/productos/compresor-de-aire-abac-a39b-90-cm3-90l-3cv-25121849.html",
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "25070310",
     "referencia_local": "25070310",
     "marca": "CORTAG",
     "codigo_fabricante": null,
@@ -225,6 +260,7 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "10599841",
     "referencia_local": "10599841",
     "marca": "BOSCH",
     "codigo_fabricante": null,
@@ -234,6 +270,7 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "25098800",
     "referencia_local": "25098800",
     "marca": "GENERGY",
     "codigo_fabricante": null,
@@ -243,6 +280,7 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10965255",
     "referencia_local": "10965255",
     "marca": "GENERGY",
     "codigo_fabricante": null,
@@ -252,17 +290,29 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10534405",
     "referencia_local": "10534405",
     "marca": "MAKITA",
     "codigo_fabricante": null,
     "titulo": "INGLETADORA DOBLE CORTE 1650W MAKITA LH1040F Ø DISCO 260MM",
     "precio_churra": 473.0,
     "url": "https://www.obramat.es/productos/ingletadora-doble-corte-1650w-makita-lh1040f-disco-260mm-10534405.html",
-    "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
+    "subfamilia": "Corte - Ingletadoras y Tronzadoras"
   },
   {
+    "id_obramat": "25095211",
+    "referencia_local": "25095211",
+    "marca": "KARCHER",
+    "codigo_fabricante": "K7",
+    "titulo": "HIDROLIMPIADORA KARCHER K7 3000W 180BAR 600L/H",
+    "precio_churra": 460.0,
+    "url": "https://www.obramat.es/productos/hidrolimpiadora-karcher-k7-3000w-180bar-600l-h-25095211.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "25118236",
     "referencia_local": "25118236",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "HORMIGONERA ELÉCTRICA 100 L 370 W",
     "precio_churra": 450.0,
@@ -270,6 +320,7 @@
     "subfamilia": "Maquinaria - Hormigoneras"
   },
   {
+    "id_obramat": "25087334",
     "referencia_local": "25087334",
     "marca": "DEWALT",
     "codigo_fabricante": "DCD1007WW1T",
@@ -279,6 +330,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25063264",
     "referencia_local": "25063264",
     "marca": "RUBI",
     "codigo_fabricante": null,
@@ -288,8 +340,19 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "1477483",
+    "referencia_local": "1477483",
+    "marca": "DEWALT",
+    "codigo_fabricante": "DCD796",
+    "titulo": "PACK TALADRO PERCUTOR BATERÍA DEWALT DCD796 18V BRUSHLESS 5AH + AMOLADORA BATERÍA DEWALT DCG405 18V BRUSHLESS 125MM",
+    "precio_churra": 419.0,
+    "url": "https://www.obramat.es/productos/pack-taladro-percutor-bateria-dewalt-dcd796-18v-brushless-5ah-amoladora-bateria-dewalt-dcg405-18v-brushless-125mm-1477483.html",
+    "subfamilia": "Electroportátil - Taladros y Atornilladores"
+  },
+  {
+    "id_obramat": "25119961",
     "referencia_local": "25119961",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "HORMIGONERA ELÉCTRICA 140 L 700 W",
     "precio_churra": 415.0,
@@ -297,24 +360,17 @@
     "subfamilia": "Maquinaria - Hormigoneras"
   },
   {
-    "referencia_local": "1477483",
-    "marca": "DEWALT",
-    "codigo_fabricante": "DCD796",
-    "titulo": "PACK TALADRO PERCUTOR BATERÍA DEWALT DCD796 18V BRUSHLESS 5AH + AMOLADORA BATERÍA DEWALT DCG405 18V BRUSHLESS 125MM",
-    "precio_churra": 399.0,
-    "url": "https://www.obramat.es/productos/pack-taladro-percutor-bateria-dewalt-dcd796-18v-brushless-5ah-amoladora-bateria-dewalt-dcg405-18v-brushless-125mm-1477483.html",
-    "subfamilia": "Electroportátil - Taladros y Atornilladores"
-  },
-  {
+    "id_obramat": "25054075",
     "referencia_local": "25054075",
     "marca": "AYERBE",
     "codigo_fabricante": "AY-315",
     "titulo": "SIERRA DE MESA AYERBE AY-315 MN 2000W 315MM",
     "precio_churra": 350.0,
     "url": "https://www.obramat.es/productos/sierra-de-mesa-ayerbe-ay-315-mn-2000w-315mm-25054075.html",
-    "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
+    "subfamilia": "Corte - Sierras de Mesa y Circulares"
   },
   {
+    "id_obramat": "10934511",
     "referencia_local": "10934511",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -324,15 +380,27 @@
     "subfamilia": "Maquinaria - Soldadura Inverter"
   },
   {
+    "id_obramat": "25057904",
     "referencia_local": "25057904",
     "marca": "STAYER",
     "codigo_fabricante": null,
     "titulo": "INGLETADORA DOBLE CORTE 1800W STAYER SC305CW Ø DISCO 305MM",
     "precio_churra": 349.0,
     "url": "https://www.obramat.es/productos/ingletadora-doble-corte-1800w-stayer-sc305cw-disco-305mm-25057904.html",
-    "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
+    "subfamilia": "Corte - Ingletadoras y Tronzadoras"
   },
   {
+    "id_obramat": "25099298",
+    "referencia_local": "25099298",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "HIDROLIMPIADORA STAYER 3000W 200BAR 552L/H",
+    "precio_churra": 349.0,
+    "url": "https://www.obramat.es/productos/hidrolimpiadora-stayer-3000w-200bar-552l-h-25099298.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "25089127",
     "referencia_local": "25089127",
     "marca": "BOSCH",
     "codigo_fabricante": "GSB 18V-45",
@@ -342,6 +410,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10072329",
     "referencia_local": "10072329",
     "marca": "BOSCH",
     "codigo_fabricante": null,
@@ -351,6 +420,7 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10669645",
     "referencia_local": "10669645",
     "marca": "RUBI",
     "codigo_fabricante": "SPEED-92 MAGNET",
@@ -360,6 +430,7 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "10965241",
     "referencia_local": "10965241",
     "marca": "GENERGY",
     "codigo_fabricante": null,
@@ -369,6 +440,17 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10946033",
+    "referencia_local": "10946033",
+    "marca": "DEWALT",
+    "codigo_fabricante": "DCD996P1",
+    "titulo": "TALADRO PERCUTOR BATERÍA DEWALT DCD996P1 18V BRUSHLESS 5AH",
+    "precio_churra": 293.0,
+    "url": "https://www.obramat.es/productos/taladro-percutor-bateria-dewalt-dcd996p1-18v-brushless-5ah-10946033.html",
+    "subfamilia": "Electroportátil - Taladros y Atornilladores"
+  },
+  {
+    "id_obramat": "10965206",
     "referencia_local": "10965206",
     "marca": "GENERGY",
     "codigo_fabricante": null,
@@ -378,8 +460,9 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25090033",
     "referencia_local": "25090033",
-    "marca": "AXPERT",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "INVERSOR AXPERT VM II PREMIUM 1.5KW 12V",
     "precio_churra": 258.0,
@@ -387,17 +470,19 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25036486",
     "referencia_local": "25036486",
     "marca": "STAYER",
     "codigo_fabricante": null,
     "titulo": "INNGLETADORA DOBLE CORTE 1800W STAYER SC 250 CW Ø DISCO 250MM",
     "precio_churra": 249.0,
     "url": "https://www.obramat.es/productos/inngletadora-doble-corte-1800w-stayer-sc-250-cw-disco-250mm-25036486.html",
-    "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
+    "subfamilia": "Corte - Ingletadoras y Tronzadoras"
   },
   {
+    "id_obramat": "25098835",
     "referencia_local": "25098835",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "SOLDADOR INVERTER MMA 200A LINCOLN BESTER S 211",
     "precio_churra": 249.0,
@@ -405,8 +490,19 @@
     "subfamilia": "Maquinaria - Soldadura Inverter"
   },
   {
+    "id_obramat": "25069384",
+    "referencia_local": "25069384",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "ASPIRADOR STAYER VAC 2030 1600W 30L",
+    "precio_churra": 249.0,
+    "url": "https://www.obramat.es/productos/aspirador-stayer-vac-2030-1600w-30l-25069384.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25119960",
     "referencia_local": "25119960",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "HORMIGONERA ELÉCTRICA 100 L 700 W",
     "precio_churra": 245.0,
@@ -414,6 +510,17 @@
     "subfamilia": "Maquinaria - Hormigoneras"
   },
   {
+    "id_obramat": "25095210",
+    "referencia_local": "25095210",
+    "marca": "KARCHER",
+    "codigo_fabricante": "K4",
+    "titulo": "HIDROLIMPIADORA KARCHER K4 1800W 130BAR 420L/H",
+    "precio_churra": 245.0,
+    "url": "https://www.obramat.es/productos/hidrolimpiadora-karcher-k4-1800w-130bar-420l-h-25095210.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "25059727",
     "referencia_local": "25059727",
     "marca": "DEWALT",
     "codigo_fabricante": "DCD709M2T-QW",
@@ -423,6 +530,17 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10488940",
+    "referencia_local": "10488940",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "TRONZADORA METAL STAYER 2400W 355MM TV 509 D",
+    "precio_churra": 241.0,
+    "url": "https://www.obramat.es/productos/tronzadora-metal-stayer-2400w-355mm-tv-509-d-10488940.html",
+    "subfamilia": "Corte - Ingletadoras y Tronzadoras"
+  },
+  {
+    "id_obramat": "25087498",
     "referencia_local": "25087498",
     "marca": "BOSCH",
     "codigo_fabricante": "GSB 18V-65",
@@ -432,6 +550,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25072087",
     "referencia_local": "25072087",
     "marca": "CORTAG",
     "codigo_fabricante": null,
@@ -441,17 +560,19 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
-    "referencia_local": "12095394",
-    "marca": "DEWALT",
-    "codigo_fabricante": "DCF887D2",
-    "titulo": "ATORNILLADOR DE IMPACTO BRUSHLESS 205NM 18V 2AH DEWALT DCF887D2",
-    "precio_churra": 221.0,
-    "url": "https://www.obramat.es/productos/atornillador-de-impacto-brushless-205nm-18v-2ah-dewalt-dcf887d2-12095394.html",
+    "id_obramat": "25064386",
+    "referencia_local": "25064386",
+    "marca": "BOSCH",
+    "codigo_fabricante": "GSB 18V-110",
+    "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-110 18V BRUSHLESS",
+    "precio_churra": 220.0,
+    "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-18v-110-18v-brushless-25064386.html",
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25129468",
     "referencia_local": "25129468",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "UL CORTADOR CERAMICA MANUAL SUPER 1250",
     "precio_churra": 219.0,
@@ -459,6 +580,7 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "25130499",
     "referencia_local": "25130499",
     "marca": "BOSCH",
     "codigo_fabricante": "GWS 18V-8",
@@ -468,6 +590,7 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "25108455",
     "referencia_local": "25108455",
     "marca": "GENERGY",
     "codigo_fabricante": null,
@@ -477,6 +600,7 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25120274",
     "referencia_local": "25120274",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -486,15 +610,17 @@
     "subfamilia": "Maquinaria - Soldadura Inverter"
   },
   {
+    "id_obramat": "10711043",
     "referencia_local": "10711043",
     "marca": "CEVIK",
-    "codigo_fabricante": null,
+    "codigo_fabricante": "PRO50VZ",
     "titulo": "COMPRESOR DE AIRE CEVIK PRO50VZ 50L 3CV",
     "precio_churra": 189.0,
     "url": "https://www.obramat.es/productos/compresor-de-aire-cevik-pro50vz-50l-3cv-10711043.html",
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10934504",
     "referencia_local": "10934504",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -504,8 +630,19 @@
     "subfamilia": "Maquinaria - Soldadura Inverter"
   },
   {
+    "id_obramat": "10579695",
+    "referencia_local": "10579695",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "ASPIRADOR STAYER VAC2050C 1200W 50L",
+    "precio_churra": 189.0,
+    "url": "https://www.obramat.es/productos/aspirador-stayer-vac2050c-1200w-50l-10579695.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "10053390",
     "referencia_local": "10053390",
-    "marca": "ABAC",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "COMPRESOR DE AIRE ABAC MONTECARLO L20 50L 2CV",
     "precio_churra": 187.0,
@@ -513,6 +650,17 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "25115211",
+    "referencia_local": "25115211",
+    "marca": "BOSCH",
+    "codigo_fabricante": "GSA 18V-24",
+    "titulo": "MINI SIERRA SABLE BATERÍA 18V BRUSHLESS BOSCH GSA 18V-24",
+    "precio_churra": 183.0,
+    "url": "https://www.obramat.es/productos/mini-sierra-sable-bateria-18v-brushless-bosch-gsa-18v-24-25115211.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10761086",
     "referencia_local": "10761086",
     "marca": "DEWALT",
     "codigo_fabricante": "DCD796D2-QW",
@@ -522,6 +670,17 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10789471",
+    "referencia_local": "10789471",
+    "marca": "DEWALT",
+    "codigo_fabricante": "DWE305PK",
+    "titulo": "SIERRA SABLE 1100W DEWALT DWE305PK",
+    "precio_churra": 174.0,
+    "url": "https://www.obramat.es/productos/sierra-sable-1100w-dewalt-dwe305pk-10789471.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "25059795",
     "referencia_local": "25059795",
     "marca": "DEWALT",
     "codigo_fabricante": "DCS438N",
@@ -531,15 +690,17 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10789751",
     "referencia_local": "10789751",
     "marca": "STAYER",
     "codigo_fabricante": null,
     "titulo": "INGLETADORA DOBLE CORTE 1200W STAYER CS210 BW Ø DISCO 210MM",
     "precio_churra": 169.0,
     "url": "https://www.obramat.es/productos/ingletadora-doble-corte-1200w-stayer-cs210-bw-disco-210mm-10789751.html",
-    "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
+    "subfamilia": "Corte - Sierras de Mesa y Circulares"
   },
   {
+    "id_obramat": "25146145",
     "referencia_local": "25146145",
     "marca": "MAKITA",
     "codigo_fabricante": "DHP490SF1J",
@@ -549,6 +710,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10753764",
     "referencia_local": "10753764",
     "marca": "DEWALT",
     "codigo_fabricante": null,
@@ -558,6 +720,7 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "12096935",
     "referencia_local": "12096935",
     "marca": "BOSCH",
     "codigo_fabricante": "GSB 16 RE",
@@ -567,6 +730,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10962651",
     "referencia_local": "10962651",
     "marca": "CEVIK",
     "codigo_fabricante": "PRO24",
@@ -576,6 +740,7 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "12100364",
     "referencia_local": "12100364",
     "marca": "BOSCH",
     "codigo_fabricante": "GSB 12V-15",
@@ -585,6 +750,17 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25059858",
+    "referencia_local": "25059858",
+    "marca": "DEWALT",
+    "codigo_fabricante": null,
+    "titulo": "SIERRA PLACA YESO BATERÍA 18V DEWALT DCE555N BRUSHLESS",
+    "precio_churra": 152.0,
+    "url": "https://www.obramat.es/productos/sierra-placa-yeso-bateria-18v-dewalt-dce555n-brushless-25059858.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10806222",
     "referencia_local": "10806222",
     "marca": "MAKITA",
     "codigo_fabricante": "DF333DSAE",
@@ -594,6 +770,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25046593",
     "referencia_local": "25046593",
     "marca": "DEWALT",
     "codigo_fabricante": "DCG405N-XJ",
@@ -603,8 +780,9 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "1445605",
     "referencia_local": "1445605",
-    "marca": "RUBI",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MEZCLADORA DE MORTERO 1800W RUBIMIX-9 SUPERTORQUE",
     "precio_churra": 149.0,
@@ -612,6 +790,17 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "25105632",
+    "referencia_local": "25105632",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "HIDROLIMPIADORA STAYER 2200W 160BAR 550L/H",
+    "precio_churra": 149.0,
+    "url": "https://www.obramat.es/productos/hidrolimpiadora-stayer-2200w-160bar-550l-h-25105632.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "10702132",
     "referencia_local": "10702132",
     "marca": "RUBI",
     "codigo_fabricante": null,
@@ -621,8 +810,19 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "25056120",
+    "referencia_local": "25056120",
+    "marca": "DEWALT",
+    "codigo_fabricante": "DCS369N",
+    "titulo": "SIERRA SABLE BATERÍA 18V DEWALT DCS369N BRUSHLESS",
+    "precio_churra": 145.0,
+    "url": "https://www.obramat.es/productos/sierra-sable-bateria-18v-dewalt-dcs369n-brushless-25056120.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "25062774",
     "referencia_local": "25062774",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "STRING BOX 2-2 1000VDC",
     "precio_churra": 145.0,
@@ -630,6 +830,7 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25080978",
     "referencia_local": "25080978",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -639,8 +840,9 @@
     "subfamilia": "Maquinaria - Soldadura Inverter"
   },
   {
+    "id_obramat": "10053385",
     "referencia_local": "10053385",
-    "marca": "ABAC",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "COMPRESOR DE AIRE ABAC POLE POSITION L20 24L 2CV",
     "precio_churra": 144.0,
@@ -648,8 +850,9 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10711085",
     "referencia_local": "10711085",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "COMPRESOR DE AIRE AEROGLOBAL F50CA 50L 2CV",
     "precio_churra": 139.0,
@@ -657,6 +860,7 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10753750",
     "referencia_local": "10753750",
     "marca": "DEWALT",
     "codigo_fabricante": null,
@@ -666,15 +870,17 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10962623",
     "referencia_local": "10962623",
     "marca": "CEVIK",
-    "codigo_fabricante": null,
+    "codigo_fabricante": "PRO6SILENT",
     "titulo": "COMPRESOR DE AIRE SILENCIOSO CEVIK CA-PRO6SILENT 6L 1CV",
     "precio_churra": 129.0,
     "url": "https://www.obramat.es/productos/compresor-de-aire-silencioso-cevik-ca-pro6silent-6l-1cv-10962623.html",
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10570602",
     "referencia_local": "10570602",
     "marca": "BOSCH",
     "codigo_fabricante": null,
@@ -684,6 +890,27 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10913252",
+    "referencia_local": "10913252",
+    "marca": "MAKITA",
+    "codigo_fabricante": null,
+    "titulo": "SIERRA SABLE BATERÍA 18V MAKITA DJR186Z",
+    "precio_churra": 125.0,
+    "url": "https://www.obramat.es/productos/sierra-sable-bateria-18v-makita-djr186z-10913252.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10917081",
+    "referencia_local": "10917081",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "SIERRA SABLE BATERÍA 12V STAYER SS122K",
+    "precio_churra": 119.0,
+    "url": "https://www.obramat.es/productos/sierra-sable-bateria-12v-stayer-ss122k-10917081.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10976791",
     "referencia_local": "10976791",
     "marca": "MAKITA",
     "codigo_fabricante": "GA9020R",
@@ -693,6 +920,7 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10968013",
     "referencia_local": "10968013",
     "marca": "BOSCH",
     "codigo_fabricante": "GWS 20",
@@ -702,15 +930,7 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
-    "referencia_local": "25087499",
-    "marca": "BOSCH",
-    "codigo_fabricante": "GWS 18V-8",
-    "titulo": "AMOLADORA BATERÍA BOSCH GWS 18V-8 18V BRUSHLESS 125MM",
-    "precio_churra": 105.0,
-    "url": "https://www.obramat.es/productos/amoladora-bateria-bosch-gws-18v-8-18v-brushless-125mm-25087499.html",
-    "subfamilia": "Electroportátil - Amoladoras"
-  },
-  {
+    "id_obramat": "10506643",
     "referencia_local": "10506643",
     "marca": "BELLOTA",
     "codigo_fabricante": null,
@@ -720,26 +940,29 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "25081052",
     "referencia_local": "25081052",
     "marca": "STAYER",
-    "codigo_fabricante": "PBL COMPACT",
+    "codigo_fabricante": null,
     "titulo": "TALADRO PERCUTOR BATERÍA STAYER PBL COMPACT L20 18V BRUSHLESS 2AH",
     "precio_churra": 99.0,
     "url": "https://www.obramat.es/productos/taladro-percutor-bateria-stayer-pbl-compact-l20-18v-brushless-2ah-25081052.html",
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25137835",
     "referencia_local": "25137835",
     "marca": "CEVIK",
-    "codigo_fabricante": null,
+    "codigo_fabricante": "PRO7FN",
     "titulo": "COMPRESOR DE AIRE CEVIK PRO CA-PRO7FN 6L 1.5CV",
     "precio_churra": 99.0,
     "url": "https://www.obramat.es/productos/compresor-de-aire-cevik-pro-ca-pro7fn-6l-1-5cv-25137835.html",
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10869285",
     "referencia_local": "10869285",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "NIVEL LASER CRUZ ROJO MEDID",
     "precio_churra": 99.0,
@@ -747,8 +970,9 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "25034161",
     "referencia_local": "25034161",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "NIVEL LASER 2 PLANOS 5332 VERDE MEDID",
     "precio_churra": 99.0,
@@ -756,8 +980,9 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "25025618",
     "referencia_local": "25025618",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "TALADRO PERCUTOR 500W",
     "precio_churra": 95.0,
@@ -765,6 +990,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25101849",
     "referencia_local": "25101849",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -774,8 +1000,9 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10262672",
     "referencia_local": "10262672",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "VARILLA MEZCLADORA PARA TALADRO 600X100MM",
     "precio_churra": 95.0,
@@ -783,6 +1010,47 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "25113904",
+    "referencia_local": "25113904",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "2 HOJAS SIERRA SABLE CORTE BI METAL 225MM STAYER",
+    "precio_churra": 95.0,
+    "url": "https://www.obramat.es/productos/2-hojas-sierra-sable-corte-bi-metal-225mm-stayer-25113904.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "25113096",
+    "referencia_local": "25113096",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "2 HOJAS SIERRA SABLE CORTE MADERA CON CLAVOS 200MM STAYER",
+    "precio_churra": 95.0,
+    "url": "https://www.obramat.es/productos/2-hojas-sierra-sable-corte-madera-con-clavos-200mm-stayer-25113096.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "25113903",
+    "referencia_local": "25113903",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "2 HOJAS SIERRA SABLE CORTE CARTON YESO 150MM STAYER",
+    "precio_churra": 95.0,
+    "url": "https://www.obramat.es/productos/2-hojas-sierra-sable-corte-carton-yeso-150mm-stayer-25113903.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "25113093",
+    "referencia_local": "25113093",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "HOJA SIERRE SABLE CORTE MULTIMATERIAL 225MM STAYER",
+    "precio_churra": 95.0,
+    "url": "https://www.obramat.es/productos/hoja-sierre-sable-corte-multimaterial-225mm-stayer-25113093.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10733296",
     "referencia_local": "10733296",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -792,8 +1060,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10589621",
     "referencia_local": "10589621",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MARCO TRIPLE SERIE SIMON 27 PLAY BLANCO",
     "precio_churra": 95.0,
@@ -801,8 +1070,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10971422",
     "referencia_local": "10971422",
-    "marca": "VICTRON",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "INVERSOR VICTRON 12/500 VE.DIRECT SCHUKO",
     "precio_churra": 95.0,
@@ -810,8 +1080,39 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25024601",
+    "referencia_local": "25024601",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "DETERGENTE UNIVERSAL 5 LITROS",
+    "precio_churra": 95.0,
+    "url": "https://www.obramat.es/productos/detergente-universal-5-litros-25024601.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "10438246",
+    "referencia_local": "10438246",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "MORTERO RAPIDO CAPACEM RAPID 20 KG",
+    "precio_churra": 95.0,
+    "url": "https://www.obramat.es/productos/mortero-rapido-capacem-rapid-20-kg-10438246.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "10657766",
+    "referencia_local": "10657766",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "MORTERO FLUIDO DE ALTAS PRESTACIONES MECÁNICAS WEBERTEC GROUT 850 25 KG GRIS",
+    "precio_churra": 95.0,
+    "url": "https://www.obramat.es/productos/mortero-fluido-de-altas-prestaciones-mecanicas-webertec-grout-850-25-kg-gris-10657766.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25034168",
     "referencia_local": "25034168",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "DIANA MAGNETICA PARA LASER VERDE",
     "precio_churra": 95.0,
@@ -819,8 +1120,9 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "25034172",
     "referencia_local": "25034172",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "DIANA MAGNETICA PARA LASER ROJO",
     "precio_churra": 95.0,
@@ -828,6 +1130,7 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10702174",
     "referencia_local": "10702174",
     "marca": "RUBI",
     "codigo_fabricante": null,
@@ -837,8 +1140,9 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "10115735",
     "referencia_local": "10115735",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "PISTOLA INFLADO CON MANÓMETRO 0 - 12 BAR",
     "precio_churra": 92.0,
@@ -846,6 +1150,7 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10534482",
     "referencia_local": "10534482",
     "marca": "MAKITA",
     "codigo_fabricante": null,
@@ -855,6 +1160,77 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10248854",
+    "referencia_local": "10248854",
+    "marca": "KARCHER",
+    "codigo_fabricante": null,
+    "titulo": "MANGUERA ALTA PRESION ACOPLE RÁPIDO 9M KARCHER",
+    "precio_churra": 91.0,
+    "url": "https://www.obramat.es/productos/manguera-alta-presion-acople-rapido-9m-karcher-10248854.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "25113094",
+    "referencia_local": "25113094",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "HOJA SIERRA SABLE CORTE LADRILLO FIBROCEMENTO 305MM STAYER",
+    "precio_churra": 90.0,
+    "url": "https://www.obramat.es/productos/hoja-sierra-sable-corte-ladrillo-fibrocemento-305mm-stayer-25113094.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10743145",
+    "referencia_local": "10743145",
+    "marca": "BOSCH",
+    "codigo_fabricante": null,
+    "titulo": "HOJA DE SIERRA DE SABLE MADERA S3456XF BOSCH 2UDS",
+    "precio_churra": 90.0,
+    "url": "https://www.obramat.es/productos/hoja-de-sierra-de-sable-madera-s3456xf-bosch-2uds-10743145.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10961020",
+    "referencia_local": "10961020",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "ASPIRADOR EC815-1250 1250W 15L",
+    "precio_churra": 90.0,
+    "url": "https://www.obramat.es/productos/aspirador-ec815-1250-1250w-15l-10961020.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "10950891",
+    "referencia_local": "10950891",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "ASPIRADOR CENIZAS STAYER ASC20 1200W 20L",
+    "precio_churra": 90.0,
+    "url": "https://www.obramat.es/productos/aspirador-cenizas-stayer-asc20-1200w-20l-10950891.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25133321",
+    "referencia_local": "25133321",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "MORT PROYEC CAL CX5 25KG BLANCO",
+    "precio_churra": 90.0,
+    "url": "https://www.obramat.es/productos/mort-proyec-cal-cx5-25kg-blanco-25133321.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25075040",
+    "referencia_local": "25075040",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "2 HOJAS SIERRA SABLE CORTE METAL FLEX S112BF",
+    "precio_churra": 89.0,
+    "url": "https://www.obramat.es/productos/2-hojas-sierra-sable-corte-metal-flex-s112bf-25075040.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "25120400",
     "referencia_local": "25120400",
     "marca": "CORTAG",
     "codigo_fabricante": null,
@@ -864,8 +1240,9 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "10746645",
     "referencia_local": "10746645",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "COMPRESOR DE AIRE AEROGLOBAL F24CA 24L 2CV",
     "precio_churra": 89.0,
@@ -873,8 +1250,9 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10178903",
     "referencia_local": "10178903",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "REGULADOR CON TAPA SERIE SIMON 27 BLANCO",
     "precio_churra": 88.0,
@@ -882,17 +1260,19 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "25101857",
     "referencia_local": "25101857",
     "marca": "STAYER",
-    "codigo_fabricante": "PBL 100 P",
+    "codigo_fabricante": null,
     "titulo": "TALADRO PERCUTOR BATERÍA STAYER PBL 100 P L20 18V BRUSHLESS",
     "precio_churra": 87.0,
     "url": "https://www.obramat.es/productos/taladro-percutor-bateria-stayer-pbl-100-p-l20-18v-brushless-25101857.html",
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10535112",
     "referencia_local": "10535112",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "INTERRUPTOR PERSIANA SERIE SIMON 27 BLANCO",
     "precio_churra": 86.0,
@@ -900,8 +1280,39 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "25087499",
+    "referencia_local": "25087499",
+    "marca": "BOSCH",
+    "codigo_fabricante": "GWS 18V-8",
+    "titulo": "AMOLADORA BATERÍA BOSCH GWS 18V-8 18V BRUSHLESS 125MM",
+    "precio_churra": 85.0,
+    "url": "https://www.obramat.es/productos/amoladora-bateria-bosch-gws-18v-8-18v-brushless-125mm-25087499.html",
+    "subfamilia": "Electroportátil - Amoladoras"
+  },
+  {
+    "id_obramat": "25101866",
+    "referencia_local": "25101866",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "SIERRA SABLE BATERÍA 18V STAYER SSP L20",
+    "precio_churra": 85.0,
+    "url": "https://www.obramat.es/productos/sierra-sable-bateria-18v-stayer-ssp-l20-25101866.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10743152",
+    "referencia_local": "10743152",
+    "marca": "BOSCH",
+    "codigo_fabricante": null,
+    "titulo": "HOJA DE SIERRA DE SABLE MADERA S1411DF BOSCH 2UDS",
+    "precio_churra": 85.0,
+    "url": "https://www.obramat.es/productos/hoja-de-sierra-de-sable-madera-s1411df-bosch-2uds-10743152.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10388294",
     "referencia_local": "10388294",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MORTERO AUTONIVELANTE CAPAFLOOR 0-10MM 25 KG",
     "precio_churra": 85.0,
@@ -909,8 +1320,29 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "25105536",
+    "referencia_local": "25105536",
+    "marca": "KARCHER",
+    "codigo_fabricante": null,
+    "titulo": "DESATASCADOR DE TUBERIAS 15M KARCHER",
+    "precio_churra": 84.0,
+    "url": "https://www.obramat.es/productos/desatascador-de-tuberias-15m-karcher-25105536.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "10403736",
+    "referencia_local": "10403736",
+    "marca": "KARCHER",
+    "codigo_fabricante": null,
+    "titulo": "ASPIRADOR KARCHER WD3 PREMIUM 1000W 17L",
+    "precio_churra": 81.0,
+    "url": "https://www.obramat.es/productos/aspirador-karcher-wd3-premium-1000w-17l-10403736.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25034961",
     "referencia_local": "25034961",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MORTERO AUTONIVELANTE SIKAFLOOR 100 LEVEL 1-10MM 25KG",
     "precio_churra": 80.0,
@@ -918,6 +1350,7 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "25120256",
     "referencia_local": "25120256",
     "marca": "CEVIK",
     "codigo_fabricante": null,
@@ -927,6 +1360,7 @@
     "subfamilia": "Maquinaria - Soldadura Inverter"
   },
   {
+    "id_obramat": "10789961",
     "referencia_local": "10789961",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -936,6 +1370,27 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "25024171",
+    "referencia_local": "25024171",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "MORTERO REPARADOR R4 WEBEREP HORMIPLUS NEO 5 KG.",
+    "precio_churra": 76.0,
+    "url": "https://www.obramat.es/productos/mortero-reparador-r4-weberep-hormiplus-neo-5-kg-25024171.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25087517",
+    "referencia_local": "25087517",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "ASPIRADOR STAYER BVAC 1420 1400W 20L",
+    "precio_churra": 75.0,
+    "url": "https://www.obramat.es/productos/aspirador-stayer-bvac-1420-1400w-20l-25087517.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25046166",
     "referencia_local": "25046166",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -945,6 +1400,7 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "25027115",
     "referencia_local": "25027115",
     "marca": "MAKITA",
     "codigo_fabricante": null,
@@ -954,6 +1410,17 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10935134",
+    "referencia_local": "10935134",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "DISCO DE WIDIA CORTE ALUMINIO 300MM Z96 STAYER",
+    "precio_churra": 71.0,
+    "url": "https://www.obramat.es/productos/disco-de-widia-corte-aluminio-300mm-z96-stayer-10935134.html",
+    "subfamilia": "Corte - Sierras de Mesa y Circulares"
+  },
+  {
+    "id_obramat": "10702580",
     "referencia_local": "10702580",
     "marca": "RUBI",
     "codigo_fabricante": null,
@@ -963,6 +1430,17 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "10789373",
+    "referencia_local": "10789373",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "KIT DECAPADO CHORRO DE ARENA",
+    "precio_churra": 70.0,
+    "url": "https://www.obramat.es/productos/kit-decapado-chorro-de-arena-10789373.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "10790262",
     "referencia_local": "10790262",
     "marca": "BOSCH",
     "codigo_fabricante": "GSB600",
@@ -972,15 +1450,17 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25046601",
     "referencia_local": "25046601",
     "marca": "STAYER",
-    "codigo_fabricante": "PBL 122 CPK",
+    "codigo_fabricante": null,
     "titulo": "TALADRO PERCUTOR BATERÍA STAYER PBL 122 CPK 12V 2AH",
     "precio_churra": 69.0,
     "url": "https://www.obramat.es/productos/taladro-percutor-bateria-stayer-pbl-122-cpk-12v-2ah-25046601.html",
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "12100386",
     "referencia_local": "12100386",
     "marca": "BOSCH",
     "codigo_fabricante": null,
@@ -990,6 +1470,17 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "12086148",
+    "referencia_local": "12086148",
+    "marca": "DEWALT",
+    "codigo_fabricante": "DWE4056-QS",
+    "titulo": "AMOLADORA DEWALT DWE4056-QS 800W 115MM",
+    "precio_churra": 69.0,
+    "url": "https://www.obramat.es/productos/amoladora-dewalt-dwe4056-qs-800w-115mm-12086148.html",
+    "subfamilia": "Electroportátil - Amoladoras"
+  },
+  {
+    "id_obramat": "10912853",
     "referencia_local": "10912853",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -999,15 +1490,7 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
-    "referencia_local": "12086148",
-    "marca": "DEWALT",
-    "codigo_fabricante": null,
-    "titulo": "AMOLADORA DEWALT DWE4056-QS 800W 115MM",
-    "precio_churra": 68.0,
-    "url": "https://www.obramat.es/productos/amoladora-dewalt-dwe4056-qs-800w-115mm-12086148.html",
-    "subfamilia": "Electroportátil - Amoladoras"
-  },
-  {
+    "id_obramat": "25056444",
     "referencia_local": "25056444",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1017,6 +1500,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10793174",
     "referencia_local": "10793174",
     "marca": "STANLEY",
     "codigo_fabricante": null,
@@ -1026,8 +1510,19 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10935120",
+    "referencia_local": "10935120",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "DISCO DE WIDIA CORTE MADERA FINO 300MM Z96 STAYER",
+    "precio_churra": 63.0,
+    "url": "https://www.obramat.es/productos/disco-de-widia-corte-madera-fino-300mm-z96-stayer-10935120.html",
+    "subfamilia": "Corte - Sierras de Mesa y Circulares"
+  },
+  {
+    "id_obramat": "25120368",
     "referencia_local": "25120368",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "CORTADOR CERAMICA MANUAL PRACTIC-61 PLUS",
     "precio_churra": 62.0,
@@ -1035,15 +1530,57 @@
     "subfamilia": "Corte Cerámico - Cortadoras Manuales"
   },
   {
+    "id_obramat": "10534783",
+    "referencia_local": "10534783",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "SIERRA SABLE 1050W STAYER SS 210B",
+    "precio_churra": 59.0,
+    "url": "https://www.obramat.es/productos/sierra-sable-1050w-stayer-ss-210b-10534783.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "25107670",
     "referencia_local": "25107670",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "SIERRA DE MESA CS210 BW 800W 200MM",
     "precio_churra": 58.0,
     "url": "https://www.obramat.es/productos/sierra-de-mesa-cs210-bw-800w-200mm-25107670.html",
-    "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
+    "subfamilia": "Corte - Sierras de Mesa y Circulares"
   },
   {
+    "id_obramat": "25112114",
+    "referencia_local": "25112114",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "DISCO WIDIA LAM 305MM Z96 EJE30 STAYER",
+    "precio_churra": 58.0,
+    "url": "https://www.obramat.es/productos/disco-widia-lam-305mm-z96-eje30-stayer-25112114.html",
+    "subfamilia": "Corte - Sierras de Mesa y Circulares"
+  },
+  {
+    "id_obramat": "25062384",
+    "referencia_local": "25062384",
+    "marca": "KARCHER",
+    "codigo_fabricante": "K2",
+    "titulo": "HIDROLIMPIADORA KARCHER K2 1400W 110BAR 360L/H",
+    "precio_churra": 58.0,
+    "url": "https://www.obramat.es/productos/hidrolimpiadora-karcher-k2-1400w-110bar-360l-h-25062384.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "25016706",
+    "referencia_local": "25016706",
+    "marca": "KARCHER",
+    "codigo_fabricante": null,
+    "titulo": "DETERGENTE UNIVERSAL 1L KARCHER",
+    "precio_churra": 56.0,
+    "url": "https://www.obramat.es/productos/detergente-universal-1l-karcher-25016706.html",
+    "subfamilia": "Limpieza - Hidrolimpiadoras y LAP"
+  },
+  {
+    "id_obramat": "25113976",
     "referencia_local": "25113976",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1053,6 +1590,7 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "25046595",
     "referencia_local": "25046595",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1062,8 +1600,9 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10041983",
     "referencia_local": "10041983",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "PULSADOR  NEUTRO SERIE SIMON 27",
     "precio_churra": 54.0,
@@ -1071,6 +1610,7 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10014640",
     "referencia_local": "10014640",
     "marca": "MAKITA",
     "codigo_fabricante": "GA4530R",
@@ -1080,6 +1620,7 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10733303",
     "referencia_local": "10733303",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1089,6 +1630,37 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "25088857",
+    "referencia_local": "25088857",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "MORTERO ACRILICO REVESTCRIL 25 KG CENIZA",
+    "precio_churra": 53.0,
+    "url": "https://www.obramat.es/productos/mortero-acrilico-revestcril-25-kg-ceniza-25088857.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25088862",
+    "referencia_local": "25088862",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "IMPRIMACIÓN DE FONDO REVESTCRIL 20 KG CENIZA",
+    "precio_churra": 53.0,
+    "url": "https://www.obramat.es/productos/imprimacion-de-fondo-revestcril-20-kg-ceniza-25088862.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25088860",
+    "referencia_local": "25088860",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "MORTERO ACRILICO REVESTCRIL 25 KG BLANCO",
+    "precio_churra": 53.0,
+    "url": "https://www.obramat.es/productos/mortero-acrilico-revestcril-25-kg-blanco-25088860.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25021836",
     "referencia_local": "25021836",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1098,6 +1670,7 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "10865554",
     "referencia_local": "10865554",
     "marca": "BOSCH",
     "codigo_fabricante": "GWS 700W",
@@ -1107,8 +1680,9 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10152170",
     "referencia_local": "10152170",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "VARILLA MEZCLADORA PARA TALADRO 400X80MM",
     "precio_churra": 50.0,
@@ -1116,8 +1690,19 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "25113095",
+    "referencia_local": "25113095",
+    "marca": "STAYER",
+    "codigo_fabricante": null,
+    "titulo": "2 HOJAS SIERRA SABLE CORTE RAPIDO MADERA 240MM STAYER",
+    "precio_churra": 50.0,
+    "url": "https://www.obramat.es/productos/2-hojas-sierra-sable-corte-rapido-madera-240mm-stayer-25113095.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10589600",
     "referencia_local": "10589600",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MARCO SIMPLE SERIE SIMON 27 PLAY BLANCO",
     "precio_churra": 50.0,
@@ -1125,8 +1710,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10115714",
     "referencia_local": "10115714",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "PISTOLA SOPLADO BOQUILLA CORTA",
     "precio_churra": 50.0,
@@ -1134,8 +1720,9 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "25146368",
     "referencia_local": "25146368",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "PISTOLA SOPLADO BOQUILLA LARGA",
     "precio_churra": 50.0,
@@ -1143,8 +1730,9 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10250583",
     "referencia_local": "10250583",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "PISTOLA SOPLADO BOQUILLA LARGA",
     "precio_churra": 50.0,
@@ -1152,8 +1740,9 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10846395",
     "referencia_local": "10846395",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "DESCONECTADOR DE BATERIAS 12-48V 200A",
     "precio_churra": 50.0,
@@ -1161,8 +1750,19 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "25133322",
+    "referencia_local": "25133322",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "MORT MONOCAPA RASPADO 25KG BLANCO",
+    "precio_churra": 50.0,
+    "url": "https://www.obramat.es/productos/mort-monocapa-raspado-25kg-blanco-25133322.html",
+    "subfamilia": "Limpieza - Aspiradores Industriales"
+  },
+  {
+    "id_obramat": "25069052",
     "referencia_local": "25069052",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MORTERO AUTONIVELANTE CAPAFLOOR 20-50MM 25 KG",
     "precio_churra": 50.0,
@@ -1170,17 +1770,19 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "25056527",
     "referencia_local": "25056527",
     "marca": "STAYER",
-    "codigo_fabricante": "TM 750 AK",
+    "codigo_fabricante": null,
     "titulo": "TALADRO PERCUTOR STAYER TM 750 AK 700W",
     "precio_churra": 49.0,
     "url": "https://www.obramat.es/productos/taladro-percutor-stayer-tm-750-ak-700w-25056527.html",
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25073912",
     "referencia_local": "25073912",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "AMOLADORA 500W 115MM",
     "precio_churra": 49.0,
@@ -1188,6 +1790,7 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10717154",
     "referencia_local": "10717154",
     "marca": "STANLEY",
     "codigo_fabricante": null,
@@ -1197,6 +1800,7 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10704183",
     "referencia_local": "10704183",
     "marca": "STANLEY",
     "codigo_fabricante": null,
@@ -1206,8 +1810,9 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10382281",
     "referencia_local": "10382281",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "CRUZAMIENTO ESTRECHO SERIE SIMON 27",
     "precio_churra": 48.0,
@@ -1215,6 +1820,7 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10727045",
     "referencia_local": "10727045",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1224,8 +1830,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10250555",
     "referencia_local": "10250555",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "ENROLLADOR DE MAGUERA 10M PRESION 12BAR",
     "precio_churra": 44.0,
@@ -1233,6 +1840,7 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "25021853",
     "referencia_local": "25021853",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1242,8 +1850,9 @@
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
   },
   {
+    "id_obramat": "10927966",
     "referencia_local": "10927966",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "TALADRO NEUMATICO FASTEN TA-232 R",
     "precio_churra": 36.0,
@@ -1251,6 +1860,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "25056443",
     "referencia_local": "25056443",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1260,15 +1870,17 @@
     "subfamilia": "Electroportátil - Amoladoras"
   },
   {
+    "id_obramat": "10962672",
     "referencia_local": "10962672",
     "marca": "CEVIK",
-    "codigo_fabricante": null,
+    "codigo_fabricante": "CA-AIR",
     "titulo": "MINI COMPRESOR DE MEMBRANA CEVIK CA-AIR 230/12V",
     "precio_churra": 35.0,
     "url": "https://www.obramat.es/productos/mini-compresor-de-membrana-cevik-ca-air-230-12v-10962672.html",
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10704162",
     "referencia_local": "10704162",
     "marca": "STANLEY",
     "codigo_fabricante": null,
@@ -1278,8 +1890,9 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10927952",
     "referencia_local": "10927952",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "CINCELADORA NEUMÁTICA FASTEN MC-241-R F",
     "precio_churra": 28.0,
@@ -1287,6 +1900,7 @@
     "subfamilia": "Electroportátil - Taladros y Atornilladores"
   },
   {
+    "id_obramat": "10727066",
     "referencia_local": "10727066",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1296,8 +1910,19 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "25075041",
+    "referencia_local": "25075041",
+    "marca": "OTRA",
+    "codigo_fabricante": null,
+    "titulo": "2 HOJAS SIERRA SABLE CORTE RÁPIDO MADERA 1531L",
+    "precio_churra": 24.0,
+    "url": "https://www.obramat.es/productos/2-hojas-sierra-sable-corte-rapido-madera-1531l-25075041.html",
+    "subfamilia": "Corte - Sierras de Sable y Caladoras"
+  },
+  {
+    "id_obramat": "10115525",
     "referencia_local": "10115525",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "JUEGO 5 PIEZAS ACCESORIOS COMPRESOR",
     "precio_churra": 23.0,
@@ -1305,8 +1930,9 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10189683",
     "referencia_local": "10189683",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "TOMA RED RJ45 SERIE SIMON 27",
     "precio_churra": 22.0,
@@ -1314,8 +1940,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "25077229",
     "referencia_local": "25077229",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MORTERO AUTONIVELANTE CAPAFLOOR 0-10MM 25 KG",
     "precio_churra": 20.0,
@@ -1323,6 +1950,7 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10727052",
     "referencia_local": "10727052",
     "marca": "STAYER",
     "codigo_fabricante": null,
@@ -1332,8 +1960,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10115602",
     "referencia_local": "10115602",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MANGUERA COMPRESOR 10M",
     "precio_churra": 19.0,
@@ -1341,8 +1970,9 @@
     "subfamilia": "Maquinaria - Compresores de Aire"
   },
   {
+    "id_obramat": "10545213",
     "referencia_local": "10545213",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "TAPA CIEGA SERIE SIMON 27 BLANCO",
     "precio_churra": 18.0,
@@ -1350,8 +1980,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10335311",
     "referencia_local": "10335311",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "SALIDA CABLES SERIE SIMON 27",
     "precio_churra": 17.0,
@@ -1359,8 +1990,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "10589614",
     "referencia_local": "10589614",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "MARCO DOBLE SERIE SIMON 27 PLAY BLANCO",
     "precio_churra": 15.0,
@@ -1368,8 +2000,9 @@
     "subfamilia": "Corte Cerámico - Mesas y Cortadoras Eléctricas"
   },
   {
+    "id_obramat": "25034173",
     "referencia_local": "25034173",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "SOPORTE MAGNETICO UNIVERSAL",
     "precio_churra": 15.0,
@@ -1377,8 +2010,9 @@
     "subfamilia": "Medición - Niveles Láser"
   },
   {
+    "id_obramat": "10971114",
     "referencia_local": "10971114",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "AUTOMATICO 2P 16A 500VDC",
     "precio_churra": 10.0,
@@ -1386,8 +2020,9 @@
     "subfamilia": "Maquinaria - Generadores Eléctricos"
   },
   {
+    "id_obramat": "10702160",
     "referencia_local": "10702160",
-    "marca": "OTRA / MARCA BLANCA",
+    "marca": "OTRA",
     "codigo_fabricante": null,
     "titulo": "ADAPTADOR PARA USO DE VARILLAS FAST-IN",
     "precio_churra": 9.0,

@@ -1,130 +1,11 @@
 [
   {
-    "id_cruce": "CRETA SOL",
-    "tipo_cruce": "CODIGO_FABRICANTE",
-    "marca": "GENERGY",
-    "obramat": {
-      "referencia_local": "25021978",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7500W GENERGY CRETA SOL",
-      "precio_churra": 1169.0,
-      "ref_fabricante": "CRETA SOL",
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7500w-genergy-creta-sol-25021978.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-para-apoyo-en-fotovoltaica-genergy-creta-sol-inverter-con-7500-w-de-potencia-maxima-y-hasta-14-horas-de-autonomia-82832388.html"
-    }
-  },
-  {
-    "id_cruce": "CORTADORA-RUBI",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "RUBI",
-    "obramat": {
-      "referencia_local": "25120367",
-      "titulo": "CORTADOR CERAMICA MANUAL RCH-1600 RUBI",
-      "precio_churra": 729.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/cortador-ceramica-manual-rch-1600-rubi-25120367.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-dv-200-1000-230v-50hz-19282473.html"
-    }
-  },
-  {
-    "id_cruce": "CORTADORA-RUBI",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "RUBI",
-    "obramat": {
-      "referencia_local": "25120367",
-      "titulo": "CORTADOR CERAMICA MANUAL RCH-1600 RUBI",
-      "precio_churra": 729.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/cortador-ceramica-manual-rch-1600-rubi-25120367.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-nd-180-smart-230v-50hz-16093084.html"
-    }
-  },
-  {
-    "id_cruce": "GENERADOR-GENERGY-4600W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "GENERGY",
-    "obramat": {
-      "referencia_local": "25096156",
-      "titulo": "GENERADOR ELÉCTRICO INVERTER GASOLINA 4600W GENERGY FEROE ARRANQUE ELECTRICO",
-      "precio_churra": 699.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-inverter-gasolina-4600w-genergy-feroe-arranque-electrico-25096156.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-inverter-gasolina-genergy-feroe-4600w-de-potencia-maxima-arranque-electrico-82220595.html"
-    }
-  },
-  {
-    "id_cruce": "GENERADOR-GENERGY-7000W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "GENERGY",
-    "obramat": {
-      "referencia_local": "10965262",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
-      "precio_churra": 629.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-astun-7000w-de-potencia-maxima-regulacion-de-voltaje-avr-y-arranque-electrico-82354367.html"
-    }
-  },
-  {
-    "id_cruce": "GENERADOR-GENERGY-7000W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "GENERGY",
-    "obramat": {
-      "referencia_local": "10965262",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
-      "precio_churra": 629.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-mulhacen-7000w-de-potencia-maxima-arranque-electrico-82091738.html"
-    }
-  },
-  {
-    "id_cruce": "CORTADORA-RUBI",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "RUBI",
-    "obramat": {
-      "referencia_local": "25063264",
-      "titulo": "CORTADOR DE AZULEJOS MANUAL 360CM SLIM CUTTER G2 RUBI",
-      "precio_churra": 425.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-360cm-slim-cutter-g2-rubi-25063264.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-dv-200-1000-230v-50hz-19282473.html"
-    }
-  },
-  {
-    "id_cruce": "CORTADORA-RUBI",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "RUBI",
-    "obramat": {
-      "referencia_local": "25063264",
-      "titulo": "CORTADOR DE AZULEJOS MANUAL 360CM SLIM CUTTER G2 RUBI",
-      "precio_churra": 425.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-360cm-slim-cutter-g2-rubi-25063264.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/cortadora-de-agua-rubi-nd-180-smart-230v-50hz-16093084.html"
-    }
-  },
-  {
     "id_cruce": "GSB 18V-45",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "25089127",
+      "id_obramat": "25089127",
       "titulo": "PACK 18V TALADRO PERCUTOR BRUSHLESS GSB 18V-45  + AMOLADORA 125MM BRUSHLESS  GWS 18V-8 BOSCH",
       "precio_churra": 339.0,
       "ref_fabricante": "GSB 18V-45",
@@ -136,10 +17,11 @@
   },
   {
     "id_cruce": "SPEED-92 MAGNET",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "RUBI",
     "obramat": {
-      "referencia_local": "10669645",
+      "id_obramat": "10669645",
       "titulo": "CORTADOR DE AZULEJOS MANUAL SPEED-92 MAGNET RUBI 920MM",
       "precio_churra": 299.0,
       "ref_fabricante": "SPEED-92 MAGNET",
@@ -150,71 +32,44 @@
     }
   },
   {
-    "id_cruce": "GENERADOR-GENERGY-3300W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "GENERGY",
+    "id_cruce": "GSB 18V-110",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "10965241",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
-      "precio_churra": 299.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html"
+      "id_obramat": "25064386",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-110 18V BRUSHLESS",
+      "precio_churra": 220.0,
+      "ref_fabricante": "GSB 18V-110",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-18v-110-18v-brushless-25064386.html"
     },
     "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-profesional-gasolina-genergy-jaca-3300w-de-potencia-maxima-arranque-electrico-sistema-de-regulacion-electronica-82354365.html"
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-18v-brushless-sin-bateria-gsb-18v-110-c-professional-82864883.html"
     }
   },
   {
-    "id_cruce": "GENERADOR-GENERGY-3300W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "GENERGY",
+    "id_cruce": "GSB 18V-110",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "10965241",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
-      "precio_churra": 299.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html"
+      "id_obramat": "25064386",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-110 18V BRUSHLESS",
+      "precio_churra": 220.0,
+      "ref_fabricante": "GSB 18V-110",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-18v-110-18v-brushless-25064386.html"
     },
     "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-estrela-3300w-de-potencia-maxima-arranque-electrico-autonomia-de-hasta-14-horas-82075479.html"
-    }
-  },
-  {
-    "id_cruce": "GENERADOR-GENERGY-2800W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "GENERGY",
-    "obramat": {
-      "referencia_local": "10965206",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 2800W GENERGY TURBO 2800",
-      "precio_churra": 279.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-2800w-genergy-turbo-2800-10965206.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-veleta-2800w-de-potencia-maxima-regulacion-electronica-avr-y-arranque-electrico-82354364.html"
-    }
-  },
-  {
-    "id_cruce": "DCF887D2",
-    "tipo_cruce": "CODIGO_FABRICANTE",
-    "marca": "DEWALT",
-    "obramat": {
-      "referencia_local": "12095394",
-      "titulo": "ATORNILLADOR DE IMPACTO BRUSHLESS 205NM 18V 2AH DEWALT DCF887D2",
-      "precio_churra": 221.0,
-      "ref_fabricante": "DCF887D2",
-      "url": "https://www.obramat.es/productos/atornillador-de-impacto-brushless-205nm-18v-2ah-dewalt-dcf887d2-12095394.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/dewalt-dcf887d2-qw-atornillador-impacto-sin-escobillas-xr-18v-1-4-205nm-con-2-baterias-y-maletin-tstak-80139045.html"
+      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-18v-brushless-2-baterias-gsb-18v-110-c-professional-82864884.html"
     }
   },
   {
     "id_cruce": "DCD796D2-QW",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "DEWALT",
     "obramat": {
-      "referencia_local": "10761086",
+      "id_obramat": "10761086",
       "titulo": "TALADRO PERCUTOR BATERÍA DEWALT DCD796D2-QW 18V BRUSHLESS 2AH",
       "precio_churra": 177.0,
       "ref_fabricante": "DCD796D2-QW",
@@ -225,11 +80,28 @@
     }
   },
   {
+    "id_cruce": "DWE305PK",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "DEWALT",
+    "obramat": {
+      "id_obramat": "10789471",
+      "titulo": "SIERRA SABLE 1100W DEWALT DWE305PK",
+      "precio_churra": 174.0,
+      "ref_fabricante": "DWE305PK",
+      "url": "https://www.obramat.es/productos/sierra-sable-1100w-dewalt-dwe305pk-10789471.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/sierra-sable-dewalt-potencia-1100-w-2800-rpm-dwe305pk-qs-18735697.html"
+    }
+  },
+  {
     "id_cruce": "GSB 16 RE",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "12096935",
+      "id_obramat": "12096935",
       "titulo": "TALADRO PERCUTOR BOSCH GSB 16 RE 750W",
       "precio_churra": 157.0,
       "ref_fabricante": "GSB 16 RE",
@@ -241,10 +113,11 @@
   },
   {
     "id_cruce": "GSB 16 RE",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "12096935",
+      "id_obramat": "12096935",
       "titulo": "TALADRO PERCUTOR BOSCH GSB 16 RE 750W",
       "precio_churra": 157.0,
       "ref_fabricante": "GSB 16 RE",
@@ -256,10 +129,11 @@
   },
   {
     "id_cruce": "GSB 12V-15",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "12100364",
+      "id_obramat": "12100364",
       "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
       "precio_churra": 152.0,
       "ref_fabricante": "GSB 12V-15",
@@ -271,10 +145,11 @@
   },
   {
     "id_cruce": "GSB 12V-15",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "12100364",
+      "id_obramat": "12100364",
       "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
       "precio_churra": 152.0,
       "ref_fabricante": "GSB 12V-15",
@@ -285,26 +160,12 @@
     }
   },
   {
-    "id_cruce": "GSB 12V-15",
-    "tipo_cruce": "CODIGO_FABRICANTE",
-    "marca": "BOSCH",
-    "obramat": {
-      "referencia_local": "12100364",
-      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
-      "precio_churra": 152.0,
-      "ref_fabricante": "GSB 12V-15",
-      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-12v-15-12v-2ah-12100364.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/taladro-percutor-bosch-professional-incluye-funda-de-cinturon-maletin-l-boxx-102-1-2-bandeja-para-l-boxx-para-herramienta-y-cargador-1-2-bandeja-de-l-boxx-para-accesorios-gsb-12v-15-82071124.html"
-    }
-  },
-  {
     "id_cruce": "DF333DSAE",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "MAKITA",
     "obramat": {
-      "referencia_local": "10806222",
+      "id_obramat": "10806222",
       "titulo": "TALADRO ATORNILLADOR DE BATERÍA 12V 2AH MAKITA DF333DSAE",
       "precio_churra": 149.0,
       "ref_fabricante": "DF333DSAE",
@@ -316,10 +177,11 @@
   },
   {
     "id_cruce": "GA9020R",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "MAKITA",
     "obramat": {
-      "referencia_local": "10976791",
+      "id_obramat": "10976791",
       "titulo": "AMOLADORA MAKITA GA9020R 2200W 230MM",
       "precio_churra": 117.0,
       "ref_fabricante": "GA9020R",
@@ -331,10 +193,11 @@
   },
   {
     "id_cruce": "GWS 20",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "10968013",
+      "id_obramat": "10968013",
       "titulo": "AMOLADORA BOSCH GWS 20 2000W 230W",
       "precio_churra": 115.0,
       "ref_fabricante": "GWS 20",
@@ -345,101 +208,28 @@
     }
   },
   {
-    "id_cruce": "TALADRO-500W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "OTRA / MARCA BLANCA",
-    "obramat": {
-      "referencia_local": "25025618",
-      "titulo": "TALADRO PERCUTOR 500W",
-      "precio_churra": 95.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/taladro-percutor-500w-25025618.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/taladro-con-cable-black-decker-500w-beh200-qs-82126874.html"
-    }
-  },
-  {
-    "id_cruce": "TALADRO-500W",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "OTRA / MARCA BLANCA",
-    "obramat": {
-      "referencia_local": "25025618",
-      "titulo": "TALADRO PERCUTOR 500W",
-      "precio_churra": 95.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/taladro-percutor-500w-25025618.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/taladro-de-columna-scheppach-13mm-500w-80159569.html"
-    }
-  },
-  {
-    "id_cruce": "AMOLADORA-MAKITA-18V-115MM",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "MAKITA",
-    "obramat": {
-      "referencia_local": "10534482",
-      "titulo": "AMOLADORA BATERÍA MAKITA DGA 452Z 18V 115MM",
-      "precio_churra": 91.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/amoladora-bateria-makita-dga-452z-18v-115mm-10534482.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-sin-cable-makita-dga454z-18v-disco-de-115mm-sin-bateria-y-cargador-82389549.html"
-    }
-  },
-  {
-    "id_cruce": "AMOLADORA-MAKITA-18V-115MM",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "MAKITA",
-    "obramat": {
-      "referencia_local": "10534482",
-      "titulo": "AMOLADORA BATERÍA MAKITA DGA 452Z 18V 115MM",
-      "precio_churra": 91.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/amoladora-bateria-makita-dga-452z-18v-115mm-10534482.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-sin-cable-makita-dga452z-18v-disco-de-115mm-sin-bateria-y-cargador-82040552.html"
-    }
-  },
-  {
-    "id_cruce": "AMOLADORA-MAKITA-840W-125MM",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
-    "marca": "MAKITA",
-    "obramat": {
-      "referencia_local": "25027115",
-      "titulo": "AMOLADORA MAKITA 9558HNR 840W 125MM",
-      "precio_churra": 71.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/amoladora-makita-9558hnr-840w-125mm-25027115.html"
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-makita-840w-disco-125mm-82733190.html"
-    }
-  },
-  {
-    "id_cruce": "AMOLADORA-DEWALT-800W-115MM",
-    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "id_cruce": "DWE4056-QS",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "DEWALT",
     "obramat": {
-      "referencia_local": "12086148",
+      "id_obramat": "12086148",
       "titulo": "AMOLADORA DEWALT DWE4056-QS 800W 115MM",
-      "precio_churra": 68.0,
-      "ref_fabricante": null,
+      "precio_churra": 69.0,
+      "ref_fabricante": "DWE4056-QS",
       "url": "https://www.obramat.es/productos/amoladora-dewalt-dwe4056-qs-800w-115mm-12086148.html"
     },
     "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-angular-dewalt-e4056-800w-disco-115mm-80139206.html"
+      "url_candidata": "https://www.leroymerlin.es/productos/amoladora-dewalt-disco-125-mm-potencia-900-w-11800-rpm-dwe4157-qs-80139208.html"
     }
   },
   {
     "id_cruce": "GA4530R",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "MAKITA",
     "obramat": {
-      "referencia_local": "10014640",
+      "id_obramat": "10014640",
       "titulo": "AMOLADORA MAKITA GA4530R 720W 115MM",
       "precio_churra": 53.0,
       "ref_fabricante": "GA4530R",
@@ -451,10 +241,11 @@
   },
   {
     "id_cruce": "GWS 700W",
-    "tipo_cruce": "CODIGO_FABRICANTE",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
     "marca": "BOSCH",
     "obramat": {
-      "referencia_local": "10865554",
+      "id_obramat": "10865554",
       "titulo": "AMOLADORA BOSCH GWS 700W 115MM",
       "precio_churra": 51.0,
       "ref_fabricante": "GWS 700W",
@@ -462,6 +253,258 @@
     },
     "leroy_merlin": {
       "url_candidata": "https://www.leroymerlin.es/productos/amoladora-con-cable-bosch-professional-gws750-750w-115mm-82568473.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_7500W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_7500W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 1169.0,
+      "umbral_descarte_bricolaje_60pct": 701.4
+    },
+    "obramat": {
+      "id_obramat": "25021978",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7500W GENERGY CRETA SOL",
+      "precio_churra": 1169.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7500w-genergy-creta-sol-25021978.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-inverter-genergy-tenerife-silent-7500w-de-potencia-maxima-arranque-electrico-82910793.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_4600W_INVERTER",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_4600W_INVERTER",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 699.0,
+      "umbral_descarte_bricolaje_60pct": 419.4
+    },
+    "obramat": {
+      "id_obramat": "25096156",
+      "titulo": "GENERADOR ELÉCTRICO INVERTER GASOLINA 4600W GENERGY FEROE ARRANQUE ELECTRICO",
+      "precio_churra": 699.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-inverter-gasolina-4600w-genergy-feroe-arranque-electrico-25096156.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-inverter-gasolina-genergy-feroe-4600w-de-potencia-maxima-arranque-electrico-82220595.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_3000W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_3000W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 695.0,
+      "umbral_descarte_bricolaje_60pct": 417.0
+    },
+    "obramat": {
+      "id_obramat": "10761772",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3000W MOTOR HONDA GX160 AYERBE AY–3800 H MN",
+      "precio_churra": 695.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3000w-motor-honda-gx160-ayerbe-ay-3800-h-mn-10761772.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-inverter-hyundai-hy3000i-de-3000w-83671430.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_7000W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_7000W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 645.0,
+      "umbral_descarte_bricolaje_60pct": 387.0
+    },
+    "obramat": {
+      "id_obramat": "10965262",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
+      "precio_churra": 645.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-astun-7000w-de-potencia-maxima-regulacion-de-voltaje-avr-y-arranque-electrico-82354367.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_7000W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_7000W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 645.0,
+      "umbral_descarte_bricolaje_60pct": 387.0
+    },
+    "obramat": {
+      "id_obramat": "10965262",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
+      "precio_churra": 645.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-pramac-px-8000-4-8-kw-arranque-electrico-400v-69-db-salida-trifasica-de-7000w-con-avr-para-maquinaria-industrial-16698654.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_5500W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_5500W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 539.0,
+      "umbral_descarte_bricolaje_60pct": 323.4
+    },
+    "obramat": {
+      "id_obramat": "10965255",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 5500W GENERGY TURBO 5500E",
+      "precio_churra": 539.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-5500w-genergy-turbo-5500e-10965255.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-6-5-kva-5500w-4t-motor-de-gasolina-10h-de-autonomia-13-cv-monofasico-389cm3-avr-vito-81867518.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_3300W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_3300W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 299.0,
+      "umbral_descarte_bricolaje_60pct": 179.4
+    },
+    "obramat": {
+      "id_obramat": "10965241",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
+      "precio_churra": 299.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-profesional-gasolina-genergy-jaca-3300w-de-potencia-maxima-arranque-electrico-sistema-de-regulacion-electronica-82354365.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_3300W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_3300W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 299.0,
+      "umbral_descarte_bricolaje_60pct": 179.4
+    },
+    "obramat": {
+      "id_obramat": "10965241",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
+      "precio_churra": 299.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-estrela-3300w-de-potencia-maxima-arranque-electrico-autonomia-de-hasta-14-horas-82075479.html"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_2800W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "GENERADOR_2800W_AVR",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 279.0,
+      "umbral_descarte_bricolaje_60pct": 167.4
+    },
+    "obramat": {
+      "id_obramat": "10965206",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 2800W GENERGY TURBO 2800",
+      "precio_churra": 279.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-2800w-genergy-turbo-2800-10965206.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-veleta-2800w-de-potencia-maxima-regulacion-electronica-avr-y-arranque-electrico-82354364.html"
+    }
+  },
+  {
+    "id_cruce": "SOLDADOR_MMA_200A",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "SOLDADOR_MMA_200A",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 195.0,
+      "umbral_descarte_bricolaje_60pct": 117.0
+    },
+    "obramat": {
+      "id_obramat": "25120274",
+      "titulo": "SOLDADOR INVERTER MMA 200A STAYER POTENZA 200 ADVANCED",
+      "precio_churra": 195.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/soldador-inverter-mma-200a-stayer-potenza-200-advanced-25120274.html",
+      "total_modelos_en_gama": 2
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/soldadora-inverter-hyundai-tig-mma-de-200a-elect-1-6-4mm-82165376.html"
+    }
+  },
+  {
+    "id_cruce": "SOLDADOR_MMA_200A",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "SOLDADOR_MMA_200A",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 195.0,
+      "umbral_descarte_bricolaje_60pct": 117.0
+    },
+    "obramat": {
+      "id_obramat": "25120274",
+      "titulo": "SOLDADOR INVERTER MMA 200A STAYER POTENZA 200 ADVANCED",
+      "precio_churra": 195.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/soldador-inverter-mma-200a-stayer-potenza-200-advanced-25120274.html",
+      "total_modelos_en_gama": 2
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/caster-mma-soldadora-inverter-200amp-con-tecnologia-igbt-ligero-seguro-y-fiable-mascara-de-soldadura-certificado-ce-82956669.html"
+    }
+  },
+  {
+    "id_cruce": "SOLDADOR_MMA_160A",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "especificaciones_exactas": "SOLDADOR_MMA_160A",
+    "filtro_calidad": {
+      "precio_suelo_obramat": 145.0,
+      "umbral_descarte_bricolaje_60pct": 87.0
+    },
+    "obramat": {
+      "id_obramat": "25080978",
+      "titulo": "SOLDADOR INVERTER MMA 160A STAYER CITYWORK 160A",
+      "precio_churra": 145.0,
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/soldador-inverter-mma-160a-stayer-citywork-160a-25080978.html",
+      "total_modelos_en_gama": 1
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/soldadora-de-hilo-continuo-caster-mig-160amp-con-doble-funcion-mig-mma-certificado-ce-82956696.html"
     }
   }
 ]
