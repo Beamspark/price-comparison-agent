@@ -1,0 +1,22 @@
+{
+  "obramat": {
+    "almacen_id": "42",
+    "nombre": "Murcia Churra",
+    "cctx_cookie": "%7B%22almacen%22%3A%2242%22%2C%22id%22%3A%2242%22%2C%22tipo%22%3A%22almacen%22%7D",
+    "comunas_cookie": "comunasSeleccionada=42"
+  },
+  "leroy_merlin": {
+    "tienda_principal": "105",
+    "tienda_cercana": "41",
+    "nombre": "Murcia Sur",
+    "cp": "30003",
+    "lat": "37.9861",
+    "lon": "-1.1213"
+  },
+  "bauhaus": {
+    "store_id": "352",
+    "store_name": "Alfafar",
+    "availability_param": "352",
+    "cookie_selected_store": "%7B%22id%22%3A%22352%22%2C%22name%22%3A%22Alfafar%22%2C%22address%22%3A%22%22%2C%22coordinates%22%3A%7B%22lat%22%3A39.413236%2C%22lng%22%3A-0.383636%7D%7D"
+  }
+}

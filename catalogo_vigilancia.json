@@ -47,6 +47,10 @@
       "precio": 161.0,
       "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-12v-2-baterias-gsb-12v-15-82248796.html",
       "vendedor": "LEROY MERLIN"
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/bosch-professional-taladro-atornillador-percutor-de-bateria-gsb-12v-15/p/26754154",
+      "titulo": "Bosch Professional Taladro atornillador percutor de batería GSB 12V-15"
     }
   },
   {
@@ -377,6 +381,242 @@
       "precio": 585.0,
       "url": "https://www.leroymerlin.es/productos/generador-profesional-gasolina-genergy-jaca-3300w-de-potencia-maxima-arranque-electrico-sistema-de-regulacion-electronica-82354365.html",
       "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_obramat": "25096156",
+    "marca": "GENERGY",
+    "titulo": "GENERADOR ELÉCTRICO INVERTER GASOLINA 4600W GENERGY FEROE",
+    "veredicto_homologacion": "HOMOLOGADO",
+    "obramat": {
+      "id_obramat": "25096156",
+      "titulo": "GENERADOR ELÉCTRICO INVERTER GASOLINA 4600W GENERGY FEROE ARRANQUE ELECTRICO",
+      "url": "https://www.obramat.es/productos/generador-electrico-inverter-gasolina-4600w-genergy-feroe-arranque-electrico-25096156.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/generador-inverter-gasolina-genergy-feroe-4600w-de-potencia-maxima-arranque-electrico-82220595.html",
+      "titulo": "Generador inverter gasolina GENERGY Feroe 4600W"
+    }
+  },
+  {
+    "id_obramat": "25095211",
+    "titulo_obramat": "HIDROLIMPIADORA KARCHER K7 3000W 180BAR 600L/H",
+    "marca": "KARCHER",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Kärcher Hidrolimpiadora de alta presión K 7 Smart Control Flex",
+      "precio": 569.0,
+      "url": "https://www.bauhaus.es/hidrolimpiadoras-de-alta-presion-electricas/kaercher-hidrolimpiadora-de-alta-presion-k-7-smart-control-flex/p/32427790",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "25036486",
+    "titulo_obramat": "INNGLETADORA DOBLE CORTE 1800W STAYER SC 250 CW Ø DISCO 250MM",
+    "marca": "STAYER",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Stayer Sierra ingletadora SC250W",
+      "precio": 334.99,
+      "url": "https://www.bauhaus.es/sierras-de-corte-tronzadoras-e-ingletadoras/stayer-sierra-ingletadora-sc250w/p/23909487",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "25087498",
+    "titulo_obramat": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-65 18V BRUSHLESS 5AH",
+    "marca": "BOSCH",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Bosch Professional AMPShare 18V Taladro atornillador percutor de batería GSB 18V-65",
+      "precio": 229.0,
+      "url": "https://www.bauhaus.es/taladros-atornilladores-percutores/bosch-professional-ampshare-18v-taladro-atornillador-percutor-de-bateria-gsb-18v-65/p/32367780",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "25130499",
+    "titulo_obramat": "AMOLADORA BATERÍA BOSCH GWS 18V-8 18V BRUSHLESS 125MM",
+    "marca": "BOSCH",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Bosch Professional AMPShare 18V Amoladora angular de batería GWS 18V-8",
+      "precio": 186.0,
+      "url": "https://www.bauhaus.es/amoladoras-angulares-de-bateria/bosch-professional-ampshare-18v-amoladora-angular-de-bateria-gws-18v-8/p/32523670",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10934504",
+    "titulo_obramat": "SOLDADOR INVERTER MIG-MAG 120A STAYER MIG 131 MULTI",
+    "marca": "STAYER",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Stayer Soldador MIG/MAG MIG 131 MULTI",
+      "precio": 199.0,
+      "url": "https://www.bauhaus.es/soldadores-inverter/stayer-soldador-migmag-mig-131-multi/p/30065501",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "25059795",
+    "titulo_obramat": "AMOLADORA BATERÍA DEWALT DCS438N 18V BRUSHLESS 76MM",
+    "marca": "DEWALT",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "DeWalt XR 18V Amoladora angular de batería DCS438N",
+      "precio": 199.0,
+      "url": "https://www.bauhaus.es/amoladoras-de-bateria/dewalt-xr-18v-amoladora-angular-de-bateria-dcs438n/p/30460133",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10789751",
+    "titulo_obramat": "INGLETADORA DOBLE CORTE 1200W STAYER CS210 BW Ø DISCO 210MM",
+    "marca": "STAYER",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Stayer Sierra ingletadora SC210W",
+      "precio": 199.0,
+      "url": "https://www.bauhaus.es/sierras-de-corte-tronzadoras-e-ingletadoras/stayer-sierra-ingletadora-sc210w/p/33233909",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "12100364",
+    "titulo_obramat": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
+    "marca": "BOSCH",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Bosch Professional Taladro atornillador percutor de batería GSB 12V-15",
+      "precio": 159.0,
+      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/bosch-professional-taladro-atornillador-percutor-de-bateria-gsb-12v-15/p/26754154",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10570602",
+    "titulo_obramat": "NIVEL LASER CRUZ Y PUNTO GCL 2-15 BOSCH",
+    "marca": "BOSCH",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Bosch Professional Láser combinado GCL 2-15",
+      "precio": 159.0,
+      "url": "https://www.bauhaus.es/laseres-de-linea-cruzada/bosch-professional-laser-combinado-gcl-2-15/p/24789479",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10968013",
+    "titulo_obramat": "AMOLADORA BOSCH GWS 20 2000W 230W",
+    "marca": "BOSCH",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Bosch Professional Amoladora angular eléctrica GWS 20-230 J",
+      "precio": 119.0,
+      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/bosch-professional-amoladora-angular-electrica-gws-20-230-j/p/29077638",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10743145",
+    "titulo_obramat": "HOJA DE SIERRA DE SABLE MADERA S3456XF BOSCH 2UDS",
+    "marca": "BOSCH",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Bosch Hoja de sierra de sable S 3456 XF Progressor",
+      "precio": 20.49,
+      "url": "https://www.bauhaus.es/hojas-de-sierra-de-sable/bosch-hoja-de-sierra-de-sable-s-3456-xf-progressor/p/28965086",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "25087499",
+    "titulo_obramat": "AMOLADORA BATERÍA BOSCH GWS 18V-8 18V BRUSHLESS 125MM",
+    "marca": "BOSCH",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Bosch Professional AMPShare 18V Amoladora angular de batería GWS 18V-8",
+      "precio": 186.0,
+      "url": "https://www.bauhaus.es/amoladoras-angulares-de-bateria/bosch-professional-ampshare-18v-amoladora-angular-de-bateria-gws-18v-8/p/32523670",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10403736",
+    "titulo_obramat": "ASPIRADOR KARCHER WD3 PREMIUM 1000W 17L",
+    "marca": "KARCHER",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Kärcher Aspirador en seco y húmedo eléctrico WD3",
+      "precio": 84.99,
+      "url": "https://www.bauhaus.es/aspiradores-en-seco-y-humedo-electricos/kaercher-aspirador-en-seco-y-humedo-electrico-wd3/p/33815732",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "25062384",
+    "titulo_obramat": "HIDROLIMPIADORA KARCHER K2 1400W 110BAR 360L/H",
+    "marca": "KARCHER",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Kärcher Hidrolimpiadora de alta presión K2 Universal Edition",
+      "precio": 61.49,
+      "url": "https://www.bauhaus.es/hidrolimpiadoras-de-alta-presion-electricas/kaercher-hidrolimpiadora-de-alta-presion-k2-universal-edition/p/31550930",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10014640",
+    "titulo_obramat": "AMOLADORA MAKITA GA4530R 720W 115MM",
+    "marca": "MAKITA",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Makita Amoladora angular eléctrica GA4530R",
+      "precio": 55.95,
+      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/makita-amoladora-angular-electrica-ga4530r/p/24582100",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "10806222",
+    "titulo_obramat": "TALADRO ATORNILLADOR DE BATERÍA 12V 2AH MAKITA DF333DSAE",
+    "marca": "MAKITA",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Makita CXT 12V max. Taladro atornillador de batería DF333D",
+      "precio": 149.0,
+      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/makita-cxt-12v-max-taladro-atornillador-de-bateria-df333d/p/26578479",
+      "fecha_homologacion": "2026-10-01"
+    }
+  },
+  {
+    "id_obramat": "25105536",
+    "titulo_obramat": "DESATASCADOR DE TUBERIAS 15M KARCHER",
+    "marca": "KARCHER",
+    "bauhaus": {
+      "store_id": 352,
+      "tienda": "Bauhaus Alfafar",
+      "titulo": "Kärcher Juego para limpieza de tuberías",
+      "precio": 87.99,
+      "url": "https://www.bauhaus.es/sets-de-limpieza-de-tuberias/kaercher-juego-para-limpieza-de-tuberias/p/32392986",
+      "fecha_homologacion": "2026-10-01"
     }
   }
 ]
