@@ -72,3 +72,7 @@ El sistema opera en producción mediante conexión local al protocolo CDP (Chrom
    `python tracker_diario.py`
 3. Generación de informe:
    Al detectar pérdidas de competitividad frente a la competencia local, el script invoca automáticamente `notificador_email.py` enviando el informe maquetado a Jefatura de Sector.
+<<<<<<< HEAD
+=======
+   ![Muestra de Informe Diario](docs/img/reporte_alerta.png)
+>>>>>>> d95e479 (docs: agregar captura de ejemplo del informe por email)
