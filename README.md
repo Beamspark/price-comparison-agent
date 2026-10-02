@@ -1,56 +1,74 @@
 # price-comparison-agent
-Automated retail price comparator using Python, Gemini API and GitHub Actions
+Autonomous retail price comparator & surveillance engine using Python, Google Gemini API, Playwright CDP and Local Chrome.
+
+Comparador automatizado de precios de maquinaria y herramientas profesionales entre Obramat (Murcia-Churra), Leroy Merlin (Murcia Sur) y Bauhaus (Alfafar). Diseñado con una política estricta de cero datos fósiles (zero-fallback), evasión de WAF perimetral y generación de alertas ejecutivas para Jefatura de Sector.
+
+---
 
 ## 🤖 Integración del Agente de IA (Google Gemini API)
 
-El sistema integra un agente impulsado por el modelo **Google Gemini** (mediante `GEMINI_API_KEY`), diseñado para realizar tareas de alto nivel cognitivo dentro del flujo de datos:
+El sistema integra un agente impulsado por el modelo Google Gemini (vía `GEMINI_API_KEY`), reservado para tareas de alto nivel cognitivo dentro del pipeline:
 
-* **Normalización y homologación de referencias:** Análisis de descripciones complejas de productos de diferentes catálogos para confirmar equivalencias técnicas entre tiendas (verificar que una referencia de Obramat se corresponde exactamente con el modelo homólogo en Leroy Merlin o Bauhaus, validando potencias, medidas o accesorios incluidos).
-* **Análisis de competitividad y síntesis:** Evaluación contextual de márgenes, detección de discrepancias anómalas y redacción automatizada de resúmenes ejecutivos para los informes periódicos.
+* **Homologación semántica de referencias:** Análisis técnico profundo entre fichas de competidores para confirmar equivalencias (potencia, motorización, litraje de calderines o depósitos, accesorios y tecnología AVR). Clasifica los emparejamientos en `HOMOLOGADO_DIRECTO`, `HOMOLOGADO_CON_DIFERENCIAS` o `NO_HOMOLOGADO` (descarte inmediato).
+* **Mapeo de series y marcas complejas:** Resolución de asimetrías de nomenclatura comercial entre canales (ej. serie Turbo en distribución profesional frente a serie Limited en gran superficie).
+* **Análisis de competitividad y síntesis ejecutiva:** Detección de brechas de precio reales frente al suelo del almacén y redacción contextual de las alertas para el correo diario.
 
-> **Delimitación técnica respecto a la extracción web:**  
-> Se evaluó la viabilidad de delegar en el agente de IA la navegación o consulta directa de URLs en vivo. Se concluyó que un LLM carece de capacidades de evasión perimetral de red: cualquier llamada HTTP subyacente que realice un agente se enfrenta a los mismos bloqueos de WAF (403 / Captchas) y adolece de falta de geolocalización local (no puede simular de forma nativa la sesión del almacén físico de Murcia). Por tanto, la IA opera estrictamente como **motor de análisis y estructuración sobre los datos extraídos**, no como mecanismo de recolección en red.
+> **Delimitación técnica:**  
+> La IA opera estrictamente como motor de análisis, homologación y estructuración. La recolección de precios en vivo se delega en el subsistema de navegación asistida para garantizar geolocalización real de tienda física y evasión de bloqueos.
 
 ---
 
 ## 🛡️ Retos Técnicos y Evolución de la Extracción de Datos
 
-El objetivo del proyecto es monitorizar y comparar en tiempo real los precios locales de referencias clave en **Obramat (Murcia-Churra)**, **Leroy Merlin (Murcia Sur)** y **Bauhaus**. A diferencia de los catálogos web nacionales, los precios y disponibilidades varían por almacén físico, lo que exige conservar el contexto geográfico y de sesión en cada consulta.
-
-A continuación se documentan las fases de investigación técnica, los mecanismos evaluados y las conclusiones de viabilidad:
-
 ### 1. Intentos de Automatización y Limitaciones Detectadas
 
-#### Fase 1: Peticiones HTTP directas (`curl_cffi` / `requests`)
-* **Enfoque:** Simulación de peticiones HTTP con emulación de TLS/JA3 mediante `curl_cffi` e inyección de cabeceras de usuario.
-* **Resultado:** Fallo sistemático con **HTTP 403 Forbidden** tanto en Obramat como en Leroy Merlin.
-* **Causa:** Ambas plataformas (Grupo Adeo) utilizan sistemas perimetrales avanzados de mitigación de bots y WAF (**DataDome / Cloudflare**), que bloquean cualquier llamada carente de contexto de navegación legítimo.
-
-#### Fase 2: Automatización en la nube vía CI/CD (GitHub Actions)
-* **Enfoque:** Orquestación de ejecuciones periódicas desatendidas en runners de GitHub Actions.
-* **Resultado:** Bloqueo perimetral inmediato (403).
-* **Causa:** Los runners de GitHub operan bajo rangos de IP públicas pertenecientes a centros de datos de Microsoft Azure. Estas subredes están catalogadas globalmente por los WAFs comerciales, denegando la conexión independientemente de las firmas del cliente.
-
-#### Fase 3: Inyección manual de cookies de sesión
-* **Enfoque:** Extracción de cookies de contexto de tienda (`cctx`, variables de almacén) desde un navegador manual para reutilizarlas en scripts de extracción.
-* **Resultado:** Inviable para producción.
-* **Causa:** Las cookies de sesión perimetrales están vinculadas a la huella criptográfica de la sesión de origen y caducan en plazos cortos (12–24 horas), lo que exigiría intervención manual constante y anularía la estabilidad del sistema.
-
-#### Fase 4: Navegación automatizada aislada (Playwright Headless / Headful)
-* **Enfoque:** Uso de navegadores automatizados con técnicas de evasión (`playwright-stealth`, desactivación de `AutomationControlled`).
-* **Resultado:** Bloqueo por desafío anti-bot.
-* **Causa:** La telemetría en tiempo de ejecución de DataDome intercepta los puertos de depuración de Chromium y las propiedades del entorno automatizado (`navigator.webdriver`). Incluso al resolver manualmente los retos interactivos (captchas deslizantes), la sesión queda invalidada al detectar variables internas de automatización.
+* **Fase 1 (Peticiones HTTP directas / `curl_cffi`):** Bloqueo con HTTP 403 Forbidden por cortafuegos perimetrales (DataDome / Cloudflare).
+* **Fase 2 (CI/CD en GitHub Actions):** Bloqueo inmediato de IP al originarse en subredes de centros de datos (Azure) identificadas por los WAFs comerciales.
+* **Fase 3 (Inyección manual de cookies):** Inviable debido a la caducidad rápida de las cookies de sesión vinculadas a la huella criptográfica del almacén.
+* **Fase 4 (Playwright Headless / Stealth aislado):** Bloqueo por telemetría avanzada de navegador (`navigator.webdriver` y variables internas de automatización).
 
 ---
 
-### 2. Estado Actual y Vía de Investigación
+### 2. Arquitectura de Producción: Extracción Asistida por CDP
 
-Tras descartar el scraping directo no asistido contra los cortafuegos perimetrales, el núcleo del proyecto (normalización de catálogo, integración del agente Gemini, cálculo de márgenes y lógica de alertas) permanece completamente operativo.
+El sistema opera en producción mediante conexión local al protocolo CDP (Chrome DevTools Protocol):
 
-Actualmente se está validando el siguiente enfoque:
+* **Instancia nativa de Chrome:** Se ejecuta con `--remote-debugging-port=9222` sobre un perfil de usuario real. Hereda huellas reales de hardware, extensiones, pantalla nativa y cookies locales de almacén (Murcia-Churra / Murcia Sur / Alfafar).
+* **Conexión Playwright (`connect_over_cdp`):** El script se acopla a la ventana ya abierta en `localhost:9222` sin inyectar binarios automatizados, logrando una tasa de bloqueo perimetral nula.
+* **Flujo de datos:**
+  1. `catalogo_vigilancia.json` actúa como matriz pura de homologación y URLs.
+  2. `tracker_diario.py` extrae los precios vivos navegando vía CDP.
+  3. `historico_precios.csv` almacena el histórico en modo append-only.
+  4. `notificador_email.py` compila y envía el informe HTML diario ante alertas de competitividad.
 
-* **Extracción asistida mediante conexión CDP (Chrome DevTools Protocol):**
-  * Uso de una instancia legítima de navegador con perfil de usuario persistente en entorno local.
-  * Conexión del script de extracción a través del puerto de depuración remoto (`connect_over_cdp`), evitando la inyección de firmas de automatización en el arranque y preservando las sesiones de tienda física seleccionadas.
+---
 
-> *Nota: Esta sección se actualizará con la especificación técnica definitiva una vez concluida la fase de pruebas.*
+## ⚙️ Reglas de Negocio e Integridad de Datos
+
+### Política de "Cero Fósiles" (Zero-Fallback)
+* Desacoplamiento total: `catalogo_vigilancia.json` actúa como una matriz de mapeo técnico y URLs, libre de campos de precios estáticos.
+* Si un producto competidor se encuentra descatalogado, fuera de stock o falla la extracción, el sistema registra estrictamente `None` / `---` y cataloga la incidencia como `COMPETENCIA SIN STOCK` o `SIN DATOS SUFICIENTES`. Jamás se arrastran precios de días anteriores.
+* `historico_precios.csv` es un registro acumulativo append-only que refleja únicamente extracciones vivas verificadas.
+
+### Blindaje contra Precios Tachados (ADEO: Obramat / Leroy Merlin)
+* Para evitar capturar el precio previo tachado en productos con descuento (ej. capturar 349 € en vez de la oferta vigente de 299 €), el motor analiza la caja de compra (`[data-cerberus="ZONE_OFFRE"]`, `.pdp-stage`).
+* Se descartan elementos asociados a etiquetas `del`, `s` o selectores CSS de precios antiguos (`crossed`, `strike`, `old`, `ANCIEN`), recorriendo el bloque en orden inverso para garantizar la lectura del precio final real sin desbordar hacia carruseles inferiores.
+
+### Extracción Multiformato en Tailwind (Bauhaus)
+* Manejo de tipografía fragmentada: Captura de decimales en superíndices mediante `span.whitespace-nowrap:has(sup)`.
+* Tratamiento de precios sin céntimos: Normalización por expresiones regulares de terminaciones con guion (ej. `149,-` -> `149.00 €`).
+
+### Filtro de Banda de Precio y Principio de Precio Suelo (Roadmap)
+* Banda de coherencia (+-35%): Descarte automático de candidatos durante el descubrimiento si la desviación de precio respecto a la referencia excede el 35%, separando gamas de bricolaje de herramientas industriales.
+* Precio Suelo: Cuando existen múltiples opciones en la misma familia, las alertas de competitividad se calculan contra la referencia de menor importe (precio suelo del segmento), evitando falsas alarmas sobre modelos profesionales de gama alta.
+
+---
+
+## 🚀 Puesta en Marcha Rápida
+
+1. Abrir Chrome en modo depuración remota:
+   `chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\ChromeData_Tracking"`
+2. Ejecutar el rastreador diario:
+   `python tracker_diario.py`
+3. Generación de informe:
+   Al detectar pérdidas de competitividad frente a la competencia local, el script invoca automáticamente `notificador_email.py` enviando el informe maquetado a Jefatura de Sector.
