@@ -17,6 +17,8 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
 }
 
+TOLERANCIA_PRECIO_MAXIMA = 0.35  # ±35% para evitar mezclar bricolaje con industrial
+
 def sanitizar_guiones(texto: str) -> str:
     if not texto:
         return ""
@@ -36,9 +38,10 @@ TABLA_ALIAS = cargar_alias()
 # -------------------------------------------------------------------------
 # EXTRACCIÓN DE PARÁMETROS CRÍTICOS (NIVEL 2: TOLERANCIA CERO)
 # -------------------------------------------------------------------------
-def extraer_perfil_tecnico(titulo: str, subfamilia: str = ""):
+def extraer_perfil_tecnico(titulo: str, subfamilia: str = "", marca: str = ""):
     t = sanitizar_guiones(titulo).upper()
     sub_up = subfamilia.upper()
+    marca_up = marca.upper().strip()
 
     # COMPRESORES
     if "COMPRESOR" in t or "COMPRESOR" in sub_up:
@@ -50,7 +53,7 @@ def extraer_perfil_tecnico(titulo: str, subfamilia: str = ""):
             tipo_const = "CORREAS" if "CORREA" in t else ("SILENCIOSO" if "SILENCI" in t or "OIL-FREE" in t else "DIRECTO")
             id_tecnico = f"COMPRESOR_{litros}L_{potencia}CV_{tipo_const}"
             tokens = [f"{litros}l", f"{potencia}cv" if "." not in potencia else f"{potencia}hp", "compresor"]
-            return {"familia": "COMPRESOR", "id_tecnico": id_tecnico, "tokens": tokens}
+            return {"familia": "COMPRESOR", "id_tecnico": id_tecnico, "tokens": tokens, "marca": marca_up}
 
     # GENERADORES
     if "GENERADOR" in t or "GRUPO ELECTROGENO" in t or "GENERADOR" in sub_up:
@@ -60,7 +63,10 @@ def extraer_perfil_tecnico(titulo: str, subfamilia: str = ""):
             tec = "INVERTER" if "INVERTER" in t else "AVR"
             id_tecnico = f"GENERADOR_{watts}W_{tec}"
             tokens = [f"{watts}w", "inverter" if tec == "INVERTER" else "generador"]
-            return {"familia": "GENERADOR", "id_tecnico": id_tecnico, "tokens": tokens}
+            # Si tiene marca reconocida (ej: GENERGY), el token de marca es obligatorio
+            if marca_up and marca_up not in ["OTRA", "MARCA BLANCA"]:
+                tokens.append(re.sub(r"[^a-z0-9]", "", marca_up.lower()))
+            return {"familia": "GENERADOR", "id_tecnico": id_tecnico, "tokens": tokens, "marca": marca_up}
 
     # SOLDADURA
     if "SOLDADOR" in t or "SOLDADURA" in t or "INVERTER" in t or "SOLDADURA" in sub_up:
@@ -70,7 +76,7 @@ def extraer_perfil_tecnico(titulo: str, subfamilia: str = ""):
             proceso = "MIG" if ("MIG" in t or "HILO" in t) else ("TIG" if "TIG" in t else "MMA")
             id_tecnico = f"SOLDADOR_{proceso}_{amperios}A"
             tokens = [f"{amperios}a", "soldador" if proceso == "MMA" else proceso.lower()]
-            return {"familia": "SOLDADOR", "id_tecnico": id_tecnico, "tokens": tokens}
+            return {"familia": "SOLDADOR", "id_tecnico": id_tecnico, "tokens": tokens, "marca": marca_up}
 
     return None
 
@@ -146,7 +152,9 @@ def generar_variantes_codigo(codigo: str, marca: str = ""):
     marca_up = marca.upper().strip()
     if marca_up in TABLA_ALIAS:
         for modelo_base, lista_alias in TABLA_ALIAS[marca_up].items():
-            if modelo_base.lower() in c or c in modelo_base.lower():
+            mod_limpio = sanitizar_guiones(modelo_base).lower().strip()
+            # Cruce bidireccional entre código y alias
+            if mod_limpio in c or c in mod_limpio:
                 for al in lista_alias:
                     variantes.add(re.sub(r"[^a-z0-9]", "-", al.lower()).strip("-"))
                     variantes.add(re.sub(r"[^a-z0-9]", "", al.lower()))
@@ -164,8 +172,8 @@ def generar_variantes_codigo(codigo: str, marca: str = ""):
 def ejecutar_cruce():
     print("=" * 75)
     print("SISTEMA DE CRUCE JERÁRQUICO: OBRAMAT vs LEROY MERLIN")
-    print("Nivel 1: Homologación Directa (Marca + Modelo)")
-    print("Nivel 2: Equivalente Técnico (Compresores / Generadores / Soldadura)")
+    print("Nivel 1: Homologación Directa (Marca + Modelo + Alias)")
+    print("Nivel 2: Equivalente Técnico + Filtro Precio Suelo y Banda ±35%")
     print("=" * 75)
 
     if not CATALOGO_OBRAMAT_FILE.exists():
@@ -180,9 +188,9 @@ def ejecutar_cruce():
     procesados_nivel_1 = set()
 
     # ---------------------------------------------------------------------
-    # NIVEL 1: MATCH DIRECTO POR CÓDIGO TÉCNICO Y MARCA
+    # NIVEL 1: MATCH DIRECTO POR CÓDIGO TÉCNICO Y MARCA (INCLUYE ALIAS)
     # ---------------------------------------------------------------------
-    print("\n[NIVEL 1] Ejecutando búsqueda de referencias directas idénticas...")
+    print("\n[NIVEL 1] Ejecutando búsqueda de referencias directas e integradas por alias...")
     matches_directos = 0
 
     for item in catalogo:
@@ -198,7 +206,6 @@ def ejecutar_cruce():
             encontradas = []
             for u in pool_urls:
                 u_lower = u.lower()
-                # Exigir coincidencia de código y presencia de marca
                 if any(p.search(u) for p in patrones) and marca_slug in u_lower:
                     encontradas.append(u)
                     if len(encontradas) >= 2:
@@ -225,21 +232,22 @@ def ejecutar_cruce():
                         }
                     })
 
-    print(f" -> Nivel 1 completado: {matches_directos} productos de Obramat tienen match idéntico.")
+    print(f" -> Nivel 1 completado: {matches_directos} productos de Obramat tienen match idéntico o vía alias.")
 
     # ---------------------------------------------------------------------
     # NIVEL 2: EQUIVALENTE TÉCNICO (Solo huérfanos de Nivel 1 en familias clave)
     # ---------------------------------------------------------------------
-    print("\n[NIVEL 2] Evaluando equivalencias técnicas (Compresores, Generadores, Soldadura)...")
+    print("\n[NIVEL 2] Evaluando equivalencias técnicas con regla de precio suelo y banda ±35%...")
     
     # 1. Agrupar productos huérfanos de Obramat por ficha técnica exacta
     grupos_tecnicos = {}
     for item in catalogo:
         ref_om = str(item.get("id_obramat") or item.get("referencia_local"))
         if ref_om in procesados_nivel_1:
-            continue  # La regla 1 es soberana: si tiene match directo, no entra en equivalente
+            continue
 
-        perfil = extraer_perfil_tecnico(item["titulo"], item.get("subfamilia", ""))
+        marca = item.get("marca", "")
+        perfil = extraer_perfil_tecnico(item["titulo"], item.get("subfamilia", ""), marca)
         if perfil:
             id_tec = perfil["id_tecnico"]
             precio = float(item.get("precio_churra") or item.get("precio") or 0.0)
@@ -257,7 +265,8 @@ def ejecutar_cruce():
     # 2. Para cada escalón técnico, fijar el precio suelo y buscar alternativa equiparable
     for id_tec, grupo in grupos_tecnicos.items():
         items_grupo = grupo["items"]
-        # Determinar el precio suelo de Obramat para este escalón
+        
+        # Principio de precio suelo: ordenar de menor a mayor precio dentro de Obramat
         items_ordenados = sorted(items_grupo, key=lambda x: float(x.get("precio_churra") or x.get("precio") or 999999))
         producto_suelo = items_ordenados[0]
         precio_suelo = float(producto_suelo.get("precio_churra") or producto_suelo.get("precio"))
@@ -281,7 +290,8 @@ def ejecutar_cruce():
                     "especificaciones_exactas": id_tec,
                     "filtro_calidad": {
                         "precio_suelo_obramat": precio_suelo,
-                        "umbral_descarte_bricolaje_60pct": round(precio_suelo * 0.60, 2)
+                        "banda_min_precio": round(precio_suelo * (1 - TOLERANCIA_PRECIO_MAXIMA), 2),
+                        "banda_max_precio": round(precio_suelo * (1 + TOLERANCIA_PRECIO_MAXIMA), 2)
                     },
                     "obramat": {
                         "id_obramat": str(producto_suelo.get("id_obramat") or producto_suelo.get("referencia_local")),

@@ -2028,5 +2028,117 @@
     "precio_churra": 9.0,
     "url": "https://www.obramat.es/productos/adaptador-para-uso-de-varillas-fast-in-10702160.html",
     "subfamilia": "Electroportátil - Batidores y Mezcladores"
+  },
+  {
+    "id_obramat": "10072095",
+    "referencia_local": "10072095",
+    "marca": "WAGNER",
+    "codigo_fabricante": "CONTROL PRO 350 M",
+    "titulo": "PISTOLA DE PINTURA AIRLESS WAGNER CONTROL PRO 350 M",
+    "precio_churra": 699.00,
+    "url": "https://www.obramat.es/productos/airless-wagner-pro350m-10072095.html",
+    "subfamilia": "Pintura - Maquinaria Airless"
+  },
+  {
+    "id_obramat": "25027694",
+    "referencia_local": "25027694",
+    "marca": "GRACO",
+    "codigo_fabricante": "MAGNUM A60 PRO PLUS",
+    "titulo": "PULVERIZADOR DE PINTURA AIRLESS GRACO MAGNUM A60 PRO PLUS",
+    "precio_churra": 569.00,
+    "url": "https://www.obramat.es/productos/airless-graco-magnum-a60-pro-25027694.html",
+    "subfamilia": "Pintura - Maquinaria Airless"
+  },
+  {
+    "id_obramat": "10072094",
+    "referencia_local": "10072094",
+    "marca": "WAGNER",
+    "codigo_fabricante": "CONTROL PRO 250 R",
+    "titulo": "PISTOLA DE PINTURA AIRLESS WAGNER CONTROL PRO 250 R",
+    "precio_churra": 479.00,
+    "url": "https://www.obramat.es/productos/airless-wagner-pro250r-10072094.html",
+    "subfamilia": "Pintura - Maquinaria Airless"
+  },
+  {
+    "id_obramat": "25026625",
+    "referencia_local": "25026625",
+    "marca": "GRACO",
+    "codigo_fabricante": "MAGNUM A100 PRO PLUS",
+    "titulo": "PULVERIZADOR DE PINTURA AIRLESS GRACO MAGNUM A100 PRO PLUS",
+    "precio_churra": 989.00,
+    "url": "https://www.obramat.es/productos/airless-graco-magnum-a100-pro-25026625.html",
+    "subfamilia": "Pintura - Maquinaria Airless"
+  },
+  {
+    "id_obramat": "25031429",
+    "referencia_local": "25031429",
+    "marca": "WAGNER",
+    "codigo_fabricante": "W 125",
+    "titulo": "PISTOLA DE PINTAR ELÉCTRICA WAGNER W125 HVLP",
+    "url": "https://www.obramat.es/productos/pistola-de-pintar-electrica-wagner-w125-hvlp-25031429.html",
+    "subfamilia": "Pintura - Pistolas Eléctricas HVLP"
+  },
+  {
+    "id_obramat": "25067218",
+    "referencia_local": "25067218",
+    "marca": "WAGNER",
+    "codigo_fabricante": "W 450 PLUS",
+    "titulo": "PISTOLA DE PINTAR ELÉCTRICA WAGNER W450 PLUS HVLP",
+    "url": "https://www.obramat.es/productos/pistola-de-pintar-electrica-wagner-w450-plus-hvlp-25067218.html",
+    "subfamilia": "Pintura - Pistolas Eléctricas HVLP"
+  },
+  {
+    "id_obramat": "10693431",
+    "referencia_local": "10693431",
+    "marca": "WAGNER",
+    "codigo_fabricante": "HEA 60CM",
+    "titulo": "EXTENSIÓN 60CM HEA PRO 250-350 WAGNER",
+    "url": "https://www.obramat.es/productos/extension-60cm-hea-pro250-350-10693431.html",
+    "subfamilia": "Pintura - Accesorios Airless"
+  },
+  {
+    "id_obramat": "25034266",
+    "referencia_local": "25034266",
+    "marca": "GRACO",
+    "codigo_fabricante": "EXT 40CM A60/A100",
+    "titulo": "EXTENSIÓN 40CM A60-A100 GRACO",
+    "url": "https://www.obramat.es/productos/extension-40cm-a60-a100-graco-25034266.html",
+    "subfamilia": "Pintura - Accesorios Airless"
+  },
+  {
+    "id_obramat": "25034276",
+    "referencia_local": "25034276",
+    "marca": "GRACO",
+    "codigo_fabricante": "EXT 75CM A60/A100",
+    "titulo": "EXTENSIÓN 75CM A60-A100 GRACO",
+    "url": "https://www.obramat.es/productos/extension-75cm-a60-a100-graco-25034276.html",
+    "subfamilia": "Pintura - Accesorios Airless"
+  },
+  {
+    "id_obramat": "10674573",
+    "referencia_local": "10674573",
+    "marca": "WAGNER",
+    "codigo_fabricante": "W 590 FLEXIO",
+    "titulo": "PISTOLA DE PINTAR ELÉCTRICA WAGNER W590 FLEXIO",
+    "url": "https://www.obramat.es/productos/pistola-de-pintar-electrica-wagner-w590-flexio-10674573.html",
+    "subfamilia": "Pintura - Pistolas Eléctricas HVLP"
+  },
+  {
+    "id_obramat": "10674545",
+    "referencia_local": "10674545",
+    "marca": "WAGNER",
+    "codigo_fabricante": "W 450",
+    "titulo": "TURBINA PINTURA HVLP W450 WAGNER",
+    "url": "https://www.obramat.es/productos/turbina-pintura-hvlp-w450-wagner-10674545.html",
+    "subfamilia": "Pintura - Pistolas Eléctricas HVLP"
+  },
+  {
+    "id_obramat": "25016694",
+    "referencia_local": "25016694",
+    "marca": "WAGNER",
+    "codigo_fabricante": "HEA 30CM",
+    "titulo": "EXTENSIÓN 30CM HEA PRO 250-350 WAGNER",
+    "url": "https://www.obramat.es/productos/extension-30cm-hea-pro250-350-25016694.html",
+    "subfamilia": "Pintura - Accesorios Airless"
   }
 ]

@@ -10,5 +10,39 @@
   "MAKITA": {
     "GA4530R": ["GA4530"],
     "DGA452Z": ["DGA452"]
+  },
+  "WAGNER": {
+    "CONTROL PRO 250": [
+      "control-pro-250",
+      "pro-250",
+      "250-m",
+      "250m",
+      "250-r",
+      "250r",
+      "2371053"
+    ],
+    "CONTROL PRO 350": [
+      "control-pro-350",
+      "pro-350",
+      "350-m",
+      "350m",
+      "350-r",
+      "350r",
+      "2371073"
+    ]
+  },
+  "GRACO": {
+    "MAGNUM A60": [
+      "magnum-by-graco-de-650-w",
+      "magnum-a60",
+      "a60-pro",
+      "19813710"
+    ],
+    "MAGNUM A100": [
+      "graco-a100",
+      "magnum-a100",
+      "a100-1-8lt",
+      "82114330"
+    ]
   }
 }

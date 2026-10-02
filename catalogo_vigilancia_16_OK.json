@@ -1,0 +1,383 @@
+[
+  {
+    "id_cruce": "SPEED-92 MAGNET",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "RUBI",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Tratan exactamente del mismo modelo base de cortador manual Rubi Speed-92 Magnet, pero Leroy Merlin incluye maletín de transporte en su dotación.",
+      "diferencia_dotacion": "El producto de Leroy Merlin incluye maletín de transporte, mientras que la ficha de Obramat no especifica explícitamente la inclusión del maletín."
+    },
+    "obramat": {
+      "referencia_local": "10669645",
+      "titulo": "CORTADOR DE AZULEJOS MANUAL SPEED-92 MAGNET RUBI 920MM",
+      "ref_fabricante": "SPEED-92 MAGNET",
+      "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-speed-92-magnet-rubi-920mm-10669645.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Cortadora Manual RUBI SPEED-92 Magnet - Con Maleta",
+      "url": "https://www.leroymerlin.es/productos/cortadora-manual-rubi-speed-92-magnet-con-maleta-19674123.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GSB 12V-15",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo base (Bosch GSB 12V-15) con idéntica referencia de fabricante y dotación profesional con 2 baterías de 2 Ah y cargador.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "12100364",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
+      "ref_fabricante": "GSB 12V-15",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-12v-15-12v-2ah-12100364.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro percutor a batería BOSCH PROFESSIONAL 12V - 2 baterias - GSB 12V-15",
+      "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-12v-2-baterias-gsb-12v-15-82248796.html",
+      "vendedor": "LEROY MERLIN"
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/bosch-professional-taladro-atornillador-percutor-de-bateria-gsb-12v-15/p/26754154"
+    },
+    "bloqueado": true
+  },
+  {
+    "id_cruce": "GA4530R",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo base (Makita GA4530R de 720W y 115mm) comercializado por el mismo fabricante.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10014640",
+      "titulo": "AMOLADORA MAKITA GA4530R 720W 115MM",
+      "ref_fabricante": "GA4530R",
+      "url": "https://www.obramat.es/productos/amoladora-makita-ga4530r-720w-115mm-10014640.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora con cable MAKITA Ga4530R 720W disco 115mm",
+      "url": "https://www.leroymerlin.es/productos/amoladora-con-cable-makita-ga4530r-720w-disco-115mm-80139218.html",
+      "vendedor": "LEROY MERLIN"
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/makita-amoladora-angular-electrica-ga4530r/p/24582100"
+    },
+    "bloqueado": true
+  },
+  {
+    "id_cruce": "DCD796D2-QW",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "DEWALT",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos comparten exactamente la misma referencia de fabricante (DCD796D2-QW) y dotación completa con 2 baterías de 2Ah, cargador y maletín TSTAK.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10761086",
+      "titulo": "TALADRO PERCUTOR BATERÍA DEWALT DCD796D2-QW 18V BRUSHLESS 2AH",
+      "ref_fabricante": "DCD796D2-QW",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-dewalt-dcd796d2-qw-18v-brushless-2ah-10761086.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro percutor a batería DEWALT 18V Brushless -  Incluye 2 baterías 18V XR Li-Ion 2Ah, cargador multi-voltaje XR, pinza para cinturón, retención magnética de puntas y maletín TSTAK - DCD796D2-QW",
+      "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-dewalt-18v-brushless-incluye-2-baterias-18v-xr-li-ion-2ah-cargador-multi-voltaje-xr-pinza-para-cinturon-retencion-magnetica-de-puntas-y-maletin-tstak-dcd796d2-qw-80139029.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "DF333DSAE",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos comparten exactamente la misma referencia de fabricante (DF333DSAE), tratándose del mismo taladro atornillador de 12V con maletín, cargador y dos baterías de 2Ah.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10806222",
+      "titulo": "TALADRO ATORNILLADOR DE BATERÍA 12V 2AH MAKITA DF333DSAE",
+      "ref_fabricante": "DF333DSAE",
+      "url": "https://www.obramat.es/productos/taladro-atornillador-de-bateria-12v-2ah-makita-df333dsae-10806222.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro a batería MAKITA 12V - 2 baterias - cargador y maletín PVC. - DF333DSAE",
+      "url": "https://www.leroymerlin.es/productos/taladro-a-bateria-makita-12v-2-baterias-cargador-y-maletin-pvc-df333dsae-82039764.html",
+      "vendedor": "LEROY MERLIN"
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/makita-cxt-12v-max-taladro-atornillador-de-bateria-df333d/p/26578479"
+    },
+    "bloqueado": true
+  },
+  {
+    "id_cruce": "GWS 20",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 90,
+      "justificacion": "Ambos productos corresponden a la misma amoladora Bosch Professional de 2000W y 230mm, pero el título de Obramat omite la referencia completa '230JH' y el código específico del fabricante.",
+      "diferencia_dotacion": "Es necesario verificar si el modelo de Obramat incluye maletín y la protección electrónica 'JH' (Restart Protection y Soft Start) especificada en la referencia de Leroy Merlin."
+    },
+    "obramat": {
+      "referencia_local": "10968013",
+      "titulo": "AMOLADORA BOSCH GWS 20 2000W 230W",
+      "ref_fabricante": "GWS 20",
+      "url": "https://www.obramat.es/productos/amoladora-bosch-gws-20-2000w-230w-10968013.html"
+    },
+    "leroy_merlin": {
+      "titulo": "BOSCH AMOLADORA GWS 20-230JH 230 2000W.",
+      "url": "https://www.leroymerlin.es/productos/bosch-amoladora-gws-20-230jh-230-2000w-19387200.html",
+      "vendedor": "LEROY MERLIN"
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/bosch-professional-amoladora-angular-electrica-gws-20-230-j/p/29077638"
+    },
+    "bloqueado": true
+  },
+  {
+    "id_cruce": "AMOLADORA-MAKITA-18V-115MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo de amoladora Makita DGA452Z de 18V y 115mm sin batería ni cargador.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10534482",
+      "titulo": "AMOLADORA BATERÍA MAKITA DGA 452Z 18V 115MM",
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-bateria-makita-dga-452z-18v-115mm-10534482.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora sin cable MAKITA Dga452Z 18v disco de 115mm. Sin batería y cargador.",
+      "url": "https://www.leroymerlin.es/productos/amoladora-sin-cable-makita-dga452z-18v-disco-de-115mm-sin-bateria-y-cargador-82040552.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "AMOLADORA-DEWALT-800W-115MM",
+    "tipo_cruce": "SUBIDENTIFICADOR_TECNICO",
+    "marca": "DEWALT",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Ambos productos corresponden exactamente al mismo modelo de amoladora con cable DeWalt DWE4056-QS de 800W y 115mm.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "12086148",
+      "titulo": "AMOLADORA DEWALT DWE4056-QS 800W 115MM",
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/amoladora-dewalt-dwe4056-qs-800w-115mm-12086148.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora angular DEWALT e4056 800W disco 115mm",
+      "url": "https://www.leroymerlin.es/productos/amoladora-angular-dewalt-e4056-800w-disco-115mm-80139206.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GSB 16 RE",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Tratan exactamente del mismo modelo base (Bosch GSB 16 RE / GSB 16 Professional), pero el producto de Leroy Merlin incluye un set de 7 brocas para mampostería no especificado en la oferta básica de Obramat.",
+      "diferencia_dotacion": "Leroy Merlin incluye un juego de 7 brocas para mampostería; Obramat incluye la dotación estándar de fábrica (maletín, empuñadura y tope de profundidad)."
+    },
+    "obramat": {
+      "referencia_local": "12096935",
+      "titulo": "TALADRO PERCUTOR BOSCH GSB 16 RE 750W",
+      "ref_fabricante": "GSB 16 RE",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bosch-gsb-16-re-750w-12096935.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro con cable BOSCH PROFESSIONAL de 750W- Incluye 7 brocas para mampostería. Portabrocas de sujeción rápida 13mm. Tope de profundidad 210mm. Empuñadura adicional. Maletín - GSB 16 Professional",
+      "url": "https://www.leroymerlin.es/productos/taladro-con-cable-bosch-professional-de-750w-incluye-7-brocas-para-mamposteria-portabrocas-de-sujecion-rapida-13mm-tope-de-profundidad-210mm-empunadura-adicional-maletin-gsb-16-professional-19387060.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GA9020R",
+    "tipo_cruce": "CODIGO_FABRICANTE",
+    "marca": "MAKITA",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Se trata exactamente del mismo modelo de amoladora Makita GA9020R con idéntica potencia y características técnicas en ambos distribuidores.",
+      "diferencia_dotacion": "Ninguna"
+    },
+    "obramat": {
+      "referencia_local": "10976791",
+      "titulo": "AMOLADORA MAKITA GA9020R 2200W 230MM",
+      "ref_fabricante": "GA9020R",
+      "url": "https://www.obramat.es/productos/amoladora-makita-ga9020r-2200w-230mm-10976791.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Amoladora de ángulo con cable MAKITA Ga9020R 2200W disco 230mm",
+      "url": "https://www.leroymerlin.es/productos/amoladora-de-angulo-con-cable-makita-ga9020r-2200w-disco-230mm-43851066.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GSB 18V-110",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "BOSCH",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Se trata del mismo modelo base de taladro percutor Bosch GSB 18V-110, pero difieren significativamente en su dotación de accesorios y suministro de energía.",
+      "diferencia_dotacion": "El producto de Leroy Merlin incluye un kit completo con 2 baterías ProCore de 4.0 Ah, cargador GAL 18V-40 y maletín L-Boxx, mientras que el producto de Obramat a ese precio corresponde a la versión 'solo' (únicamente el cuerpo de la máquina sin baterías ni cargador)."
+    },
+    "obramat": {
+      "id_obramat": "25064386",
+      "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-110 18V BRUSHLESS",
+      "ref_fabricante": "GSB 18V-110",
+      "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-18v-110-18v-brushless-25064386.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Taladro percutor a batería BOSCH PROFESSIONAL 18V Brushless - 2 baterias - GSB 18V-110 C Professional",
+      "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-18v-brushless-2-baterias-gsb-18v-110-c-professional-82864884.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "DWE305PK",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "DEWALT",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 100,
+      "justificacion": "Se trata del mismo modelo de sierra de sable de 1100W de DeWalt, donde el sufijo QS únicamente hace referencia a la distribución del mercado europeo.",
+      "diferencia_dotacion": "Ninguna, ambos productos corresponden a la versión con cable que incluye maletín de transporte (K)."
+    },
+    "obramat": {
+      "id_obramat": "10789471",
+      "titulo": "SIERRA SABLE 1100W DEWALT DWE305PK",
+      "ref_fabricante": "DWE305PK",
+      "url": "https://www.obramat.es/productos/sierra-sable-1100w-dewalt-dwe305pk-10789471.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Sierra sable DEWALT - Potencia 1100 W - 2800 RPM - DWE305PK-QS",
+      "url": "https://www.leroymerlin.es/productos/sierra-sable-dewalt-potencia-1100-w-2800-rpm-dwe305pk-qs-18735697.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_7000W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "marca": "GENÉRICO",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Ambos generadores comparten el mismo fabricante, potencia máxima de 7000W, regulación de voltaje AVR y arranque eléctrico, pero presentan una gran diferencia en su autonomía de trabajo.",
+      "diferencia_dotacion": "El modelo Astun de Leroy Merlin tiene un depósito de combustible muy reducido de 6 litros (autonomía de 2.5 horas), mientras que el modelo Turbo 7000E de Obramat cuenta con un depósito de gran capacidad de 28 litros para jornadas de trabajo prolongadas."
+    },
+    "obramat": {
+      "id_obramat": "10965262",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html"
+    },
+    "leroy_merlin": {
+      "titulo": "GENERADOR GENERGY LIMITED 7000 RC 7000W",
+      "url": "https://www.leroymerlin.es/productos/generador-genergy-limited-7000-rc-7000w-de-salida-maxima-a-230v-salida-estabilizada-avr-arranque-electrico-y-remoto-obras-emergencias-y-vivienda-aislada-95219831.html"
+    },
+    "bloqueado": true
+  },
+  {
+    "id_cruce": "GENERADOR_5500W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "marca": "GENÉRICO",
+    "veredicto_homologacion": "HOMOLOGADO_DIRECTO",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_DIRECTO",
+      "confianza": 95,
+      "justificacion": "Ambos generadores ofrecen idéntica potencia de 5500W, sistema de regulación AVR y motorización de gasolina de 4 tiempos equivalente para uso profesional.",
+      "diferencia_dotacion": "Variación en la marca del fabricante (Genergy vs Vito) manteniendo especificaciones técnicas críticas equivalentes."
+    },
+    "obramat": {
+      "id_obramat": "10965255",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 5500W GENERGY TURBO 5500E",
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-5500w-genergy-turbo-5500e-10965255.html"
+    },
+    "leroy_merlin": {
+      "titulo": "Generador 6,5 KVA 5500W 4T motor de gasolina 10h de autonomía 13 CV monofásico 389cm³ AVR VITO",
+      "url": "https://www.leroymerlin.es/productos/generador-6-5-kva-5500w-4t-motor-de-gasolina-10h-de-autonomia-13-cv-monofasico-389cm3-avr-vito-81867518.html",
+      "vendedor": "LEROY MERLIN"
+    }
+  },
+  {
+    "id_cruce": "GENERADOR_3300W_AVR",
+    "tipo_cruce": "EQUIVALENTE_TECNICO",
+    "nivel_prioridad": 2,
+    "marca": "GENÉRICO",
+    "veredicto_homologacion": "HOMOLOGADO_CON_DIFERENCIAS",
+    "detalles_homologacion": {
+      "veredicto": "HOMOLOGADO_CON_DIFERENCIAS",
+      "confianza": 95,
+      "justificacion": "Ambos generadores ofrecen 3300W de potencia máxima, arranque eléctrico y regulación electrónica de voltaje (AVR), pero presentan diferencias críticas en su autonomía y diseño de chasis.",
+      "diferencia_dotacion": "El modelo Jaca de Leroy Merlin tiene un depósito de combustible extremadamente reducido de 2.6 litros (solo 3 horas de autonomía) y un peso de 62 kg, mientras que el Turbo 3300E de Obramat ofrece un depósito estándar de 15 litros para mayor autonomía de trabajo continuo."
+    },
+    "obramat": {
+      "id_obramat": "10965241",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
+      "ref_fabricante": null,
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html"
+    },
+    "leroy_merlin": {
+      "titulo": "GENERADOR GENERGY LIMITED3300 3300W",
+      "url": "https://www.leroymerlin.es/productos/generador-genergy-limited3300-3300w-de-salida-maxima-a-230v-salida-estabilizada-avr-arranque-electrico-obras-emergencias-y-vivienda-aislada-81865310.html"
+    },
+    "bloqueado": true
+  },
+  {
+    "id_obramat": "25096156",
+    "marca": "GENERGY",
+    "titulo": "GENERADOR ELÉCTRICO INVERTER GASOLINA 4600W GENERGY FEROE",
+    "veredicto_homologacion": "HOMOLOGADO",
+    "obramat": {
+      "id_obramat": "25096156",
+      "titulo": "GENERADOR ELÉCTRICO INVERTER GASOLINA 4600W GENERGY FEROE ARRANQUE ELECTRICO",
+      "url": "https://www.obramat.es/productos/generador-electrico-inverter-gasolina-4600w-genergy-feroe-arranque-electrico-25096156.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/generador-inverter-gasolina-genergy-feroe-4600w-de-potencia-maxima-arranque-electrico-82220595.html",
+      "titulo": "Generador inverter gasolina GENERGY Feroe 4600W"
+    }
+  }
+]

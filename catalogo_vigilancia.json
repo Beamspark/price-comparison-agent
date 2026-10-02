@@ -13,13 +13,11 @@
     "obramat": {
       "referencia_local": "10669645",
       "titulo": "CORTADOR DE AZULEJOS MANUAL SPEED-92 MAGNET RUBI 920MM",
-      "precio_churra": 299.0,
       "ref_fabricante": "SPEED-92 MAGNET",
       "url": "https://www.obramat.es/productos/cortador-de-azulejos-manual-speed-92-magnet-rubi-920mm-10669645.html"
     },
     "leroy_merlin": {
       "titulo": "Cortadora Manual RUBI SPEED-92 Magnet - Con Maleta",
-      "precio": 417.81,
       "url": "https://www.leroymerlin.es/productos/cortadora-manual-rubi-speed-92-magnet-con-maleta-19674123.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -38,20 +36,18 @@
     "obramat": {
       "referencia_local": "12100364",
       "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
-      "precio_churra": 152.0,
       "ref_fabricante": "GSB 12V-15",
       "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-12v-15-12v-2ah-12100364.html"
     },
     "leroy_merlin": {
       "titulo": "Taladro percutor a batería BOSCH PROFESSIONAL 12V - 2 baterias - GSB 12V-15",
-      "precio": 161.0,
       "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-12v-2-baterias-gsb-12v-15-82248796.html",
       "vendedor": "LEROY MERLIN"
     },
     "bauhaus": {
-      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/bosch-professional-taladro-atornillador-percutor-de-bateria-gsb-12v-15/p/26754154",
-      "titulo": "Bosch Professional Taladro atornillador percutor de batería GSB 12V-15"
-    }
+      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/bosch-professional-taladro-atornillador-percutor-de-bateria-gsb-12v-15/p/26754154"
+    },
+    "bloqueado": true
   },
   {
     "id_cruce": "GA4530R",
@@ -67,16 +63,18 @@
     "obramat": {
       "referencia_local": "10014640",
       "titulo": "AMOLADORA MAKITA GA4530R 720W 115MM",
-      "precio_churra": 53.0,
       "ref_fabricante": "GA4530R",
       "url": "https://www.obramat.es/productos/amoladora-makita-ga4530r-720w-115mm-10014640.html"
     },
     "leroy_merlin": {
       "titulo": "Amoladora con cable MAKITA Ga4530R 720W disco 115mm",
-      "precio": 61.5,
       "url": "https://www.leroymerlin.es/productos/amoladora-con-cable-makita-ga4530r-720w-disco-115mm-80139218.html",
       "vendedor": "LEROY MERLIN"
-    }
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/makita-amoladora-angular-electrica-ga4530r/p/24582100"
+    },
+    "bloqueado": true
   },
   {
     "id_cruce": "DCD796D2-QW",
@@ -92,13 +90,11 @@
     "obramat": {
       "referencia_local": "10761086",
       "titulo": "TALADRO PERCUTOR BATERÍA DEWALT DCD796D2-QW 18V BRUSHLESS 2AH",
-      "precio_churra": 177.0,
       "ref_fabricante": "DCD796D2-QW",
       "url": "https://www.obramat.es/productos/taladro-percutor-bateria-dewalt-dcd796d2-qw-18v-brushless-2ah-10761086.html"
     },
     "leroy_merlin": {
       "titulo": "Taladro percutor a batería DEWALT 18V Brushless -  Incluye 2 baterías 18V XR Li-Ion 2Ah, cargador multi-voltaje XR, pinza para cinturón, retención magnética de puntas y maletín TSTAK - DCD796D2-QW",
-      "precio": 211.3,
       "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-dewalt-18v-brushless-incluye-2-baterias-18v-xr-li-ion-2ah-cargador-multi-voltaje-xr-pinza-para-cinturon-retencion-magnetica-de-puntas-y-maletin-tstak-dcd796d2-qw-80139029.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -117,16 +113,18 @@
     "obramat": {
       "referencia_local": "10806222",
       "titulo": "TALADRO ATORNILLADOR DE BATERÍA 12V 2AH MAKITA DF333DSAE",
-      "precio_churra": 149.0,
       "ref_fabricante": "DF333DSAE",
       "url": "https://www.obramat.es/productos/taladro-atornillador-de-bateria-12v-2ah-makita-df333dsae-10806222.html"
     },
     "leroy_merlin": {
       "titulo": "Taladro a batería MAKITA 12V - 2 baterias - cargador y maletín PVC. - DF333DSAE",
-      "precio": 163.95,
       "url": "https://www.leroymerlin.es/productos/taladro-a-bateria-makita-12v-2-baterias-cargador-y-maletin-pvc-df333dsae-82039764.html",
       "vendedor": "LEROY MERLIN"
-    }
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/makita-cxt-12v-max-taladro-atornillador-de-bateria-df333d/p/26578479"
+    },
+    "bloqueado": true
   },
   {
     "id_cruce": "GWS 20",
@@ -142,16 +140,18 @@
     "obramat": {
       "referencia_local": "10968013",
       "titulo": "AMOLADORA BOSCH GWS 20 2000W 230W",
-      "precio_churra": 115.0,
       "ref_fabricante": "GWS 20",
       "url": "https://www.obramat.es/productos/amoladora-bosch-gws-20-2000w-230w-10968013.html"
     },
     "leroy_merlin": {
       "titulo": "BOSCH AMOLADORA GWS 20-230JH 230 2000W.",
-      "precio": 232.63,
       "url": "https://www.leroymerlin.es/productos/bosch-amoladora-gws-20-230jh-230-2000w-19387200.html",
       "vendedor": "LEROY MERLIN"
-    }
+    },
+    "bauhaus": {
+      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/bosch-professional-amoladora-angular-electrica-gws-20-230-j/p/29077638"
+    },
+    "bloqueado": true
   },
   {
     "id_cruce": "AMOLADORA-MAKITA-18V-115MM",
@@ -167,13 +167,11 @@
     "obramat": {
       "referencia_local": "10534482",
       "titulo": "AMOLADORA BATERÍA MAKITA DGA 452Z 18V 115MM",
-      "precio_churra": 91.0,
       "ref_fabricante": null,
       "url": "https://www.obramat.es/productos/amoladora-bateria-makita-dga-452z-18v-115mm-10534482.html"
     },
     "leroy_merlin": {
       "titulo": "Amoladora sin cable MAKITA Dga452Z 18v disco de 115mm. Sin batería y cargador.",
-      "precio": 111.0,
       "url": "https://www.leroymerlin.es/productos/amoladora-sin-cable-makita-dga452z-18v-disco-de-115mm-sin-bateria-y-cargador-82040552.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -192,13 +190,11 @@
     "obramat": {
       "referencia_local": "12086148",
       "titulo": "AMOLADORA DEWALT DWE4056-QS 800W 115MM",
-      "precio_churra": 68.0,
       "ref_fabricante": null,
       "url": "https://www.obramat.es/productos/amoladora-dewalt-dwe4056-qs-800w-115mm-12086148.html"
     },
     "leroy_merlin": {
       "titulo": "Amoladora angular DEWALT e4056 800W disco 115mm",
-      "precio": 74.99,
       "url": "https://www.leroymerlin.es/productos/amoladora-angular-dewalt-e4056-800w-disco-115mm-80139206.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -217,13 +213,11 @@
     "obramat": {
       "referencia_local": "12096935",
       "titulo": "TALADRO PERCUTOR BOSCH GSB 16 RE 750W",
-      "precio_churra": 157.0,
       "ref_fabricante": "GSB 16 RE",
       "url": "https://www.obramat.es/productos/taladro-percutor-bosch-gsb-16-re-750w-12096935.html"
     },
     "leroy_merlin": {
       "titulo": "Taladro con cable BOSCH PROFESSIONAL de 750W- Incluye 7 brocas para mampostería. Portabrocas de sujeción rápida 13mm. Tope de profundidad 210mm. Empuñadura adicional. Maletín - GSB 16 Professional",
-      "precio": 165.0,
       "url": "https://www.leroymerlin.es/productos/taladro-con-cable-bosch-professional-de-750w-incluye-7-brocas-para-mamposteria-portabrocas-de-sujecion-rapida-13mm-tope-de-profundidad-210mm-empunadura-adicional-maletin-gsb-16-professional-19387060.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -242,13 +236,11 @@
     "obramat": {
       "referencia_local": "10976791",
       "titulo": "AMOLADORA MAKITA GA9020R 2200W 230MM",
-      "precio_churra": 117.0,
       "ref_fabricante": "GA9020R",
       "url": "https://www.obramat.es/productos/amoladora-makita-ga9020r-2200w-230mm-10976791.html"
     },
     "leroy_merlin": {
       "titulo": "Amoladora de ángulo con cable MAKITA Ga9020R 2200W disco 230mm",
-      "precio": 119.0,
       "url": "https://www.leroymerlin.es/productos/amoladora-de-angulo-con-cable-makita-ga9020r-2200w-disco-230mm-43851066.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -268,13 +260,11 @@
     "obramat": {
       "id_obramat": "25064386",
       "titulo": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-110 18V BRUSHLESS",
-      "precio": 220.0,
       "ref_fabricante": "GSB 18V-110",
       "url": "https://www.obramat.es/productos/taladro-percutor-bateria-bosch-gsb-18v-110-18v-brushless-25064386.html"
     },
     "leroy_merlin": {
       "titulo": "Taladro percutor a batería BOSCH PROFESSIONAL 18V Brushless - 2 baterias - GSB 18V-110 C Professional",
-      "precio": 453.0,
       "url": "https://www.leroymerlin.es/productos/taladro-percutor-a-bateria-bosch-professional-18v-brushless-2-baterias-gsb-18v-110-c-professional-82864884.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -294,13 +284,11 @@
     "obramat": {
       "id_obramat": "10789471",
       "titulo": "SIERRA SABLE 1100W DEWALT DWE305PK",
-      "precio": 174.0,
       "ref_fabricante": "DWE305PK",
       "url": "https://www.obramat.es/productos/sierra-sable-1100w-dewalt-dwe305pk-10789471.html"
     },
     "leroy_merlin": {
       "titulo": "Sierra sable DEWALT - Potencia 1100 W - 2800 RPM - DWE305PK-QS",
-      "precio": 187.0,
       "url": "https://www.leroymerlin.es/productos/sierra-sable-dewalt-potencia-1100-w-2800-rpm-dwe305pk-qs-18735697.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -320,16 +308,14 @@
     "obramat": {
       "id_obramat": "10965262",
       "titulo": "GENERADOR ELÉCTRICO GASOLINA 7000W GENERGY TURBO 7000E",
-      "precio": 645.0,
       "ref_fabricante": null,
       "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7000w-genergy-turbo-7000e-10965262.html"
     },
     "leroy_merlin": {
-      "titulo": "Generador gasolina GENERGY ASTUN - 7000W de potencia máxima - Regulación de voltaje AVR y arranque eléctrico",
-      "precio": 1279.0,
-      "url": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-astun-7000w-de-potencia-maxima-regulacion-de-voltaje-avr-y-arranque-electrico-82354367.html",
-      "vendedor": "LEROY MERLIN"
-    }
+      "titulo": "GENERADOR GENERGY LIMITED 7000 RC 7000W",
+      "url": "https://www.leroymerlin.es/productos/generador-genergy-limited-7000-rc-7000w-de-salida-maxima-a-230v-salida-estabilizada-avr-arranque-electrico-y-remoto-obras-emergencias-y-vivienda-aislada-95219831.html"
+    },
+    "bloqueado": true
   },
   {
     "id_cruce": "GENERADOR_5500W_AVR",
@@ -346,13 +332,11 @@
     "obramat": {
       "id_obramat": "10965255",
       "titulo": "GENERADOR ELÉCTRICO GASOLINA 5500W GENERGY TURBO 5500E",
-      "precio": 539.0,
       "ref_fabricante": null,
       "url": "https://www.obramat.es/productos/generador-electrico-gasolina-5500w-genergy-turbo-5500e-10965255.html"
     },
     "leroy_merlin": {
       "titulo": "Generador 6,5 KVA 5500W 4T motor de gasolina 10h de autonomía 13 CV monofásico 389cm³ AVR VITO",
-      "precio": 795.0,
       "url": "https://www.leroymerlin.es/productos/generador-6-5-kva-5500w-4t-motor-de-gasolina-10h-de-autonomia-13-cv-monofasico-389cm3-avr-vito-81867518.html",
       "vendedor": "LEROY MERLIN"
     }
@@ -372,16 +356,14 @@
     "obramat": {
       "id_obramat": "10965241",
       "titulo": "GENERADOR ELÉCTRICO GASOLINA 3300W GENERGY TURBO 3300E",
-      "precio": 299.0,
       "ref_fabricante": null,
       "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3300w-genergy-turbo-3300e-10965241.html"
     },
     "leroy_merlin": {
-      "titulo": "Generador profesional gasolina GENERGY JACA - 3300W de potencia máxima - Arranque eléctrico, sistema de regulación electrónica",
-      "precio": 585.0,
-      "url": "https://www.leroymerlin.es/productos/generador-profesional-gasolina-genergy-jaca-3300w-de-potencia-maxima-arranque-electrico-sistema-de-regulacion-electronica-82354365.html",
-      "vendedor": "LEROY MERLIN"
-    }
+      "titulo": "GENERADOR GENERGY LIMITED3300 3300W",
+      "url": "https://www.leroymerlin.es/productos/generador-genergy-limited3300-3300w-de-salida-maxima-a-230v-salida-estabilizada-avr-arranque-electrico-obras-emergencias-y-vivienda-aislada-81865310.html"
+    },
+    "bloqueado": true
   },
   {
     "id_obramat": "25096156",
@@ -399,224 +381,115 @@
     }
   },
   {
-    "id_obramat": "25095211",
-    "titulo_obramat": "HIDROLIMPIADORA KARCHER K7 3000W 180BAR 600L/H",
+    "id_cruce": "25105536",
+    "tipo_cruce": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "nivel_prioridad": 1,
     "marca": "KARCHER",
+    "bloqueado": true,
+    "veredicto_homologacion": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "obramat": {
+      "id_obramat": "25105536",
+      "titulo": "DESATASCADOR DE TUBERIAS 15M KARCHER",
+      "url": "https://www.obramat.es/productos/desatascador-de-tuberias-15m-karcher-25105536.html"
+    },
     "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Kärcher Hidrolimpiadora de alta presión K 7 Smart Control Flex",
-      "precio": 569.0,
-      "url": "https://www.bauhaus.es/hidrolimpiadoras-de-alta-presion-electricas/kaercher-hidrolimpiadora-de-alta-presion-k-7-smart-control-flex/p/32427790",
-      "fecha_homologacion": "2026-10-01"
+      "url": "https://www.bauhaus.es/sets-de-limpieza-de-tuberias/kaercher-juego-para-limpieza-de-tuberias/p/32392986"
     }
   },
   {
-    "id_obramat": "25036486",
-    "titulo_obramat": "INNGLETADORA DOBLE CORTE 1800W STAYER SC 250 CW Ø DISCO 250MM",
+    "id_cruce": "25021978",
+    "tipo_cruce": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "nivel_prioridad": 1,
+    "marca": "GENERGY",
+    "bloqueado": true,
+    "veredicto_homologacion": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "obramat": {
+      "id_obramat": "25021978",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 7500W GENERGY CRETA SOL",
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-7500w-genergy-creta-sol-25021978.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/generador-para-apoyo-en-fotovoltaica-genergy-creta-sol-inverter-con-7500-w-de-potencia-maxima-y-hasta-14-horas-de-autonomia-82832388.html"
+    }
+  },
+  {
+    "id_cruce": "10965206",
+    "tipo_cruce": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "nivel_prioridad": 1,
+    "marca": "GENERGY",
+    "bloqueado": true,
+    "veredicto_homologacion": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "obramat": {
+      "id_obramat": "10965206",
+      "titulo": "GENERADOR ELÉCTRICO GASOLINA 2800W GENERGY TURBO 2800",
+      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-2800w-genergy-turbo-2800-10965206.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/generador-pramac-esy-2800-2-8-kw-arranque-manual-230v-65-db-tecnologia-avr-y-kit-de-ruedas-integrado-bricolaje-jardin-y-respaldo-del-hogar-98301708.html"
+    }
+  },
+  {
+    "id_cruce": "25120274",
+    "tipo_cruce": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "nivel_prioridad": 1,
     "marca": "STAYER",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Stayer Sierra ingletadora SC250W",
-      "precio": 334.99,
-      "url": "https://www.bauhaus.es/sierras-de-corte-tronzadoras-e-ingletadoras/stayer-sierra-ingletadora-sc250w/p/23909487",
-      "fecha_homologacion": "2026-10-01"
+    "bloqueado": true,
+    "veredicto_homologacion": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "obramat": {
+      "id_obramat": "25120274",
+      "titulo": "SOLDADOR INVERTER MMA 200A STAYER POTENZA 200 ADVANCED",
+      "url": "https://www.obramat.es/productos/soldador-inverter-mma-200a-stayer-potenza-200-advanced-25120274.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/soldadura-stayer-200-a-60-potenza-200-94091482.html"
     }
   },
   {
-    "id_obramat": "25087498",
-    "titulo_obramat": "TALADRO PERCUTOR BATERÍA BOSCH GSB 18V-65 18V BRUSHLESS 5AH",
-    "marca": "BOSCH",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Bosch Professional AMPShare 18V Taladro atornillador percutor de batería GSB 18V-65",
-      "precio": 229.0,
-      "url": "https://www.bauhaus.es/taladros-atornilladores-percutores/bosch-professional-ampshare-18v-taladro-atornillador-percutor-de-bateria-gsb-18v-65/p/32367780",
-      "fecha_homologacion": "2026-10-01"
+    "id_cruce": "25026625",
+    "tipo_cruce": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "nivel_prioridad": 1,
+    "marca": "GRACO",
+    "bloqueado": true,
+    "veredicto_homologacion": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "obramat": {
+      "id_obramat": "25026625",
+      "titulo": "PULVERIZADOR DE PINTURA AIRLESS GRACO MAGNUM A100 PRO PLUS",
+      "url": "https://www.obramat.es/productos/airless-graco-magnum-a100-pro-25026625.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/turbina-pintura-alta-presion-graco-a100-1-8lt-min-460w-207b-82114330.html"
     }
   },
   {
-    "id_obramat": "25130499",
-    "titulo_obramat": "AMOLADORA BATERÍA BOSCH GWS 18V-8 18V BRUSHLESS 125MM",
-    "marca": "BOSCH",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Bosch Professional AMPShare 18V Amoladora angular de batería GWS 18V-8",
-      "precio": 186.0,
-      "url": "https://www.bauhaus.es/amoladoras-angulares-de-bateria/bosch-professional-ampshare-18v-amoladora-angular-de-bateria-gws-18v-8/p/32523670",
-      "fecha_homologacion": "2026-10-01"
+    "id_cruce": "10072095",
+    "tipo_cruce": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "nivel_prioridad": 1,
+    "marca": "WAGNER",
+    "bloqueado": true,
+    "veredicto_homologacion": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "obramat": {
+      "id_obramat": "10072095",
+      "titulo": "PISTOLA DE PINTURA AIRLESS WAGNER CONTROL PRO 350 M",
+      "url": "https://www.obramat.es/productos/airless-wagner-pro350m-10072095.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/pulverizacion-airless-wagner-control-pro-350-r-wg-2371073-82803740.html"
     }
   },
   {
-    "id_obramat": "10934504",
-    "titulo_obramat": "SOLDADOR INVERTER MIG-MAG 120A STAYER MIG 131 MULTI",
-    "marca": "STAYER",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Stayer Soldador MIG/MAG MIG 131 MULTI",
-      "precio": 199.0,
-      "url": "https://www.bauhaus.es/soldadores-inverter/stayer-soldador-migmag-mig-131-multi/p/30065501",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "25059795",
-    "titulo_obramat": "AMOLADORA BATERÍA DEWALT DCS438N 18V BRUSHLESS 76MM",
-    "marca": "DEWALT",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "DeWalt XR 18V Amoladora angular de batería DCS438N",
-      "precio": 199.0,
-      "url": "https://www.bauhaus.es/amoladoras-de-bateria/dewalt-xr-18v-amoladora-angular-de-bateria-dcs438n/p/30460133",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "10789751",
-    "titulo_obramat": "INGLETADORA DOBLE CORTE 1200W STAYER CS210 BW Ø DISCO 210MM",
-    "marca": "STAYER",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Stayer Sierra ingletadora SC210W",
-      "precio": 199.0,
-      "url": "https://www.bauhaus.es/sierras-de-corte-tronzadoras-e-ingletadoras/stayer-sierra-ingletadora-sc210w/p/33233909",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "12100364",
-    "titulo_obramat": "TALADRO PERCUTOR BATERÍA BOSCH GSB 12V-15 12V 2AH",
-    "marca": "BOSCH",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Bosch Professional Taladro atornillador percutor de batería GSB 12V-15",
-      "precio": 159.0,
-      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/bosch-professional-taladro-atornillador-percutor-de-bateria-gsb-12v-15/p/26754154",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "10570602",
-    "titulo_obramat": "NIVEL LASER CRUZ Y PUNTO GCL 2-15 BOSCH",
-    "marca": "BOSCH",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Bosch Professional Láser combinado GCL 2-15",
-      "precio": 159.0,
-      "url": "https://www.bauhaus.es/laseres-de-linea-cruzada/bosch-professional-laser-combinado-gcl-2-15/p/24789479",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "10968013",
-    "titulo_obramat": "AMOLADORA BOSCH GWS 20 2000W 230W",
-    "marca": "BOSCH",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Bosch Professional Amoladora angular eléctrica GWS 20-230 J",
-      "precio": 119.0,
-      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/bosch-professional-amoladora-angular-electrica-gws-20-230-j/p/29077638",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "10743145",
-    "titulo_obramat": "HOJA DE SIERRA DE SABLE MADERA S3456XF BOSCH 2UDS",
-    "marca": "BOSCH",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Bosch Hoja de sierra de sable S 3456 XF Progressor",
-      "precio": 20.49,
-      "url": "https://www.bauhaus.es/hojas-de-sierra-de-sable/bosch-hoja-de-sierra-de-sable-s-3456-xf-progressor/p/28965086",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "25087499",
-    "titulo_obramat": "AMOLADORA BATERÍA BOSCH GWS 18V-8 18V BRUSHLESS 125MM",
-    "marca": "BOSCH",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Bosch Professional AMPShare 18V Amoladora angular de batería GWS 18V-8",
-      "precio": 186.0,
-      "url": "https://www.bauhaus.es/amoladoras-angulares-de-bateria/bosch-professional-ampshare-18v-amoladora-angular-de-bateria-gws-18v-8/p/32523670",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "10403736",
-    "titulo_obramat": "ASPIRADOR KARCHER WD3 PREMIUM 1000W 17L",
-    "marca": "KARCHER",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Kärcher Aspirador en seco y húmedo eléctrico WD3",
-      "precio": 84.99,
-      "url": "https://www.bauhaus.es/aspiradores-en-seco-y-humedo-electricos/kaercher-aspirador-en-seco-y-humedo-electrico-wd3/p/33815732",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "25062384",
-    "titulo_obramat": "HIDROLIMPIADORA KARCHER K2 1400W 110BAR 360L/H",
-    "marca": "KARCHER",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Kärcher Hidrolimpiadora de alta presión K2 Universal Edition",
-      "precio": 61.49,
-      "url": "https://www.bauhaus.es/hidrolimpiadoras-de-alta-presion-electricas/kaercher-hidrolimpiadora-de-alta-presion-k2-universal-edition/p/31550930",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "10014640",
-    "titulo_obramat": "AMOLADORA MAKITA GA4530R 720W 115MM",
-    "marca": "MAKITA",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Makita Amoladora angular eléctrica GA4530R",
-      "precio": 55.95,
-      "url": "https://www.bauhaus.es/amoladoras-angulares-electricas/makita-amoladora-angular-electrica-ga4530r/p/24582100",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "10806222",
-    "titulo_obramat": "TALADRO ATORNILLADOR DE BATERÍA 12V 2AH MAKITA DF333DSAE",
-    "marca": "MAKITA",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Makita CXT 12V max. Taladro atornillador de batería DF333D",
-      "precio": 149.0,
-      "url": "https://www.bauhaus.es/taladros-y-atornilladores-de-bateria/makita-cxt-12v-max-taladro-atornillador-de-bateria-df333d/p/26578479",
-      "fecha_homologacion": "2026-10-01"
-    }
-  },
-  {
-    "id_obramat": "25105536",
-    "titulo_obramat": "DESATASCADOR DE TUBERIAS 15M KARCHER",
-    "marca": "KARCHER",
-    "bauhaus": {
-      "store_id": 352,
-      "tienda": "Bauhaus Alfafar",
-      "titulo": "Kärcher Juego para limpieza de tuberías",
-      "precio": 87.99,
-      "url": "https://www.bauhaus.es/sets-de-limpieza-de-tuberias/kaercher-juego-para-limpieza-de-tuberias/p/32392986",
-      "fecha_homologacion": "2026-10-01"
+    "id_cruce": "10693431",
+    "tipo_cruce": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "nivel_prioridad": 1,
+    "marca": "WAGNER",
+    "bloqueado": true,
+    "veredicto_homologacion": "HOMOLOGADO_MANUAL_PROTEGIDO",
+    "obramat": {
+      "id_obramat": "10693431",
+      "titulo": "EXTENSIÓN 60CM HEA PRO 250-350 WAGNER",
+      "url": "https://www.obramat.es/productos/extension-60cm-hea-pro250-350-10693431.html"
+    },
+    "leroy_merlin": {
+      "url": "https://www.leroymerlin.es/productos/prolongador-wagner-extension-60-cm-81871783.html"
     }
   }
 ]

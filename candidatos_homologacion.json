@@ -256,13 +256,30 @@
     }
   },
   {
+    "id_cruce": "W 125",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "nivel_prioridad": 1,
+    "marca": "WAGNER",
+    "obramat": {
+      "id_obramat": "25031429",
+      "titulo": "PISTOLA DE PINTAR ELÉCTRICA WAGNER W125 HVLP",
+      "precio_churra": null,
+      "ref_fabricante": "W 125",
+      "url": "https://www.obramat.es/productos/pistola-de-pintar-electrica-wagner-w125-hvlp-25031429.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/sistema-de-pintura-turbina-de-mano-w125-wagner-w100-18804142.html"
+    }
+  },
+  {
     "id_cruce": "GENERADOR_7500W_AVR",
     "tipo_cruce": "EQUIVALENTE_TECNICO",
     "nivel_prioridad": 2,
     "especificaciones_exactas": "GENERADOR_7500W_AVR",
     "filtro_calidad": {
       "precio_suelo_obramat": 1169.0,
-      "umbral_descarte_bricolaje_60pct": 701.4
+      "banda_min_precio": 759.85,
+      "banda_max_precio": 1578.15
     },
     "obramat": {
       "id_obramat": "25021978",
@@ -283,7 +300,8 @@
     "especificaciones_exactas": "GENERADOR_4600W_INVERTER",
     "filtro_calidad": {
       "precio_suelo_obramat": 699.0,
-      "umbral_descarte_bricolaje_60pct": 419.4
+      "banda_min_precio": 454.35,
+      "banda_max_precio": 943.65
     },
     "obramat": {
       "id_obramat": "25096156",
@@ -298,34 +316,14 @@
     }
   },
   {
-    "id_cruce": "GENERADOR_3000W_AVR",
-    "tipo_cruce": "EQUIVALENTE_TECNICO",
-    "nivel_prioridad": 2,
-    "especificaciones_exactas": "GENERADOR_3000W_AVR",
-    "filtro_calidad": {
-      "precio_suelo_obramat": 695.0,
-      "umbral_descarte_bricolaje_60pct": 417.0
-    },
-    "obramat": {
-      "id_obramat": "10761772",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 3000W MOTOR HONDA GX160 AYERBE AY–3800 H MN",
-      "precio_churra": 695.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-3000w-motor-honda-gx160-ayerbe-ay-3800-h-mn-10761772.html",
-      "total_modelos_en_gama": 1
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-inverter-hyundai-hy3000i-de-3000w-83671430.html"
-    }
-  },
-  {
     "id_cruce": "GENERADOR_7000W_AVR",
     "tipo_cruce": "EQUIVALENTE_TECNICO",
     "nivel_prioridad": 2,
     "especificaciones_exactas": "GENERADOR_7000W_AVR",
     "filtro_calidad": {
       "precio_suelo_obramat": 645.0,
-      "umbral_descarte_bricolaje_60pct": 387.0
+      "banda_min_precio": 419.25,
+      "banda_max_precio": 870.75
     },
     "obramat": {
       "id_obramat": "10965262",
@@ -346,7 +344,8 @@
     "especificaciones_exactas": "GENERADOR_7000W_AVR",
     "filtro_calidad": {
       "precio_suelo_obramat": 645.0,
-      "umbral_descarte_bricolaje_60pct": 387.0
+      "banda_min_precio": 419.25,
+      "banda_max_precio": 870.75
     },
     "obramat": {
       "id_obramat": "10965262",
@@ -357,28 +356,7 @@
       "total_modelos_en_gama": 1
     },
     "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-pramac-px-8000-4-8-kw-arranque-electrico-400v-69-db-salida-trifasica-de-7000w-con-avr-para-maquinaria-industrial-16698654.html"
-    }
-  },
-  {
-    "id_cruce": "GENERADOR_5500W_AVR",
-    "tipo_cruce": "EQUIVALENTE_TECNICO",
-    "nivel_prioridad": 2,
-    "especificaciones_exactas": "GENERADOR_5500W_AVR",
-    "filtro_calidad": {
-      "precio_suelo_obramat": 539.0,
-      "umbral_descarte_bricolaje_60pct": 323.4
-    },
-    "obramat": {
-      "id_obramat": "10965255",
-      "titulo": "GENERADOR ELÉCTRICO GASOLINA 5500W GENERGY TURBO 5500E",
-      "precio_churra": 539.0,
-      "ref_fabricante": null,
-      "url": "https://www.obramat.es/productos/generador-electrico-gasolina-5500w-genergy-turbo-5500e-10965255.html",
-      "total_modelos_en_gama": 1
-    },
-    "leroy_merlin": {
-      "url_candidata": "https://www.leroymerlin.es/productos/generador-6-5-kva-5500w-4t-motor-de-gasolina-10h-de-autonomia-13-cv-monofasico-389cm3-avr-vito-81867518.html"
+      "url_candidata": "https://www.leroymerlin.es/productos/generador-gasolina-genergy-mulhacen-7000w-de-potencia-maxima-arranque-electrico-82091738.html"
     }
   },
   {
@@ -388,7 +366,8 @@
     "especificaciones_exactas": "GENERADOR_3300W_AVR",
     "filtro_calidad": {
       "precio_suelo_obramat": 299.0,
-      "umbral_descarte_bricolaje_60pct": 179.4
+      "banda_min_precio": 194.35,
+      "banda_max_precio": 403.65
     },
     "obramat": {
       "id_obramat": "10965241",
@@ -409,7 +388,8 @@
     "especificaciones_exactas": "GENERADOR_3300W_AVR",
     "filtro_calidad": {
       "precio_suelo_obramat": 299.0,
-      "umbral_descarte_bricolaje_60pct": 179.4
+      "banda_min_precio": 194.35,
+      "banda_max_precio": 403.65
     },
     "obramat": {
       "id_obramat": "10965241",
@@ -430,7 +410,8 @@
     "especificaciones_exactas": "GENERADOR_2800W_AVR",
     "filtro_calidad": {
       "precio_suelo_obramat": 279.0,
-      "umbral_descarte_bricolaje_60pct": 167.4
+      "banda_min_precio": 181.35,
+      "banda_max_precio": 376.65
     },
     "obramat": {
       "id_obramat": "10965206",
@@ -451,7 +432,8 @@
     "especificaciones_exactas": "SOLDADOR_MMA_200A",
     "filtro_calidad": {
       "precio_suelo_obramat": 195.0,
-      "umbral_descarte_bricolaje_60pct": 117.0
+      "banda_min_precio": 126.75,
+      "banda_max_precio": 263.25
     },
     "obramat": {
       "id_obramat": "25120274",
@@ -472,7 +454,8 @@
     "especificaciones_exactas": "SOLDADOR_MMA_200A",
     "filtro_calidad": {
       "precio_suelo_obramat": 195.0,
-      "umbral_descarte_bricolaje_60pct": 117.0
+      "banda_min_precio": 126.75,
+      "banda_max_precio": 263.25
     },
     "obramat": {
       "id_obramat": "25120274",
@@ -493,7 +476,8 @@
     "especificaciones_exactas": "SOLDADOR_MMA_160A",
     "filtro_calidad": {
       "precio_suelo_obramat": 145.0,
-      "umbral_descarte_bricolaje_60pct": 87.0
+      "banda_min_precio": 94.25,
+      "banda_max_precio": 195.75
     },
     "obramat": {
       "id_obramat": "25080978",
@@ -505,6 +489,86 @@
     },
     "leroy_merlin": {
       "url_candidata": "https://www.leroymerlin.es/productos/soldadora-de-hilo-continuo-caster-mig-160amp-con-doble-funcion-mig-mma-certificado-ce-82956696.html"
+    }
+  },
+  {
+    "id_cruce": "25026625_A100",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "marca": "GRACO",
+    "nivel_prioridad": 1,
+    "obramat": {
+      "id_obramat": "25026625",
+      "referencia_local": "25026625",
+      "titulo": "PULVERIZADOR DE PINTURA AIRLESS GRACO MAGNUM A100 PRO PLUS",
+      "ref_fabricante": "MAGNUM A100 PRO PLUS",
+      "url": "https://www.obramat.es/productos/airless-graco-magnum-a100-pro-25026625.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/turbina-pintura-alta-presion-graco-a100-1-8lt-min-460w-207b-82114330.html"
+    }
+  },
+  {
+    "id_cruce": "10072095_PRO350M",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "marca": "WAGNER",
+    "nivel_prioridad": 1,
+    "obramat": {
+      "id_obramat": "10072095",
+      "referencia_local": "10072095",
+      "titulo": "PISTOLA DE PINTURA AIRLESS WAGNER CONTROL PRO 350 M",
+      "ref_fabricante": "CONTROL PRO 350 M",
+      "url": "https://www.obramat.es/productos/airless-wagner-pro350m-10072095.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/turbina-pintar-alta-presion-wagner-control-pro-350m-plus-con-prolongador-de-25cm-600-w-86821188.html"
+    }
+  },
+  {
+    "id_cruce": "10072094_PRO250R",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "marca": "WAGNER",
+    "nivel_prioridad": 1,
+    "obramat": {
+      "id_obramat": "10072094",
+      "referencia_local": "10072094",
+      "titulo": "PISTOLA DE PINTURA AIRLESS WAGNER CONTROL PRO 250 R",
+      "ref_fabricante": "CONTROL PRO 250 R",
+      "url": "https://www.obramat.es/productos/airless-wagner-pro250r-10072094.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/turbina-para-pintar-wagner-de-600-w-90774580.html"
+    }
+  },
+  {
+    "id_cruce": "25016694_EXT30",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "marca": "WAGNER",
+    "nivel_prioridad": 1,
+    "obramat": {
+      "id_obramat": "25016694",
+      "referencia_local": "25016694",
+      "titulo": "EXTENSIÓN 30CM HEA PRO 250-350 WAGNER",
+      "ref_fabricante": "HEA 30CM",
+      "url": "https://www.obramat.es/productos/extension-30cm-hea-pro250-350-25016694.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/prolongador-wagner-extension-30-cm-81871782.html"
+    }
+  },
+  {
+    "id_cruce": "10693431_EXT60",
+    "tipo_cruce": "HOMOLOGADO_DIRECTO",
+    "marca": "WAGNER",
+    "nivel_prioridad": 1,
+    "obramat": {
+      "id_obramat": "10693431",
+      "referencia_local": "10693431",
+      "titulo": "EXTENSIÓN 60CM HEA PRO 250-350 WAGNER",
+      "ref_fabricante": "HEA 60CM",
+      "url": "https://www.obramat.es/productos/extension-60cm-hea-pro250-350-10693431.html"
+    },
+    "leroy_merlin": {
+      "url_candidata": "https://www.leroymerlin.es/productos/prolongador-wagner-extension-60-cm-81871783.html"
     }
   }
 ]
